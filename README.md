@@ -1,7 +1,7 @@
 # Eugene
 
 Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style of **E. Fromont**, the Parisian music publisher active in the early 20th century. 
-The primary visual referencer are the Debussy works from the Fromont catalog of 1900–1910.
+The primary visual references are the Debussy works from the Fromont catalog of 1900–1910.
 
 The font is named after Eugène Fromont, founder of the publishing house.
 
