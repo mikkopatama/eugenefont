@@ -1,13 +1,13 @@
 # Eugene
 
-Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style of **E. Fromont**, the Parisian music publisher active in the early 20th century. 
-The primary visual references are the Debussy works from the Fromont catalog of 1900–1910.
+Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style of **E. Fromont**, the Parisian music publisher active from 1885 to 1992.
+The primary visual references are Debussy works from the Fromont catalog, including: Prélude à "l'Après-midi d'un faune" (1895), Ariettes Oubliées (1903), Suite bergamasque (1905).
 
 The font is named after Eugène Fromont, founder of the publishing house.
 
 > **Version 0.5 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
 > Glyph coverage will expand in future releases.
-All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica). The engraving tradition differs in several respects from Bravura, Leland, and other contemporary SMuFL fonts.
+All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica).
 ---
 
 ## Files
@@ -17,6 +17,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
 | `Eugene.json` | SMuFL font metadata |
 | `LICENSE.txt` | SIL Open Font License 1.1 |
+| `Glyph list.txt` | List of currently included glyphs (omitting Bravura fallback glyphs) |
 
 ---
 
