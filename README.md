@@ -18,6 +18,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 | `Eugene.json` | SMuFL font metadata |
 | `LICENSE.txt` | SIL Open Font License 1.1 |
 | `Glyph list.txt` | List of currently included glyphs (omitting Bravura fallback glyphs) |
+| `FONTLOG.txt` | Change log |
 
 ---
 
