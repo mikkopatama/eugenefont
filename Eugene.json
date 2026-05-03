@@ -20995,7 +20995,7 @@
       "splitStemDownNW": [0.12, -0.416],
       "splitStemUpSE": [1.092, 0.392],
       "splitStemUpSW": [0.312, 0.356],
-      "stemDownNW": [0.005, -0.16],
+      "stemDownNW": [0.0, -0.168],
       "stemUpSE": [1.168, 0.2]
     },
     "noteheadBlackOversized": {
