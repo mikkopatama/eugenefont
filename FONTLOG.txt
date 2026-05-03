@@ -31,3 +31,6 @@ Change log
 - Modified: 
 - Placements of U+E4A0 Accent above and E4A1 Accent below, changed glyphAdvanceWidths 	in Eugene.json
 
+Fixed:
+- noteheadBlack stemDownNW anchor point to [0.0, -0.168].
+
