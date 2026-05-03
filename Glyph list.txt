@@ -1,7 +1,7 @@
 Eugene music font glyph list
 
 Updated: May 3, 2026
-Glyph count: 83
+Number of glyphs: 86
 
 In Eugene.otf font file, the glyphs that are not listed here are from Bravura SMuFL reference font, designed by Daniel Spreadbury et. al for Steinberg.
 
@@ -97,6 +97,9 @@ U+E4A0	Accent above
 U+E4A1	Accent below
 U+E4A4	Tenuto above
 U+E4A5	Tenuto below
+U+E4AC	Marcato above
+U+E4B4 	Tenuto-accent above
+U+E4B5 	Tenuto-accent below
 
 —
 Holds and pauses
@@ -129,7 +132,7 @@ U+E510	Ottava
 U+E511	Ottava alta
 U+E512	Ottava bassa
 U+E513 	Ottava bassa (ba)
-u+E51C	Ottava bassa (8vb)
+U+E51C	Ottava bassa (8vb)
 
 
 --
@@ -164,5 +167,5 @@ U+E566	Trill
 Tuplets
 --
 U+E882	Tuplet 2
-U0E883	Tuplet 3
+U+E883	Tuplet 3
 U+E886	Tuplet 6
