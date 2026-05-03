@@ -1,6 +1,7 @@
 FONTLOG for Eugene music font
 
-Eugene is a SMuFL-compliant OpenType music font inspired by the engraving style of E. Fromont, the Parisian music publisher active from 1885 to 1922. The primary visual references are Debussy works from the Fromont catalog, including: Prélude à "l'Après-midi d'un faune" (1895), Ariettes Oubliées (1903), Suite bergamasque (1905).
+Eugene is a SMuFL-compliant OpenType music font inspired by the engraving style of E. Fromont
+publications.
 The font is licensed under the SIL Open Font License, Version 1.1.
 
 https://github.com/mikkopatama/eugenefont
