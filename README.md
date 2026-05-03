@@ -1,6 +1,6 @@
 # Eugene
 
-Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style of **E. Fromont**, the Parisian music publisher active from 1885 to 1992.
+Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style of **E. Fromont**, the Parisian music publisher active from 1885 to 1922.
 The primary visual references are Debussy works from the Fromont catalog, including: Prélude à "l'Après-midi d'un faune" (1895), Ariettes Oubliées (1903), Suite bergamasque (1905).
 
 The font is named after Eugène Fromont, founder of the publishing house.
