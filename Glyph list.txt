@@ -1,7 +1,7 @@
 Eugene music font glyph list
 
-Updated: May 3, 2026
-Number of glyphs: 86
+Updated: May 4, 2026
+Number of glyphs: 95
 
 In Eugene.otf font file, the glyphs that are not listed here are from Bravura SMuFL reference font, designed by Daniel Spreadbury et. al for Steinberg.
 
