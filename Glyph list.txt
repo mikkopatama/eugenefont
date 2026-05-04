@@ -159,8 +159,16 @@ U+E536	sf
 --
 Common ornaments
 --
-
+U+E4CE Breath mark (comma)
 U+E566	Trill	
+U+E567 Turn
+U+E568 Inverted turn
+U+E569 Turn with slash
+U+E56A Turn up
+U+E56B Inverted turn up
+U+E56C Short trill
+U+E56D Mordent
+U+E56E Treblement
 
 
 --
