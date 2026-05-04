@@ -792,7 +792,7 @@
     "brassScoop": 1.272,
     "brassSmear": 1.228,
     "brassValveTrill": 1.22,
-    "breathMarkComma": 0.612,
+    "breathMarkComma": 0.668,
     "breathMarkSalzedo": 2.1,
     "breathMarkTick": 2.0,
     "breathMarkUpbow": 1.0,
@@ -2528,7 +2528,7 @@
     "ornamentLowRightConcaveStroke": 1.304,
     "ornamentLowRightConvexStroke": 1.916,
     "ornamentMiddleVerticalStroke": 0.004,
-    "ornamentMordent": 2.916,
+    "ornamentMordent": 2.948,
     "ornamentObliqueLineAfterNote": 1.252,
     "ornamentObliqueLineBeforeNote": 1.256,
     "ornamentObliqueLineHorizAfterNote": 1.94,
@@ -2570,18 +2570,18 @@
     "ornamentShakeMuffat1": 0.876,
     "ornamentShortObliqueLineAfterNote": 0.804,
     "ornamentShortObliqueLineBeforeNote": 0.804,
-    "ornamentShortTrill": 2.92,
+    "ornamentShortTrill": 2.94,
     "ornamentTopLeftConcaveStroke": 1.396,
     "ornamentTopLeftConvexStroke": 1.132,
     "ornamentTopRightConcaveStroke": 1.752,
     "ornamentTopRightConvexStroke": 0.46,
-    "ornamentTremblement": 3.94,
+    "ornamentTremblement": 4.05,
     "ornamentTremblementCouperin": 2.44,
     "ornamentTrill": 2.084,
     "ornamentTrillFlatAbove": 2.084,
     "ornamentTrillNaturalAbove": 2.084,
     "ornamentTrillSharpAbove": 2.084,
-    "ornamentTurn": 1.84,
+    "ornamentTurn": 1.80,
     "ornamentTurnFlatAbove": 1.84,
     "ornamentTurnFlatAboveSharpBelow": 1.84,
     "ornamentTurnFlatBelow": 1.84,
@@ -2591,9 +2591,9 @@
     "ornamentTurnSharpAbove": 1.84,
     "ornamentTurnSharpAboveFlatBelow": 1.84,
     "ornamentTurnSharpBelow": 1.84,
-    "ornamentTurnSlash": 1.84,
-    "ornamentTurnUp": 0.872,
-    "ornamentTurnUpS": 0.868,
+    "ornamentTurnSlash": 1.8,
+    "ornamentTurnUp": 0.696,
+    "ornamentTurnUpS": 0.696,
     "ornamentUpCurve": 1.568,
     "ornamentVerticalLine": 0.108,
     "ornamentZigZagLineNoRightEnd": 1.048,
@@ -13435,7 +13435,7 @@
       "bBoxSW": [-0.056, -0.244]
     },
     "ornamentMordent": {
-      "bBoxNE": [2.916, 1.276],
+      "bBoxNE": [2.948, 1.276],
       "bBoxSW": [0.004, -0.292]
     },
     "ornamentObliqueLineAfterNote": {
@@ -13623,7 +13623,7 @@
       "bBoxSW": [-0.388, 0.236]
     },
     "ornamentTremblement": {
-      "bBoxNE": [3.94, 0.976],
+      "bBoxNE": [4.05, 0.976],
       "bBoxSW": [0.004, 0.0]
     },
     "ornamentTremblementCouperin": {
@@ -13647,7 +13647,7 @@
       "bBoxSW": [0.824, -0.04]
     },
     "ornamentTurn": {
-      "bBoxNE": [1.84, 0.872],
+      "bBoxNE": [1.80, 0.872],
       "bBoxSW": [0.0, 0.0]
     },
     "ornamentTurnFlatAbove": {
@@ -13687,15 +13687,15 @@
       "bBoxSW": [0.0, -1.97956]
     },
     "ornamentTurnSlash": {
-      "bBoxNE": [1.84, 1.224],
+      "bBoxNE": [1.8, 1.224],
       "bBoxSW": [0.0, -0.36]
     },
     "ornamentTurnUp": {
-      "bBoxNE": [0.872, 1.84],
+      "bBoxNE": [0.696, 1.84],
       "bBoxSW": [0.0, 0.0]
     },
     "ornamentTurnUpS": {
-      "bBoxNE": [0.86, 1.84],
+      "bBoxNE": [0.696, 1.84],
       "bBoxSW": [-0.012, 0.0]
     },
     "ornamentUpCurve": {
