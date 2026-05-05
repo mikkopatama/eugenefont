@@ -3144,16 +3144,16 @@
     "timeSig1Reversed": 1.336,
     "timeSig1Small": 1.444,
     "timeSig1Turned": 1.336,
-    "timeSig2": 1.472,
-    "timeSig2Denominator": 1.664,
+    "timeSig2": 1.48,
+    "timeSig2Denominator": 1.48,
     "timeSig2Large": 0.528,
     "timeSig2Narrow": 0.976,
-    "timeSig2Numerator": 1.656,
+    "timeSig2Numerator": 1.48,
     "timeSig2Reversed": 1.784,
     "timeSig2Small": 1.784,
     "timeSig2Turned": 1.784,
-    "timeSig2over2": 1.78,
-    "timeSig2over4": 1.848,
+    "timeSig2over2": 1.48,
+    "timeSig2over4": 1.48,
     "timeSig3": 1.684,
     "timeSig3Denominator": 1.544,
     "timeSig3Large": 0.52,
@@ -3194,16 +3194,16 @@
     "timeSig6Turned": 1.736,
     "timeSig6over4": 1.88,
     "timeSig6over8": 1.724,
-    "timeSig7": 1.764,
-    "timeSig7Denominator": 1.764,
+    "timeSig7": 1.54,
+    "timeSig7Denominator": 1.54,
     "timeSig7Large": 0.512,
     "timeSig7Narrow": 0.968,
-    "timeSig7Numerator": 1.764,
-    "timeSig7Reversed": 1.764,
-    "timeSig7Small": 1.764,
-    "timeSig7Turned": 1.764,
+    "timeSig7Numerator": 1.54,
+    "timeSig7Reversed": 1.54,
+    "timeSig7Small": 1.54,
+    "timeSig7Turned": 1.54,
     "timeSig7over8": 1.664,
-    "timeSig8": 1.508,
+    "timeSig8": 1.416,
     "timeSig8Denominator": 1.744,
     "timeSig8Large": 0.52,
     "timeSig8Narrow": 0.96,
@@ -3211,7 +3211,7 @@
     "timeSig8Reversed": 1.744,
     "timeSig8Small": 1.744,
     "timeSig8Turned": 1.744,
-    "timeSig9": 1.484,
+    "timeSig9": 1.568,
     "timeSig9Denominator": 1.736,
     "timeSig9Large": 0.512,
     "timeSig9Narrow": 0.948,
@@ -15835,12 +15835,12 @@
       "bBoxSW": [0.08, -1.0]
     },
     "timeSig2": {
-      "bBoxNE": [1.704, 1.016],
+      "bBoxNE": [1.48, 1.016],
       "bBoxSW": [0.08, -1.028]
     },
     "timeSig2Denominator": {
-      "bBoxNE": [1.624, 2.016],
-      "bBoxSW": [0.0, -0.028]
+      "bBoxNE": [1.48, 2.016],
+      "bBoxSW": [0.0, -1.028]
     },
     "timeSig2Large": {
       "bBoxNE": [0.512, 1.0],
@@ -15851,7 +15851,7 @@
       "bBoxSW": [0.0, -1.016]
     },
     "timeSig2Numerator": {
-      "bBoxNE": [1.624, 4.016],
+      "bBoxNE": [1.48, 4.016],
       "bBoxSW": [0.0, 1.972]
     },
     "timeSig2Reversed": {
@@ -15867,11 +15867,11 @@
       "bBoxSW": [0.08, -1.028]
     },
     "timeSig2over2": {
-      "bBoxNE": [1.704, 4.016],
+      "bBoxNE": [1.48, 4.016],
       "bBoxSW": [0.08, -0.028]
     },
     "timeSig2over4": {
-      "bBoxNE": [1.8, 4.016],
+      "bBoxNE": [1.48, 4.016],
       "bBoxSW": [0.08, 0.0]
     },
     "timeSig3": {
@@ -15995,7 +15995,7 @@
       "bBoxSW": [0.08, -0.036]
     },
     "timeSig6": {
-      "bBoxNE": [1.656, 1.004],
+      "bBoxNE": [1.516, 1.004],
       "bBoxSW": [0.08, -0.996]
     },
     "timeSig6Denominator": {
@@ -16019,7 +16019,7 @@
       "bBoxSW": [0.08, -0.996]
     },
     "timeSig6Small": {
-      "bBoxNE": [1.656, 1.0],
+      "bBoxNE": [1.516, 1.0],
       "bBoxSW": [0.08, -1.0]
     },
     "timeSig6Turned": {
@@ -16027,19 +16027,19 @@
       "bBoxSW": [0.08, -0.996]
     },
     "timeSig6over4": {
-      "bBoxNE": [1.8, 4.004],
+      "bBoxNE": [1.516, 4.004],
       "bBoxSW": [0.08, 0.0]
     },
     "timeSig6over8": {
-      "bBoxNE": [1.664, 4.004],
+      "bBoxNE": [1.516, 4.004],
       "bBoxSW": [0.08, -0.036]
     },
     "timeSig7": {
-      "bBoxNE": [1.684, 0.996],
+      "bBoxNE": [1.54, 0.996],
       "bBoxSW": [0.08, -1.0]
     },
     "timeSig7Denominator": {
-      "bBoxNE": [1.684, 1.996],
+      "bBoxNE": [1.54, 1.996],
       "bBoxSW": [0.08, 0.0]
     },
     "timeSig7Large": {
@@ -16051,23 +16051,23 @@
       "bBoxSW": [0.0, -0.996]
     },
     "timeSig7Numerator": {
-      "bBoxNE": [1.684, 3.996],
+      "bBoxNE": [1.54, 3.996],
       "bBoxSW": [0.08, 2.0]
     },
     "timeSig7Reversed": {
-      "bBoxNE": [1.684, 0.996],
+      "bBoxNE": [1.54, 0.996],
       "bBoxSW": [0.08, -1.0]
     },
     "timeSig7Small": {
-      "bBoxNE": [1.684, 0.996],
+      "bBoxNE": [1.54, 0.996],
       "bBoxSW": [0.08, -1.0]
     },
     "timeSig7Turned": {
-      "bBoxNE": [1.684, 0.996],
+      "bBoxNE": [1.54, 0.996],
       "bBoxSW": [0.08, -1.0]
     },
     "timeSig7over8": {
-      "bBoxNE": [1.684, 3.996],
+      "bBoxNE": [1.54, 3.996],
       "bBoxSW": [0.08, -0.036]
     },
     "timeSig8": {
