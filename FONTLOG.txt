@@ -11,8 +11,14 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+5 May 2026
+
+v. 0.502
+- Updated most of the existing glyphs, especially clefs and time signature numbers, for more consistend rendering on different notation apps. Lots of tidying up done, removing unecessary overlaps, correcting path directions and simplifying paths and making complex shapes moer symmetrical.
+
 4 May 2026
 
+v. 0.501
 - Added:
 	U+E4CE Breath mark (comma)
 	U+E567 Turn
