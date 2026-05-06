@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": 0.5,
+  "fontVersion": 0.503,
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.4,
@@ -2218,7 +2218,7 @@
     "noteTiBlack": 1.432,
     "noteTiHalf": 1.44,
     "noteTiWhole": 1.944,
-    "noteWhole": 1.836,
+    "noteWhole": 1.644,
     "noteheadBlack": 1.168,
     "noteheadBlackOversized": 1.316,
     "noteheadBlackParens": 1.832,
@@ -12199,11 +12199,11 @@
       "bBoxSW": [0.0, -0.584]
     },
     "noteWhole": {
-      "bBoxNE": [1.836, 0.544],
+      "bBoxNE": [1.644, 0.544],
       "bBoxSW": [0.0, -0.548]
     },
     "noteheadBlack": {
-      "bBoxNE": [1.18, 0.5],
+      "bBoxNE": [1.168, 0.5],
       "bBoxSW": [0.0, -0.5]
     },
     "noteheadBlackOversized": {
