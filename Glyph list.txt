@@ -1,7 +1,7 @@
 Eugene music font glyph list
 
-Updated: May 4, 2026
-Number of glyphs: 95
+Updated: May 6, 2026
+Number of glyphs: 107
 
 In Eugene.otf font file, the glyphs that are not listed here are from Bravura SMuFL reference font, designed by Daniel Spreadbury et. al for Steinberg.
 
@@ -25,8 +25,13 @@ U+E051 G clef quindicesima bassa
 U+E052 G clef ottava bassa
 U+E053 G clef ottava alta
 U+E054 G clef quindicesima alta
+U+E056 G clef ottava bassa with C clef
+U+E057 G clef, optionally ottava bassa
 U+E05C C clef
+U+E05D C clef ottava bassa
 U+E062 F clef
+U+E064 F clef ottava bassa
+U+E065 F clef ottava alta
 U+E073 Reversed G clef
 U+E074 Turned G clef
 U+E075 Turned C clef
@@ -50,6 +55,7 @@ U+E088	Time signature 8
 U+E089	Time signature 9
 U+E08A	Common time
 U+E08B	Cut time
+U+E096	Time signature comma
 
 
 —
@@ -60,6 +66,18 @@ U+E0A2	Whole (semibreve) notehead
 U+E0A3	Half (minim) notehead
 U+E0A4	Black notehead
 U+E0CF	Slashed black notehead (bottom left to top right)
+
+
+
+-
+Individual notes
+-
+U+E1D2	Whole note (semibreve)
+U+E1D3	Half note (minim) stem up
+U+E1D4	Half note (minim) stem down
+U+E1D5	Quarter note (crotchet) stem up
+U+E1D6	Quarter note (crotchet) stem down
+
 
 
 —
@@ -78,6 +96,7 @@ U+E240 	Combining flag 1 (8th) above
 U+E241	Combining flag 1 (8th) below
 U+E242	Combining flag 2 (16th) above
 U+E243	Combining flag 2 (16th) below
+U+E244	Combining flag 3 (32th) above
 
 
 —
