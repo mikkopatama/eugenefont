@@ -11,6 +11,37 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+7 may 2026 (v. 0.504)
+
+- Created a pdf list of all currently available glyphs, replacing "Glyph list.txt"
+
+- Added
+U+E007–E009 System dividers
+U+E263	doubleSharp
+U+E265	triplesharp
+U+E266	tripleflat
+U+E267	naturalflat
+U+E268	naturalsharp
+U+E269	sharpsharp
+	
+U+F408 French style C clef, as found on Prélude à "l'Après-midi d'un faune" from 1895
+U+E4CC-E4CD ShortFermataAbove and Below
+	
+	
+
+Modified:
+- Several time signature numbers are now much more balanced and consistent in style
+- Ottava number 8 was redrawn from a better reference, updated all glyphs that include 8,
+including clefs and ottava signs
+- Ottava alta and ottava bassa got a new letter "a", similar to E. Fromont editions which either
+use just "8" or "8a" for ottava signs
+- All p and f signs got a new look
+- mezzo m is not as weird anymore
+
+
+
+---------------------------------
+
 6 May 2026
 -Added:
 U+E056 G clef ottava bassa with C clef
@@ -31,11 +62,14 @@ U+E244	Combining flag 3 (32th) above (will improve later)
 - Tidying up Time signature 9 and comma signs
 
 
+---------------------------------
 
 5 May 2026
 
 v. 0.502
 - Updated most of the existing glyphs, especially clefs and time signature numbers, for more consistend rendering on different notation apps. Lots of tidying up done, removing unecessary overlaps, correcting path directions and simplifying paths and making complex shapes more symmetrical.
+
+---------------------------------
 
 4 May 2026
 
@@ -54,6 +88,7 @@ v. 0.501
 Fixed:
 - Time signature 0
 
+---------------------------------
 
 3 May 2026
 
