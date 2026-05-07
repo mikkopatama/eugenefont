@@ -2598,9 +2598,9 @@
     "ornamentVerticalLine": 0.108,
     "ornamentZigZagLineNoRightEnd": 1.048,
     "ornamentZigZagLineWithRightEnd": 1.428,
-    "ottava": 1.544,
-    "ottavaAlta": 3.54,
-    "ottavaBassa": 3.356,
+    "ottava": 1.344,
+    "ottavaAlta": 2.236,
+    "ottavaBassa": 2.236,
     "ottavaBassaBa": 3.5,
     "ottavaBassaVb": 3.184,
     "pendereckiTremolo": 0.684,
@@ -13715,15 +13715,15 @@
       "bBoxSW": [-0.216, 0.0]
     },
     "ottava": {
-      "bBoxNE": [1.544, 1.852],
+      "bBoxNE": [1.344, 1.852],
       "bBoxSW": [0.0, -0.04]
     },
     "ottavaAlta": {
-      "bBoxNE": [3.54, 1.852],
+      "bBoxNE": [2.236, 1.852],
       "bBoxSW": [0.0, -0.04]
     },
     "ottavaBassa": {
-      "bBoxNE": [3.356, 1.852],
+      "bBoxNE": [2.236, 1.852],
       "bBoxSW": [0.0, -0.04]
     },
     "ottavaBassaBa": {
