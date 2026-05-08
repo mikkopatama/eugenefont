@@ -7,7 +7,6 @@ The font is licensed under the SIL Open Font License, Version 1.1.
 https://github.com/mikkopatama/eugenefont
 
 
-
 Change log
 ----------
 
@@ -16,58 +15,51 @@ Change log
 - Created a pdf list of all currently available glyphs, replacing "Glyph list.txt"
 
 - Added
-U+E007–E009 System dividers
-U+E263	doubleSharp
-U+E265	triplesharp
-U+E266	tripleflat
-U+E267	naturalflat
-U+E268	naturalsharp
-U+E269	sharpsharp
+	U+E007–E009  System dividers
+	U+E263	Double sharp
+	U+E265	Triple sharp
+	U+E266	Triple flat
+	U+E267	Natural flat
+	U+E268	Natural sharp
+	U+E269	Sharp sharp
 	
-U+F408 French style C clef, as found on Prélude à "l'Après-midi d'un faune" from 1895
-U+E4CC-E4CD ShortFermataAbove and Below
-	
-	
+	U+F408  French style C clef, as found on Prélude à "l'Après-midi d'un faune" from 1895
+	U+E4CC-E4CD  Short fermata above and below
 
-Modified:
-- Several time signature numbers are now much more balanced and consistent in style
-- Ottava number 8 was redrawn from a better reference, updated all glyphs that include 8,
-including clefs and ottava signs
-- Ottava alta and ottava bassa got a new letter "a", similar to E. Fromont editions which either
-use just "8" or "8a" for ottava signs
-- All p and f signs got a new look
-- mezzo m is not as weird anymore
-
-
+- Modified:
+	- Several time signature numbers are now much more balanced and consistent in style
+	- Ottava number 8 was redrawn from a better reference, updated all glyphs that include 8, including clefs and ottava signs
+	- Ottava alta and ottava bassa got a new letter "a", similar to E. Fromont editions which either use just "8" or "8a" for ottava signs
+	- All p and f signs got a new look
+	- mezzo m is not as weird anymore
 
 ---------------------------------
 
 6 May 2026
--Added:
-U+E056 G clef ottava bassa with C clef
-U+E057 G clef, optionally ottava bassa
-U+E064 F clef ottava bassa
-U+E065 F clef ottava alta
+- Added:
+	U+E056  G clef ottava bassa with C clef
+	U+E057  G clef, optionally ottava bassa
+	U+E064  F clef ottava bassa
+	U+E065  F clef ottava alta
 
-U+E1D2	Whole note (semibreve)
-U+E1D3	Half note (minim) stem up
-U+E1D4	Half note (minim) stem down
-U+E1D5	Quarter note (crotchet) stem up
-U+E1D6	Quarter note (crotchet) stem down
+	U+E1D2	Whole note (semibreve)
+	U+E1D3	Half note (minim) stem up
+	U+E1D4	Half note (minim) stem down
+	U+E1D5	Quarter note (crotchet) stem up
+	U+E1D6	Quarter note (crotchet) stem down
 
-U+E244	Combining flag 3 (32th) above (will improve later)
+	U+E244	Combining flag 3 (32th) above (will improve later)
 
--Fixed:
-- Flat signs should now include the whole also on musescore, corrected path directions.
-- Tidying up Time signature 9 and comma signs
-
+- Fixed:
+	- Flat signs should now include the whole also in MuseScore 3.7 Evolution and MuseScore Studio 4.6 and later, corrected path directions.
+	- Tidying up Time signature 9 and comma signs
 
 ---------------------------------
 
 5 May 2026
 
 v. 0.502
-- Updated most of the existing glyphs, especially clefs and time signature numbers, for more consistend rendering on different notation apps. Lots of tidying up done, removing unecessary overlaps, correcting path directions and simplifying paths and making complex shapes more symmetrical.
+- Updated most of the existing glyphs, especially clefs and time signature numbers, for more consistent rendering on different notation apps. Lots of tidying up done, removing unnecessary overlaps, correcting path directions and simplifying paths and making complex shapes more symmetrical.
 
 ---------------------------------
 
@@ -75,18 +67,18 @@ v. 0.502
 
 v. 0.501
 - Added:
-	U+E4CE Breath mark (comma)
-	U+E567 Turn
-	U+E568 Inverted turn
-	U+E569 Turn with slash
-	U+E56A Turn up
-	U+E56B Inverted turn up
-	U+E56C Short trill
-	U+E56D Mordent
-	U+E56E Treblement
+	U+E4CE  Breath mark (comma)
+	U+E567  Turn
+	U+E568  Inverted turn
+	U+E569  Turn with slash
+	U+E56A  Turn up
+	U+E56B  Inverted turn up
+	U+E56C  Short trill
+	U+E56D  Mordent
+	U+E56E  Treblement
 
-Fixed:
-- Time signature 0
+- Fixed:
+	Time signature 0
 
 ---------------------------------
 
@@ -95,22 +87,22 @@ Fixed:
 - Published the font on Github
 
 - Added: 
-	U+E4AC Marcato above
-	U+E4AC Marcato below
-	U+E4AE Marcato-staccato above
-	U+E4AF Marcato-staccato below
-	U+E4B0 Accent-staccato above
-	U+E4B1 Accent-staccato below
-	U+E4B2 Tenuto-staccato above
-	U+E4B3 Tenuto-staccato below
-	U+E4B4 Tenuto-accent above
-	U+E4B5 Tenuto-accent below
-	U+E4BC Marcato-tenuto above
-	U+E4BD Marcato-tenuto below
+	U+E4AC  Marcato above
+	U+E4AC  Marcato below
+	U+E4AE  Marcato-staccato above
+	U+E4AF  Marcato-staccato below
+	U+E4B0  Accent-staccato above
+	U+E4B1  Accent-staccato below
+	U+E4B2  Tenuto-staccato above
+	U+E4B3  Tenuto-staccato below
+	U+E4B4  Tenuto-accent above
+	U+E4B5  Tenuto-accent below
+	U+E4BC  Marcato-tenuto above
+	U+E4BD  Marcato-tenuto below
 - Modified: 
-- Placements of U+E4A0 Accent above and E4A1 Accent below, changed glyphAdvanceWidths 	in Eugene.json
+	- Placements of U+E4A0 Accent above and E4A1 Accent below, changed `glyphAdvanceWidths` in Eugene.json
 
-Fixed:
-- noteheadBlack stemDownNW anchor point
-- Fixed inner contour directions in G clef glyphs, half- and wholenote noteheads and accidentals.
+- Fixed:
+	- Black notehead's `stemDownNW` anchor point
+	- Fixed inner contour directions in G clef glyphs, half- and wholenote noteheads and accidentals.
 
