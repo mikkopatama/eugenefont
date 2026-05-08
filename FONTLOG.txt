@@ -10,7 +10,14 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
-7 may 2026 (v. 0.504)
+8 May 2026 (v. 0.5042)
+
+- Pdf list now has the glyph names in the same format as in the .json metadata.
+- Added
+	U+E280	Reversed flat (quarter-tone flat) (Stein)
+	U+E281	Reversed flat and flat (three-quarter-tones flat) (Zimmermann)
+
+7 May 2026 (v. 0.504)
 
 - Created a pdf list of all currently available glyphs, replacing "Glyph list.txt"
 
