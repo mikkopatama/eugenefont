@@ -17,7 +17,7 @@ Change log
 	- Quarter and half noteheads: the shapes are now closer to Fromont references and the notehead anchors are set correctly in the metadata
 
 
-Added:
+- Added:
 	Added EugeneText.otf, mostly BravuraText.otf glyphs for now but will update later with wider coverage.
 
 	U+E048 Coda
