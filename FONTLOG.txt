@@ -10,6 +10,34 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+9 May 2026 (v. 0.505)
+
+- Modified:
+	- Ligatures, so that Musescore 4.6 will now also load the compound dynamic symbols like ff and pp correctly.
+	- Quarter and half noteheads: the shapes are now closer to Fromont references and the notehead anchors are set correctly in the metadata
+
+
+Added:
+	Added EugeneText.otf, mostly BravuraText.otf glyphs for now but will update later with wider coverage.
+
+	U+E048 Coda
+	U+E0AA Ornate X notehead noteheadXOrnate
+	U+E0B6 Half notehead with X noteheadHalfWithX
+	U+E1D0 noteDoubleWhole
+	U+E1D7 note8thUp
+	U+E1D8 note8thDown
+	U+E523 dynamicRinforzando
+	U+E53C dynamicRinforzando1
+	U+ECA0 metNoteDoubleWhole
+	U+ECA2 metNoteWhole
+	U+ECA3 metNoteHalfUp
+	U+ECA4 metNoteHalfDown
+	U+ECA5 metNoteQuarterUp
+	U+ECA6 metNoteQuarterDown
+	U+ECA7 metNote8thUp
+	U+ECA8 metNote8thDown
+
+
 8 May 2026 (v. 0.5042)
 
 - Pdf list now has the glyph names in the same format as in the .json metadata.
