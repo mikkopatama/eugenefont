@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": 0.504,
+  "fontVersion": 0.505,
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.4,
@@ -887,7 +887,7 @@
     "clef15": 1.436,
     "clef8": 0.82,
     "clefChangeCombining": 0.0,
-    "coda": 3.816,
+    "coda": 1.936,
     "codaJapanese": 3.816,
     "codaSquare": 3.276,
     "conductorBeat2Compound": 2.876,
@@ -978,7 +978,7 @@
     "dynamicFFFF": 4.28,
     "dynamicFFFFF": 5.24,
     "dynamicFFFFFF": 6.2,
-    "dynamicForte": 1.456,
+    "dynamicForte": 1.444,
     "dynamicFortePiano": 2.476,
     "dynamicForteSmall": 1.78,
     "dynamicForzando": 1.988,
@@ -2007,15 +2007,15 @@
     "metNote512thUp": 2.168,
     "metNote64thDown": 1.328,
     "metNote64thUp": 2.148,
-    "metNote8thDown": 1.328,
-    "metNote8thUp": 2.136,
-    "metNoteDoubleWhole": 2.62,
+    "metNote8thDown": 1.172,
+    "metNote8thUp": 2.044,
+    "metNoteDoubleWhole": 2.39,
     "metNoteDoubleWholeSquare": 2.132,
-    "metNoteHalfDown": 1.364,
-    "metNoteHalfUp": 1.364,
-    "metNoteQuarterDown": 1.328,
-    "metNoteQuarterUp": 1.328,
-    "metNoteWhole": 1.836,
+    "metNoteHalfDown": 1.18,
+    "metNoteHalfUp": 1.18,
+    "metNoteQuarterDown": 1.17,
+    "metNoteQuarterUp": 1.17,
+    "metNoteWhole": 1.644,
     "metricModulationArrowLeft": 3.308,
     "metricModulationArrowRight": 3.308,
     "miscDoNotCopy": 4.52,
@@ -2079,7 +2079,7 @@
     "noteDoBlack": 1.432,
     "noteDoHalf": 1.44,
     "noteDoWhole": 1.944,
-    "noteDoubleWhole": 2.62,
+    "noteDoubleWhole": 2.39,
     "noteDoubleWholeAlt": 2.116,
     "noteDoubleWholeSquare": 2.132,
     "noteEBlack": 1.432,
@@ -2219,7 +2219,7 @@
     "noteTiHalf": 1.44,
     "noteTiWhole": 1.944,
     "noteWhole": 1.644,
-    "noteheadBlack": 1.168,
+    "noteheadBlack": 1.164,
     "noteheadBlackOversized": 1.316,
     "noteheadBlackParens": 1.832,
     "noteheadBlackSmall": 1.408,
@@ -6911,7 +6911,7 @@
       "bBoxSW": [0.0, 0.0]
     },
     "coda": {
-      "bBoxNE": [3.82, 3.592],
+      "bBoxNE": [1.936, 3.592],
       "bBoxSW": [-0.016, -0.632]
     },
     "codaJapanese": {
@@ -7239,7 +7239,7 @@
       "bBoxSW": [-0.62, -0.608]
     },
     "dynamicForte": {
-      "bBoxNE": [1.456, 1.776],
+      "bBoxNE": [1.444, 1.776],
       "bBoxSW": [-0.564, -0.608]
     },
     "dynamicFortePiano": {
@@ -11355,15 +11355,15 @@
       "bBoxSW": [0.0, -0.564]
     },
     "metNote8thDown": {
-      "bBoxNE": [1.328, 0.564],
+      "bBoxNE": [1.172, 0.564],
       "bBoxSW": [0.0, -2.824]
     },
     "metNote8thUp": {
-      "bBoxNE": [2.132, 2.784],
+      "bBoxNE": [2.044, 2.784],
       "bBoxSW": [0.0, -0.564]
     },
     "metNoteDoubleWhole": {
-      "bBoxNE": [2.62, 0.68],
+      "bBoxNE": [2.39, 0.68],
       "bBoxSW": [0.0, -0.672]
     },
     "metNoteDoubleWholeSquare": {
@@ -11371,23 +11371,23 @@
       "bBoxSW": [0.0, -0.76]
     },
     "metNoteHalfDown": {
-      "bBoxNE": [1.364, 0.564],
+      "bBoxNE": [1.18, 0.564],
       "bBoxSW": [0.0, -2.752]
     },
     "metNoteHalfUp": {
-      "bBoxNE": [1.364, 2.752],
+      "bBoxNE": [1.18, 2.752],
       "bBoxSW": [0.0, -0.564]
     },
     "metNoteQuarterDown": {
-      "bBoxNE": [1.328, 0.564],
+      "bBoxNE": [1.17, 0.564],
       "bBoxSW": [0.0, -2.752]
     },
     "metNoteQuarterUp": {
-      "bBoxNE": [1.328, 2.752],
+      "bBoxNE": [1.17, 2.752],
       "bBoxSW": [0.0, -0.564]
     },
     "metNoteWhole": {
-      "bBoxNE": [1.836, 0.592],
+      "bBoxNE": [1.644, 0.592],
       "bBoxSW": [0.0, -0.5]
     },
     "metricModulationArrowLeft": {
@@ -11643,7 +11643,7 @@
       "bBoxSW": [0.0, -0.584]
     },
     "noteDoubleWhole": {
-      "bBoxNE": [2.62, 0.68],
+      "bBoxNE": [2.39, 0.68],
       "bBoxSW": [0.0, -0.672]
     },
     "noteDoubleWholeAlt": {
@@ -20995,8 +20995,8 @@
       "splitStemDownNW": [0.12, -0.416],
       "splitStemUpSE": [1.092, 0.392],
       "splitStemUpSW": [0.312, 0.356],
-      "stemDownNW": [0.0, -0.136],
-      "stemUpSE": [1.168, 0.2]
+      "stemDownNW": [0.00, -0.148],
+      "stemUpSE": [1.14, 0.112]
     },
     "noteheadBlackOversized": {
       "splitStemDownNE": [1.048, -0.308],
@@ -21258,8 +21258,8 @@
       "splitStemDownNW": [0.128, -0.428],
       "splitStemUpSE": [1.108, 0.372],
       "splitStemUpSW": [0.328, 0.38],
-      "stemDownNW": [0.0, -0.144],
-      "stemUpSE": [1.18, 0.180]
+      "stemDownNW": [0.0, -0.148],
+      "stemUpSE": [1.24, 0.128]
     },
     "noteheadHalfOversized": {
       "splitStemDownNE": [1.028, -0.368],
