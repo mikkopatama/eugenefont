@@ -20,6 +20,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 |---|---|
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
+| `EugeneText.otf` | SMuFL-compliant OpenType music text font |
 | `Eugene.json` | SMuFL font metadata |
 | `LICENSE.txt` | SIL Open Font License 1.1 |
 | `FONTLOG.txt` | Change log |
@@ -28,7 +29,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ## Installation
 
-1. Copy `Eugene.otf` to `~/Library/Fonts/` (macOS) or `C:\Windows\Fonts\` (Windows)
+1. Copy `Eugene.otf` and `EugeneText.otf` to `~/Library/Fonts/` (macOS) or `C:\Windows\Fonts\` (Windows)
 2. Copy `Eugene.json` to:
    - macOS: `~/Library/Application Support/SMuFL/Fonts/Eugene/`
    - Windows: `%APPDATA%\SMuFL\Fonts\Eugene\`
