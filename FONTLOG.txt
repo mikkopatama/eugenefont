@@ -10,12 +10,24 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+10 May 2026 (v. 0.506)
+
+- Modified:
+	- EugeneText.otf, Musescore 3.7.0.25622582284 mac build is now showing the compound dynamic signs and segno and coda signs correctly
+	- Corrected anchor points for the new half notehead
+	- noteheadSlashedBlack1 now has the modified black notehead shape and correct anchor points
+	- flag32thUp looks much tidier now
+	- flag8thUp has tidier top
+
+- Added:
+	U+E0D0	noteheadSlashedBlack2
+	U+E0D1	noteheadSlashedHalf1
+
 9 May 2026 (v. 0.505)
 
 - Modified:
 	- Ligatures, so that Musescore 4.6 will now also load the compound dynamic symbols like ff and pp correctly.
 	- Quarter and half noteheads: the shapes are now closer to Fromont references and the notehead anchors are set correctly in the metadata
-
 
 - Added:
 	Added EugeneText.otf, mostly BravuraText.otf glyphs for now but will update later with wider coverage.
