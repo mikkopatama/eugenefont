@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": 0.505,
+  "fontVersion": 0.506,
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.4,
@@ -2314,7 +2314,7 @@
     "noteheadDoubleWholeSquare": 1.664,
     "noteheadDoubleWholeSquareOversized": 2.132,
     "noteheadDoubleWholeWithX": 2.388,
-    "noteheadHalf": 1.18,
+    "noteheadHalf": 1.24,
     "noteheadHalfFilled": 1.18,
     "noteheadHalfOversized": 1.316,
     "noteheadHalfParens": 1.864,
@@ -2381,11 +2381,11 @@
     "noteheadSlashWhiteWholeOversized": 4.704,
     "noteheadSlashX": 2.124,
     "noteheadSlashXOversized": 2.544,
-    "noteheadSlashedBlack1": 1.18,
-    "noteheadSlashedBlack2": 1.18,
+    "noteheadSlashedBlack1": 1.144,
+    "noteheadSlashedBlack2": 1.14,
     "noteheadSlashedDoubleWhole1": 2.384,
     "noteheadSlashedDoubleWhole2": 2.384,
-    "noteheadSlashedHalf1": 1.168,
+    "noteheadSlashedHalf1": 1.244,
     "noteheadSlashedHalf2": 1.172,
     "noteheadSlashedWhole1": 1.672,
     "noteheadSlashedWhole2": 1.672,
@@ -12583,7 +12583,7 @@
       "bBoxSW": [0.0, -0.616]
     },
     "noteheadHalf": {
-      "bBoxNE": [1.18, 0.5],
+      "bBoxNE": [1.24, 0.5],
       "bBoxSW": [0.0, -0.5]
     },
     "noteheadHalfFilled": {
@@ -12847,11 +12847,11 @@
       "bBoxSW": [0.0, -1.2]
     },
     "noteheadSlashedBlack1": {
-      "bBoxNE": [1.5, 0.668],
+      "bBoxNE": [1.144, 0.668],
       "bBoxSW": [-0.32, -0.66]
     },
     "noteheadSlashedBlack2": {
-      "bBoxNE": [1.504, 0.672],
+      "bBoxNE": [1.14, 0.672],
       "bBoxSW": [-0.316, -0.656]
     },
     "noteheadSlashedDoubleWhole1": {
@@ -21027,7 +21027,7 @@
     },
     "noteheadCircledBlack": {
       "stemDownNW": [0.0, -0.164],
-      "stemUpSE": [1.18, 0.168]
+      "stemUpSE": [1.14, 0.096]
     },
     "noteheadCircledBlackLarge": {
       "stemDownNW": [0.0, -0.168],
@@ -21451,12 +21451,12 @@
       "stemUpSE": [2.544, 1.2]
     },
     "noteheadSlashedBlack1": {
-      "stemDownNW": [0.0, -0.172],
-      "stemUpSE": [1.18, 0.164]
+      "stemDownNW": [0.004, -0.068],
+      "stemUpSE": [1.44, 0.176]
     },
     "noteheadSlashedBlack2": {
-      "stemDownNW": [0.0, -0.172],
-      "stemUpSE": [1.18, 0.164]
+      "stemDownNW": [0.0, -0.136],
+      "stemUpSE": [1.14, 0.14]
     },
     "noteheadSlashedDoubleWhole1": {
       "noteheadOrigin": [0.356, 0.0]
@@ -21465,8 +21465,8 @@
       "noteheadOrigin": [0.356, 0.0]
     },
     "noteheadSlashedHalf1": {
-      "stemDownNW": [0.0, -0.168],
-      "stemUpSE": [1.168, 0.164]
+      "stemDownNW": [0.0, -0.148],
+      "stemUpSE": [1.24, 0.184]
     },
     "noteheadSlashedHalf2": {
       "stemDownNW": [0.0, -0.164],
