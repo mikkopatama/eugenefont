@@ -10,6 +10,16 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+11 May 2026 (v. 0.507)
+
+- Modified:
+	- Created a new empty Glyphs project and imported all current 146 glyphs to get rid of some bugs in the .otf file. Dorico 6 shows everything correctly now, and Musescore loads the correct notehead glyphs instead of falling back to Bravura
+	- Eugene.otf doesn't include Bravura fallback glyphs anymore, since missing glyphs are automatically replaced in both Dorico and Musescore.
+
+- Known issues:
+	- Currently Musescore seems to ignore the stemUpSE x-anchorpoint metadata, which causes the upside stemlines to be separate from the noteheads. Will try to rebuild the .json file or find some other solution.
+
+
 10 May 2026 (v. 0.506)
 
 - Modified:
