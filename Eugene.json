@@ -28,7 +28,8 @@
     "thinBarlineThickness": 0.16,
     "tieEndpointThickness": 0.125,
     "tieMidpointThickness": 0.2,
-    "tupletBracketThickness": 0.125
+    "tupletBracketThickness": 0.125,
+    "textFontFamily": ["Academico", "Century Schoolbook", "Edwin", "serif"]
   },
   "glyphsWithAnchors": {
     "flag16thDown": {
@@ -50,17 +51,17 @@
       ]
     },
     "flag8thUp": {
-      "stemUpNW": [
-        0.0,
-        -0.04
+      "graceNoteSlashNE": [
+        1.284,
+        0.796
       ],
       "graceNoteSlashSW": [
         -0.644,
         -2.456
       ],
-      "graceNoteSlashNE": [
-        1.284,
-        0.796
+      "stemUpNW": [
+        0.0,
+        -0.04
       ]
     },
     "noteheadBlack": {
