@@ -29,10 +29,11 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ## Installation
 
-1. Copy `Eugene.otf` and `EugeneText.otf` to `~/Library/Fonts/` (macOS) or `C:\Windows\Fonts\` (Windows)
+1. Copy `Eugene.otf` and `EugeneText.otf` to `~/Library/Fonts/` (macOS) or `%LOCALAPPDATA%\Microsoft\Windows\Fonts\` (Windows) or `~/.fonts` (Linux)
 2. Copy `Eugene.json` to:
    - macOS: `~/Library/Application Support/SMuFL/Fonts/Eugene/`
-   - Windows: `%APPDATA%\SMuFL\Fonts\Eugene\`
+   - Windows: `%LOCALAPPDATA%\SMuFL\Fonts\Eugene\`
+   - Linux: `$XDG_DATA_HOME/SMuFL/Fonts/Eugene/` 
 3. Restart your notation app
 4. Select Eugene as the music font in your notation app
 
