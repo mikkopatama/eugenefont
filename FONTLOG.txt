@@ -10,6 +10,62 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+13 May 2026 (v. 0.6)
+
+Biggest update for a while. Jumped to version number 0.600, since the font now includes includes:
+	- ALL common Flags from U+E240 to U+E24F
+	- Almost ALL Dynamics letters from U+E520 to E+53D, excluding U+E526 dynamicNiente
+	- Most commonly found g, f and c clef variants
+	- ALL basic tuplet numbers from U+E880 to U0E889. 2, 3, 5 and 6 were traced from reference, all others were modified from time signature glyphs. Will need some fine tuning later.
+
+- Modified:
+	- All clefs were improved in shape and in ottava number glyph placement
+	- Most time signature numbers were tweaked
+	- Flags were made more consistent in style
+	- noteheadHalf is now closer to reference
+
+- Added:
+	bracketTop
+	bracketBottom
+	reversedBracketTop
+	reversedBracketBottom
+	gClef8vbOld
+	gClefChange
+	cClefChange
+	fClefChange
+	
+	flag32ndUp
+	flag32ndDown
+	flag64thUp
+	flag64thDown
+	flag128thUp
+	flag128thDown
+	flag256thUp
+	flag256thDown
+	flag512thUp
+	flag512thDown
+	flag1024thUp
+	flag1024thDown
+	
+	dynamicZ
+	dynamicSforzato
+	dynamicSforzatoPiano
+	dynamicSforzatoFF
+	dynamicRinforzando2
+
+	tuplet0
+	tuplet1
+	tuplet4
+	tuplet5
+	tuplet7
+	tuplet8
+	tuplet9
+
+Known issues:
+	- The EugeneText.otf file is a placeholder for now, it will need a thorough glyph resizing at later point
+	- The compound dynamic signs are not visible in Musescore 3.7 Evolution (fallback to Leland/Bravura compound glyphs). Will need to investigate. Musescore 4.6.5 should show the compound dynamic signs correctly
+
+
 11 May 2026 (v. 0.507)
 
 - Modified:
