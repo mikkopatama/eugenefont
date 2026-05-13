@@ -10,9 +10,9 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
-13 May 2026 (v. 0.6)
+13 May 2026 (v. 0.51)
 
-Biggest update for a while. Jumped to version number 0.600, since the font now includes includes:
+Biggest update for a while. Jumped to version number 0.51, since the font now includes includes:
 	- ALL common Flags from U+E240 to U+E24F
 	- Almost ALL Dynamics letters from U+E520 to E+53D, excluding U+E526 dynamicNiente
 	- Most commonly found g, f and c clef variants
