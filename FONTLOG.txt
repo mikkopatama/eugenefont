@@ -10,6 +10,29 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+14 May 2026 (v. 0.511)
+
+EugeneText.otf should now be functional and allow Musescore Evolution and Musescore Studio 4 use the correct segno, coda and dynamic glyphs.
+
+- Added:
+	note16thUp
+	note16thDown
+	restMaxima
+	restLonga
+	restDoubleWhole
+	rest256th
+	rest512th
+	rest1024th
+	restHBar
+	restHBarLeft
+	restHBarMiddle
+	restHBarRight
+	restDoubleWholeLegerLine
+	restWholeLegerLine
+	restHalfLegerLine
+	dynamicFFFFFF
+
+
 13 May 2026 (v. 0.51)
 
 Biggest update for a while. Jumped to version number 0.51, since the font now includes includes:
