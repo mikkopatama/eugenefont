@@ -1,35 +1,40 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "0.511",
+  "fontVersion": "0.512",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
-    "barlineSeparation": 0.6,
-    "beamSpacing": 0.33,
-    "beamThickness": 0.5,
+    "barlineSeparation": 0.3,
+    "beamSpacing": 0.1,
+    "beamThickness": 0.65,
     "bracketThickness": 0.5,
     "dashedBarlineDashLength": 0.67,
     "dashedBarlineGapLength": 0.67,
     "dashedBarlineThickness": 0.16,
     "hairpinThickness": 0.16,
-    "legerLineExtension": 0.4,
+    "legerLineExtension": 0.3,
     "legerLineThickness": 0.1875,
     "lyricLineThickness": 0.1,
     "octaveLineThickness": 0.1875,
     "pedalLineThickness": 0.16,
     "repeatBarlineDotSeparation": 0.16,
     "repeatEndingLineThickness": 0.16,
-    "slurEndpointThickness": 0.125,
-    "slurMidpointThickness": 0.25,
-    "staffLineThickness": 0.125,
+    "slurEndpointThickness": 0.09,
+    "slurMidpointThickness": 0.2,
+    "staffLineThickness": 0.13,
     "stemThickness": 0.125,
     "subBracketThickness": 0.16,
     "textEnclosureThickness": 0.16,
     "thickBarlineThickness": 0.5,
-    "thinBarlineThickness": 0.16,
-    "tieEndpointThickness": 0.125,
+    "thinBarlineThickness": 0.18,
+    "tieEndpointThickness": 0.09,
     "tieMidpointThickness": 0.2,
     "tupletBracketThickness": 0.125,
-    "textFontFamily": ["Academico", "Century Schoolbook", "Edwin", "serif"]
+    "textFontFamily": [
+      "Academico",
+      "Century Schoolbook",
+      "Edwin",
+      "serif"
+    ]
   },
   "glyphsWithAnchors": {
     "flag1024thDown": {
@@ -176,6 +181,96 @@
         0.152
       ]
     },
+    "noteheadSlashDiamondWhite": {
+      "stemUpSE": [
+        1.86,
+        0.028
+      ],
+      "stemDownNW": [
+        0.012,
+        -0.028
+      ]
+    },
+    "noteheadSlashHorizontalEnds": {
+      "stemUpSE": [
+        1.76,
+        0.908
+      ],
+      "stemDownNW": [
+        0.072,
+        -0.9
+      ]
+    },
+    "noteheadSlashHorizontalEndsMuted": {
+      "stemUpSE": [
+        1.724,
+        0.908
+      ],
+      "stemDownNW": [
+        0.036,
+        -0.9
+      ]
+    },
+    "noteheadSlashVerticalEnds": {
+      "stemUpSE": [
+        1.388,
+        0.72
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.82
+      ]
+    },
+    "noteheadSlashVerticalEndsMuted": {
+      "stemUpSE": [
+        1.388,
+        0.72
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.82
+      ]
+    },
+    "noteheadSlashVerticalEndsSmall": {
+      "stemUpSE": [
+        0.7,
+        0.284
+      ],
+      "stemDownNW": [
+        0.0,
+        -0.484
+      ]
+    },
+    "noteheadSlashWhiteHalf": {
+      "stemUpSE": [
+        2.976,
+        1.0
+      ],
+      "stemDownNW": [
+        0.032,
+        -1.0
+      ]
+    },
+    "noteheadSlashWhiteMuted": {
+      "stemUpSE": [
+        2.976,
+        1.0
+      ],
+      "stemDownNW": [
+        0.032,
+        -1.0
+      ]
+    },
+    "noteheadSlashX": {
+      "stemUpSE": [
+        1.724,
+        0.908
+      ],
+      "stemDownNW": [
+        0.036,
+        -0.9
+      ]
+    },
     "noteheadSlashedBlack1": {
       "stemDownNW": [
         0.004,
@@ -208,6 +303,36 @@
     }
   },
   "glyphBBoxes": {
+    "accidentalBracketLeft": {
+      "bBoxNE": [
+        0.296,
+        0.752
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.748
+      ]
+    },
+    "accidentalBracketRight": {
+      "bBoxNE": [
+        0.296,
+        0.752
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.748
+      ]
+    },
+    "accidentalDoubleFlat": {
+      "bBoxNE": [
+        1.724,
+        1.736
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.815
+      ]
+    },
     "accidentalDoubleSharp": {
       "bBoxNE": [
         0.988,
@@ -218,16 +343,6 @@
         -0.5
       ]
     },
-    "accidentalDoubleFlat": {
-      "bBoxNE": [
-        1.715,
-        1.737
-      ],
-      "bBoxSW": [
-        -0.008,
-        -0.814
-      ]
-    },
     "accidentalFlat": {
       "bBoxNE": [
         0.908,
@@ -235,12 +350,12 @@
       ],
       "bBoxSW": [
         -0.032,
-        -0.779
+        -0.78
       ]
     },
     "accidentalNatural": {
       "bBoxNE": [
-        0.647,
+        0.648,
         1.356
       ],
       "bBoxSW": [
@@ -268,6 +383,26 @@
         -1.347
       ]
     },
+    "accidentalParensLeft": {
+      "bBoxNE": [
+        0.532,
+        0.988
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.992
+      ]
+    },
+    "accidentalParensRight": {
+      "bBoxNE": [
+        0.532,
+        0.988
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.992
+      ]
+    },
     "accidentalQuarterToneFlatStein": {
       "bBoxNE": [
         0.912,
@@ -280,12 +415,12 @@
     },
     "accidentalSharp": {
       "bBoxNE": [
-        1.0,
-        1.252
+        1.032,
+        1.28
       ],
       "bBoxSW": [
-        -0.032,
-        -1.352
+        0.0,
+        -1.324
       ]
     },
     "accidentalSharpSharp": {
@@ -1376,6 +1511,146 @@
       "bBoxSW": [
         0.0,
         -0.532
+      ]
+    },
+    "noteheadParenthesis": {
+      "bBoxNE": [
+        1.472,
+        0.724
+      ],
+      "bBoxSW": [
+        -0.292,
+        -0.715
+      ]
+    },
+    "noteheadParenthesisLeft": {
+      "bBoxNE": [
+        0.43,
+        0.724
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.714
+      ]
+    },
+    "noteheadParenthesisRight": {
+      "bBoxNE": [
+        0.292,
+        0.724
+      ],
+      "bBoxSW": [
+        -0.138,
+        -0.714
+      ]
+    },
+    "noteheadSlashDiamondWhite": {
+      "bBoxNE": [
+        1.872,
+        0.936
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.936
+      ]
+    },
+    "noteheadSlashHorizontalEnds": {
+      "bBoxNE": [
+        1.797,
+        0.908
+      ],
+      "bBoxSW": [
+        0.035,
+        -0.9
+      ]
+    },
+    "noteheadSlashHorizontalEndsMuted": {
+      "bBoxNE": [
+        1.761,
+        0.908
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.941
+      ]
+    },
+    "noteheadSlashVerticalEnds": {
+      "bBoxNE": [
+        1.388,
+        0.926
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.894
+      ]
+    },
+    "noteheadSlashVerticalEndsMuted": {
+      "bBoxNE": [
+        1.388,
+        0.926
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.894
+      ]
+    },
+    "noteheadSlashVerticalEndsSmall": {
+      "bBoxNE": [
+        0.7,
+        0.468
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.516
+      ]
+    },
+    "noteheadSlashWhiteDoubleWhole": {
+      "bBoxNE": [
+        4.564,
+        1.0
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.0
+      ]
+    },
+    "noteheadSlashWhiteHalf": {
+      "bBoxNE": [
+        3.007,
+        1.0
+      ],
+      "bBoxSW": [
+        0.001,
+        -1.0
+      ]
+    },
+    "noteheadSlashWhiteMuted": {
+      "bBoxNE": [
+        3.007,
+        1.0
+      ],
+      "bBoxSW": [
+        0.001,
+        -1.0
+      ]
+    },
+    "noteheadSlashWhiteWhole": {
+      "bBoxNE": [
+        3.883,
+        1.0
+      ],
+      "bBoxSW": [
+        0.061,
+        -1.0
+      ]
+    },
+    "noteheadSlashX": {
+      "bBoxNE": [
+        1.761,
+        0.908
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.9
       ]
     },
     "noteheadSlashedBlack1": {
