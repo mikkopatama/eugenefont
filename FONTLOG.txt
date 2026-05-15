@@ -10,6 +10,38 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+15 May 2026 (v. 0.512)
+
+All common accidentals, including Parenthesis glyphs, are now included.
+Also all Slash noteheads (U+E100–U+E10F) are included.
+
+- Added:
+	noteheadParenthesis
+	noteheadParenthesisLeft
+	noteheadParenthesisRight
+	noteheadSlashVerticalEnds
+	noteheadSlashHorizontalEnds
+	noteheadSlashWhiteWhole
+	noteheadSlashWhiteHalf
+	noteheadSlashDiamondWhite
+	noteheadSlashVerticalEndsSmall
+	noteheadSlashX
+	noteheadSlashVerticalEndsMuted
+	noteheadSlashHorizontalEndsMuted
+	noteheadSlashWhiteMuted
+	noteheadSlashWhiteDoubleWhole
+	accidentalDoubleFlat
+	accidentalParensLeft
+	accidentalParensRight
+	accidentalBracketLeft
+	accidentalBracketRight
+	accidentalFlatParens
+	accidentalNaturalParens
+	accidentalSharpParens
+	accidentalDoubleSharpParens
+	accidentalDoubleFlatParens
+
+
 14 May 2026 (v. 0.511)
 
 EugeneText.otf should now be functional and allow Musescore Evolution and Musescore Studio 4 use the correct segno, coda and dynamic glyphs.
