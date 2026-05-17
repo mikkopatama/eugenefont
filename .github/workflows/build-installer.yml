@@ -1,0 +1,25 @@
+name: Build Windows Installer
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build-windows-installer:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download Inno Setup
+        run: choco install innosetup
+
+      - name: Build installer
+        run: iscc Installers/Windows/eugene_setup.iss
+
+      - name: Upload installer to release
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./Output/Eugene-Setup.exe
+          asset_name: Eugene-Setup.exe
+          asset_content_type: application/octet-stream
