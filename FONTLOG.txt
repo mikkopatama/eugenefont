@@ -10,6 +10,28 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+17 May 2026 (v. 0.513)
+
+- Added:
+	clef8
+	clef15
+	noteheadXBlack
+	noteheadSlashedHalf2
+	noteheadSlashedWhole1
+	noteheadSlashedWhole2
+	noteheadWholeFilled
+	noteheadHalfFilled
+	augmentationDot
+	fermataShortAbove
+	fermataShortBelow
+	fermataLongAbove
+	fermataLongBelow
+	fermataVeryLongAbove
+	fermataVeryLongBelow
+
+- Modified:
+	- Improved all dynamics letters, resized clef ottava numbers, modified 8th note flags 
+
 15 May 2026 (v. 0.512)
 
 All common accidentals, including Parenthesis glyphs, are now included.
