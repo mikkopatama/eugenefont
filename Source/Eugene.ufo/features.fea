@@ -1,0 +1,38 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature liga {
+script DFLT;
+language dflt;
+lookup SUB_0 {
+	sub dynamicPiano dynamicPiano dynamicPiano dynamicPiano dynamicPiano dynamicPiano by dynamicPPPPPP;
+	sub dynamicPiano dynamicPiano dynamicPiano dynamicPiano dynamicPiano by dynamicPPPPP;
+	sub dynamicPiano dynamicPiano dynamicPiano dynamicPiano by dynamicPPPP;
+	sub dynamicPiano dynamicPiano dynamicPiano by dynamicPPP;
+	sub dynamicPiano dynamicPiano by dynamicPP;
+	sub dynamicPiano dynamicForte by dynamicPF;
+	sub dynamicMezzo dynamicPiano by dynamicMP;
+	sub dynamicMezzo dynamicForte by dynamicMF;
+	sub dynamicForte dynamicForte dynamicForte dynamicForte dynamicForte by dynamicFFFFF;
+	sub dynamicForte dynamicForte dynamicForte dynamicForte by dynamicFFFF;
+	sub dynamicForte dynamicForte dynamicForte by dynamicFFF;
+	sub dynamicForte dynamicForte by dynamicFF;
+	sub dynamicForte dynamicPiano by dynamicFortePiano;
+	sub dynamicForte dynamicZ by dynamicForzando;
+	sub dynamicSforzando dynamicForte by dynamicSforzando1;
+	sub dynamicRinforzando dynamicForte by dynamicRinforzando1;
+	sub dynamicRinforzando dynamicForte dynamicZ by dynamicRinforzando2;
+	sub dynamicSforzando dynamicForte dynamicPiano by dynamicSforzandoPiano;
+	sub dynamicSforzando dynamicForte dynamicPiano dynamicPiano by dynamicSforzandoPianissimo;
+	sub dynamicSforzando dynamicForte dynamicZ by dynamicSforzato;
+	sub dynamicSforzando dynamicForte dynamicZ dynamicPiano by dynamicSforzatoPiano;
+	sub dynamicSforzando dynamicForte dynamicForte dynamicZ by dynamicSforzatoFF;
+	sub accidentalParensLeft accidentalFlat accidentalParensRight by accidentalFlatParens;
+	sub accidentalParensLeft accidentalSharp accidentalParensRight by accidentalSharpParens;
+	sub accidentalParensLeft accidentalNatural accidentalParensRight by accidentalNaturalParens;
+	sub accidentalParensLeft accidentalDoubleSharp accidentalParensRight by accidentalDoubleSharpParens;
+	sub accidentalParensLeft accidentalDoubleFlat accidentalParensRight by accidentalDoubleFlatParens;
+} SUB_0;
+} liga;
+

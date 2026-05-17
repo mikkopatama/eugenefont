@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadParenthesisLeft" format="2">
+  <advance width="73"/>
+  <unicode hex="E0F5"/>
+  <note>
+uniE0F5
+</note>
+  <outline>
+    <contour>
+      <point x="100" y="-177" type="curve" smooth="yes"/>
+      <point x="103" y="-179"/>
+      <point x="106" y="-179"/>
+      <point x="107" y="-177" type="curve" smooth="yes"/>
+      <point x="108" y="-174"/>
+      <point x="108" y="-172"/>
+      <point x="105" y="-170" type="curve" smooth="yes"/>
+      <point x="74" y="-146"/>
+      <point x="63" y="-131"/>
+      <point x="52" y="-100" type="curve" smooth="yes"/>
+      <point x="42" y="-71"/>
+      <point x="32" y="-39"/>
+      <point x="32" y="3" type="curve" smooth="yes"/>
+      <point x="32" y="48"/>
+      <point x="42" y="83"/>
+      <point x="54" y="109" type="curve" smooth="yes"/>
+      <point x="66" y="134"/>
+      <point x="78" y="149"/>
+      <point x="105" y="172" type="curve" smooth="yes"/>
+      <point x="108" y="174"/>
+      <point x="108" y="176"/>
+      <point x="107" y="179" type="curve" smooth="yes"/>
+      <point x="106" y="182"/>
+      <point x="103" y="181"/>
+      <point x="101" y="179" type="curve"/>
+      <point x="73" y="160"/>
+      <point x="60" y="149"/>
+      <point x="45" y="131" type="curve" smooth="yes"/>
+      <point x="15" y="94"/>
+      <point x="0" y="52"/>
+      <point x="0" y="2" type="curve" smooth="yes"/>
+      <point x="0" y="-52"/>
+      <point x="16" y="-94"/>
+      <point x="53" y="-137" type="curve" smooth="yes"/>
+      <point x="70" y="-156"/>
+      <point x="81" y="-165"/>
+    </contour>
+  </outline>
+</glyph>

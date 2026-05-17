@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tremolo3" format="2">
+  <advance width="150"/>
+  <unicode hex="E222"/>
+  <note>
+uniE222
+</note>
+  <outline>
+    <contour>
+      <point x="148.57" y="-26.24" type="line"/>
+      <point x="148.57" y="79.31" type="line"/>
+      <point x="-149.42" y="41.11" type="line"/>
+      <point x="-148.75" y="-57.39" type="line"/>
+    </contour>
+    <contour>
+      <point x="149.02" y="-191.76" type="line"/>
+      <point x="149.02" y="-86.21" type="line"/>
+      <point x="-148.97" y="-124.41" type="line"/>
+      <point x="-148.3" y="-222.91" type="line"/>
+    </contour>
+    <contour>
+      <point x="148.99" y="149.66" type="line"/>
+      <point x="148.99" y="255.21" type="line"/>
+      <point x="-149" y="217.01" type="line"/>
+      <point x="-148.33" y="118.51" type="line"/>
+    </contour>
+  </outline>
+</glyph>

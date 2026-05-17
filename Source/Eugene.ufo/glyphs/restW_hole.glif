@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="restWhole" format="2">
+  <advance width="283"/>
+  <unicode hex="E4E3"/>
+  <note>
+uniE4E3
+</note>
+  <outline>
+    <contour>
+      <point x="282.7" y="-100" type="curve" smooth="yes"/>
+      <point x="282.69" y="-17.69" type="line" smooth="yes"/>
+      <point x="282.69" y="-3"/>
+      <point x="262.06" y="8.31"/>
+      <point x="236.12" y="8.31" type="curve" smooth="yes"/>
+      <point x="57.35" y="8.31" type="line" smooth="yes"/>
+      <point x="30.67" y="8.31"/>
+      <point x="0.82" y="-2.69"/>
+      <point x="0.7" y="-17.69" type="curve" smooth="yes"/>
+      <point x="0.01" y="-100" type="line" smooth="yes"/>
+      <point x="-0.12" y="-115.55"/>
+      <point x="35.96" y="-135.62"/>
+      <point x="55.08" y="-135.69" type="curve"/>
+      <point x="55.08" y="-135.69"/>
+      <point x="242.08" y="-136.43"/>
+      <point x="242.15" y="-136.37" type="curve" smooth="yes"/>
+      <point x="263.44" y="-136.45"/>
+      <point x="282.7" y="-114"/>
+    </contour>
+  </outline>
+</glyph>

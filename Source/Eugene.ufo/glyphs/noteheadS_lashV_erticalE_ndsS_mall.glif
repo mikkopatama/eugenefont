@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadSlashVerticalEndsSmall" format="2">
+  <advance width="175"/>
+  <unicode hex="E105"/>
+  <note>
+uniE105
+</note>
+  <anchor x="0" y="-121" name="stemDownNW"/>
+  <anchor x="175" y="71" name="stemUpSE"/>
+  <outline>
+    <contour>
+      <point x="175" y="68" type="curve" smooth="yes"/>
+      <point x="175" y="108" type="line" smooth="yes"/>
+      <point x="175" y="118"/>
+      <point x="169" y="120"/>
+      <point x="162" y="112" type="curve" smooth="yes"/>
+      <point x="2" y="-66" type="line" smooth="yes"/>
+      <point x="1" y="-67"/>
+      <point x="0" y="-70"/>
+      <point x="0" y="-72" type="curve" smooth="yes"/>
+      <point x="0" y="-124" type="line" smooth="yes"/>
+      <point x="0" y="-129"/>
+      <point x="3" y="-131"/>
+      <point x="8" y="-126" type="curve" smooth="yes"/>
+      <point x="170" y="56" type="line" smooth="yes"/>
+      <point x="173" y="60"/>
+      <point x="175" y="63"/>
+    </contour>
+  </outline>
+</glyph>

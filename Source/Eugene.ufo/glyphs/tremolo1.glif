@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tremolo1" format="2">
+  <advance width="149"/>
+  <unicode hex="E220"/>
+  <note>
+uniE220
+</note>
+  <outline>
+    <contour>
+      <point x="147.99" y="-31.35" type="line"/>
+      <point x="147.99" y="74.2" type="line"/>
+      <point x="-150" y="36" type="line"/>
+      <point x="-149.33" y="-62.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>
