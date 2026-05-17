@@ -18,6 +18,8 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 | File | Description |
 |---|---|
+| `Installers` | Easy to use installer files |
+| `Source/Eugene.ufo` | Font source files, Unified Font Object package |
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
 | `EugeneText.otf` | SMuFL-compliant OpenType music text font |
@@ -28,6 +30,8 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 ---
 
 ## Installation
+
+Manual installation:
 
 1. Copy `Eugene.otf` and `EugeneText.otf` to `~/Library/Fonts/` (macOS) or `%LOCALAPPDATA%\Microsoft\Windows\Fonts\` (Windows) or `~/.fonts` (Linux)
 2. Copy `Eugene.json` to:
