@@ -20,8 +20,8 @@ jobs:
         run: choco install innosetup --yes
 
       - name: Install IDP plugin
-        run: |$idpFetchAddress = "https://github.com/PeterDaveHello/inno-download-plugin/releases/download/v1.5.1/idpsetup-1.5.1.exe"
-          Invoke-WebRequest -Uri $idpUrl -OutFile "$env:TEMP\idpsetup-1.5.1.exe"
+        run: $idpFetchAddress = "https://github.com/PeterDaveHello/inno-download-plugin/releases/download/v1.5.1/idpsetup-1.5.1.exe"
+          Invoke-WebRequest -Uri $idpFetchAddress -OutFile "$env:TEMP\idpsetup-1.5.1.exe"
           Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT" -Wait
         shell: powershell
 
