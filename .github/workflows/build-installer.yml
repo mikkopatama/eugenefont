@@ -1,0 +1,27 @@
+name: Build Installer
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Inno Setup
+        run: choco install innosetup --yes
+
+      - name: Compile installer
+        run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-v0.513.iss
+
+      - name: Upload installer to Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Output/Eugene-v0.513.exe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
