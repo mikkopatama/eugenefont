@@ -23,13 +23,18 @@ jobs:
           Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT /DIR=""C:\Program Files (x86)\Inno Setup 6""" -Wait
         shell: powershell
 
-      - name: Push Git version of current tag to Eugene-win-installscript-versionspecific.iss
-        run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript-versionspecific.iss
+      - name: Get latest release tag name (high tech)
+        id: get_tag
+        run: |
+          $response = Invoke-RestMethod -Uri "https://api.github.com/repos/mikkopatama/eugenefont/releases/latest"
+          $tag = $response.tag_name
+          echo "NEWEST_RELEASE_TAG_NAME=$tag" >> $env:GITHUB_OUTPUT
+        shell: powershell
 
       - name: Compile all installers
         run: |
-         iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript-alwayslatest.iss
-         iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript-versionspecific.iss
+         iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Eugene-win-installscript-alwayslatest.iss
+         iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Eugene-win-installscript-versionspecific.iss
 
       - name: Upload installer to Release
         uses: softprops/action-gh-release@v2

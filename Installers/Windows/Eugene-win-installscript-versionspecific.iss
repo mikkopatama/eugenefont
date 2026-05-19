@@ -13,7 +13,8 @@
 #define MyAppName "Eugene font - SMuFL"
 #define MyAppPublisher "Mikko Patama"
 #define MyAppURL "https://github.com/mikkopatama/eugenefont"
-; neat trick I found in docs: AppVersion is automatically defined in build-all-installers.yml with iscc /DAppVersion=${{ github.ref_name }}.
+; neat trick (that took way to long to come up with): AppVersion is automatically defined in build-all-installers.yml with 
+; iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} which is directly fetched from the main git repo release tag names
 ; No manual changes to this file for version specific releases needed anymore.
 #define MyAppVersion AppVersion
 
