@@ -4,13 +4,18 @@
 
 #include <idp.iss>
 
-;To build a version specific installer, update MyAppVersion and GitReleaseTagName
+; sets a default value for AppVersion if this file is built from Inno Setup Compiler and not with GitHub Actions (see build-all-installers.yml and definition of MyAppVersion...)
+; this default fallback value must ALWAYS, even when changed, be a name of some release tag on GitHub, e.g. "0.513" or otherwise local builds of this version specific installer will result in a 404 when trying to download from an invalid URL.
+#ifndef AppVersion
+  #define AppVersion "0.513"
+#endif
 
 #define MyAppName "Eugene font - SMuFL"
 #define MyAppPublisher "Mikko Patama"
 #define MyAppURL "https://github.com/mikkopatama/eugenefont"
-#define GitReleaseTagName "0.513" ;the name of the release tag with Eugene.json, EugeneText.otf and Eugene.otf
-#define MyAppVersion "v0.513" ;note that version is seperate of 
+; neat trick I found in docs: AppVersion is automatically defined in build-all-installers.yml with iscc /DAppVersion=${{ github.ref_name }}.
+; No manual changes to this file for version specific releases needed anymore.
+#define MyAppVersion AppVersion
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
@@ -18,7 +23,7 @@
 AppId={{DC5F19DB-B324-43CE-B85C-1752AAAB8A57}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
-AppVerName={#MyAppName} {#GetVersion("")}
+AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
@@ -35,14 +40,16 @@ WizardStyle=classic dynamic
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
-;fetch installable files from git latest release
+;fetch installable files from git via version specific release, make sure that all three files are under the release files
 
 [Code]
 procedure InitializeWizard();
+var gitURL:string;
 begin
-  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/download/0.513/Eugene.json', ExpandConstant('{tmp}\Eugene.json'));
-  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/download/0.513/EugeneText.otf', ExpandConstant('{tmp}\EugeneText.otf'));
-  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/download/0.513/Eugene.otf', ExpandConstant('{tmp}\Eugene.otf'));
+  gitURL := 'https://github.com/mikkopatama/eugenefont/releases/download/' + ExpandConstant('{#MyAppVersion}') + '/';
+  idpAddFile(gitURL + 'Eugene.json', ExpandConstant('{tmp}\Eugene.json'));
+  idpAddFile(gitURL + 'EugeneText.otf', ExpandConstant('{tmp}\EugeneText.otf'));
+  idpAddFile(gitURL + 'Eugene.otf', ExpandConstant('{tmp}\Eugene.otf'));
   idpDownloadAfter(wpReady);
 end;
 

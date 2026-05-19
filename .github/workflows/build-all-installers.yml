@@ -1,4 +1,4 @@
-name: Build Installer
+name: Build latest version setup installer
 
 on:
   push:
@@ -23,12 +23,17 @@ jobs:
           Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT /DIR=""C:\Program Files (x86)\Inno Setup 6""" -Wait
         shell: powershell
 
-      - name: Compile installer
-        run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript.iss
+      - name: Push Git version of current tag to Eugene-win-installscript-versionspecific.iss
+        run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript-versionspecific.iss
+
+      - name: Compile all installers
+        run: |
+         iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript-alwayslatest.iss
+         iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript-versionspecific.iss
 
       - name: Upload installer to Release
         uses: softprops/action-gh-release@v2
         with:
-          files: Installers/Windows/Output/Eugene-Win-latest.exe
+          files: Installers/Windows/Output/Eugene-Win-*.exe 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
