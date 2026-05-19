@@ -25,7 +25,7 @@ DisableDirPage=yes
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
-OutputBaseFilename=Eugene Setup Wizard
+OutputBaseFilename=Eugene v0.513 Win-install
 SolidCompression=yes
 WizardStyle=classic dynamic
 

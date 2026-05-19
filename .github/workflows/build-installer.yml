@@ -24,7 +24,7 @@ jobs:
         shell: powershell
 
       - name: Compile installer
-        run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-v0.513.iss
+        run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-win-installscript.iss
 
       - name: Upload installer to Release
         uses: softprops/action-gh-release@v2
