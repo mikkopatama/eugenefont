@@ -8,13 +8,20 @@
 #define MyAppVersion "Eugene 0.513"
 #define MyAppPublisher "Mikko Patama"
 #define MyAppURL "https://github.com/mikkopatama/eugenefont"
+#define public GetRevision(Test) \
+  Local[0] = "git describe --tags > revision.txt", \
+  Local[1] = Exec("cmd.exe", "/c " + Local[0], SourcePath, 1, 0), \
+  Local[2] = FileOpen(AddBackslash(SourcePath) + "revision.txt"), \
+  Local[3] = FileRead(Local[2]), \
+  FileClose(Local[2]), \
+  Local[3] == "" ? MyAppVersion : Trim(Local[3])
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{DC5F19DB-B324-43CE-B85C-1752AAAB8A57}
 AppName={#MyAppName}
-AppVersion={#MyAppVersion}
+AppVersion={#GetRevision('123')}
 ;AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
