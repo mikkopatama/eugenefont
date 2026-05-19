@@ -16,18 +16,12 @@ jobs:
       - name: Install Inno Setup
         run: choco install innosetup --yes
 
-      - name: Install Inno Setup
-        run: choco install innosetup --yes
-
       - name: Install IDP plugin
         run: |
           $idpFetchAddress = "https://github.com/PeterDaveHello/inno-download-plugin/releases/download/v1.5.1/idpsetup-1.5.1.exe"
           Invoke-WebRequest -Uri $idpFetchAddress -OutFile "$env:TEMP\idpsetup-1.5.1.exe"
           Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT" -Wait
         shell: powershell
-
-      - name: Compile installer
-        run: iscc /DAppVersion=${{ github.ref_name }} installer/setup.iss
 
       - name: Compile installer
         run: iscc /DAppVersion=${{ github.ref_name }} Installers/Windows/Eugene-v0.513.iss
