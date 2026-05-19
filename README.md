@@ -18,7 +18,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 | File | Description |
 |---|---|
-| `Installers` | Easy to use installer files |
+| `Installers` | Easy to use installer files for macOS and Windows |
 | `Source/Eugene.ufo` | Font source files, Unified Font Object package |
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
