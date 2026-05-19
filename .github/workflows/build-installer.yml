@@ -20,7 +20,7 @@ jobs:
         run: |
           $idpFetchAddress = "https://github.com/PeterDaveHello/inno-download-plugin/releases/download/v1.5.1/idpsetup-1.5.1.exe"
           Invoke-WebRequest -Uri $idpFetchAddress -OutFile "$env:TEMP\idpsetup-1.5.1.exe"
-          Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT" -Wait
+          Start-Process -FilePath "$env:TEMP\idpsetup-1.5.1.exe" -ArgumentList "/VERYSILENT /DIR=""C:\Program Files (x86)\Inno Setup 6""" -Wait
         shell: powershell
 
       - name: Compile installer
