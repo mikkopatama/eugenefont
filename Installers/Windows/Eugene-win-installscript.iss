@@ -25,7 +25,7 @@ DisableDirPage=yes
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
-OutputBaseFilename=Eugene v0.513 Win-install
+OutputBaseFilename=Eugene-Win-install
 SolidCompression=yes
 WizardStyle=classic dynamic
 
