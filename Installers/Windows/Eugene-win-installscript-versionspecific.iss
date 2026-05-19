@@ -4,25 +4,21 @@
 
 #include <idp.iss>
 
+;To build a version specific installer, update MyAppVersion and GitReleaseTagName
+
 #define MyAppName "Eugene font - SMuFL"
-#define MyAppVersion "Eugene 0.513"
 #define MyAppPublisher "Mikko Patama"
 #define MyAppURL "https://github.com/mikkopatama/eugenefont"
-#define public GetRevision(Test) \
-  Local[0] = "git describe --tags > revision.txt", \
-  Local[1] = Exec("cmd.exe", "/c " + Local[0], SourcePath, 1, 0), \
-  Local[2] = FileOpen(AddBackslash(SourcePath) + "revision.txt"), \
-  Local[3] = FileRead(Local[2]), \
-  FileClose(Local[2]), \
-  Local[3] == "" ? MyAppVersion : Trim(Local[3])
+#define GitReleaseTagName "0.513" ;the name of the release tag with Eugene.json, EugeneText.otf and Eugene.otf
+#define MyAppVersion "v0.513" ;note that version is seperate of 
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{DC5F19DB-B324-43CE-B85C-1752AAAB8A57}
 AppName={#MyAppName}
-AppVersion={#GetRevision('123')}
-;AppVerName={#MyAppName} {#MyAppVersion}
+AppVersion={#MyAppVersion}
+AppVerName={#MyAppName} {#GetVersion("")}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
@@ -32,7 +28,7 @@ DisableDirPage=yes
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
-OutputBaseFilename=Eugene-Win-install
+OutputBaseFilename=Eugene-Win-{#MyAppVersion}
 SolidCompression=yes
 WizardStyle=classic dynamic
 
@@ -44,9 +40,9 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 [Code]
 procedure InitializeWizard();
 begin
-  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/latest/download/Eugene.json', ExpandConstant('{tmp}\Eugene.json'));
-  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/latest/download/EugeneText.otf', ExpandConstant('{tmp}\EugeneText.otf'));
-  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/latest/download/Eugene.otf', ExpandConstant('{tmp}\Eugene.otf'));
+  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/download/0.513/Eugene.json', ExpandConstant('{tmp}\Eugene.json'));
+  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/download/0.513/EugeneText.otf', ExpandConstant('{tmp}\EugeneText.otf'));
+  idpAddFile('https://github.com/mikkopatama/eugenefont/releases/download/0.513/Eugene.otf', ExpandConstant('{tmp}\Eugene.otf'));
   idpDownloadAfter(wpReady);
 end;
 
