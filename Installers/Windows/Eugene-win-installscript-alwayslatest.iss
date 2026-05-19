@@ -55,6 +55,8 @@ procedure CurStepChanged(CurStep: TSetupStep);
 begin
   if CurStep = ssInstall then
   begin
+    ForceDirectories(ExpandConstant('{localappdata}\Microsoft\Windows\Fonts'));
+    ForceDirectories(ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene'));
     FileCopy(ExpandConstant('{tmp}\EugeneText.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\EugeneText.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\Eugene.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.json'), ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene\Eugene.json'), False);
