@@ -19,6 +19,7 @@
 #define MyAppVersion AppVersion
 
 [Setup]
+PrivilegesRequiredOverridesAllowed=dialog
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{DC5F19DB-B324-43CE-B85C-1752AAAB8A57}
@@ -33,7 +34,6 @@ DefaultDirName={autopf}
 DisableDirPage=yes
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
-PrivilegesRequired=lowest
 OutputBaseFilename=Eugene-Win-{#MyAppVersion}
 SolidCompression=yes
 WizardStyle=classic dynamic
