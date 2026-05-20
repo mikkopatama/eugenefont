@@ -33,7 +33,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 Quick automated installation:
 
-Download either the [macOS package](https://github.com/mikkopatama/eugenefont/blob/main/Installers/macOS/Eugene-v0.513.pkg) or the [Windows installer](https://github.com/mikkopatama/eugenefont/blob/main/Installers/Windows/Eugene-Win-install.exe), which will add the correct files in the system font directories.
+Download either the [macOS package](https://github.com/mikkopatama/eugenefont/blob/main/Installers/macOS/Eugene-v0.513.pkg) or the [Windows installer](https://github.com/mikkopatama/eugenefont/blob/main/Installers/Windows/Eugene-Win-0.513.exe), which will add the correct files in the system font directories.
 
 Manual installation:
 
