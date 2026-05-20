@@ -1,7 +1,8 @@
 name: Build latest version setup installer
 
 on:
-  release:
+  release: 
+    types: [published]
 
 jobs:
   build:
