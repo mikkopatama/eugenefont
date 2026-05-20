@@ -122,13 +122,9 @@
       ]
     },
     "flag8thDown": {
-      "graceNoteSlashSE": [
-        1.328,
-        0.628
-      ],
       "stemDownSW": [
-        -0.596,
-        2.168
+        0.0,
+        0.048
       ]
     },
     "flag8thUp": {
