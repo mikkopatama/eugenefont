@@ -1,5 +1,7 @@
 # Eugene
 
+<img src="/Logo.png" />
+
 Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style found on *E. Fromont* publications and other French sheet music published between 1890-1910.
 The primary visual references are Debussy works from the Fromont catalog, including: Prélude à "l'Après-midi d'un faune" (1895), Ariettes Oubliées (1903), Suite bergamasque (1905). Other references include Durand publications from the same era.
 
@@ -7,7 +9,7 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 234
+Current glyph count: 244
 
 > **Version 0.51 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
 > Glyph coverage will expand in future releases.
@@ -33,7 +35,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 Quick automated installation:
 
-Download either the [macOS package](https://github.com/mikkopatama/eugenefont/blob/main/Installers/macOS/Eugene-v0.513.pkg) or the [Windows installer](https://github.com/mikkopatama/eugenefont/blob/main/Installers/Windows/Eugene-Win-0.513.exe), which will add the correct files in the system font directories.
+Download either the [macOS package](https://github.com/mikkopatama/eugenefont/blob/main/Installers/macOS/Eugene-v0.514.pkg) or the [Windows installer](https://github.com/mikkopatama/eugenefont/blob/main/Installers/Windows/Eugene-Win-0.514.exe), which will add the correct files in the system font directories.
 
 Manual installation:
 
