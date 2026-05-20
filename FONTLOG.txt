@@ -10,6 +10,27 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+20 May 2026 (v. 0.514)
+
+- Modified:
+	Common time and cut common time glyphs improved
+	Standard accidentals modified
+	Clef ottava numbers resized (smaller than before)
+
+- Added:
+	graceNoteAcciaccaturaStemUp
+	graceNoteAcciaccaturaStemDown
+	graceNoteAppoggiaturaStemUp
+	graceNoteAppoggiaturaStemDown
+	graceNoteSlashStemUp
+	graceNoteSlashStemDown
+	stringsDownBow
+	stringsDownBowTurned
+	stringsUpBow
+	stringsUpBowTurned
+
+
+
 17 May 2026 (v. 0.513)
 
 - Added:

@@ -459,6 +459,16 @@
       <string>fermataLongBelow</string>
       <string>fermataVeryLongAbove</string>
       <string>fermataVeryLongBelow</string>
+      <string>graceNoteAcciaccaturaStemUp</string>
+      <string>graceNoteAcciaccaturaStemDown</string>
+      <string>graceNoteAppoggiaturaStemUp</string>
+      <string>graceNoteAppoggiaturaStemDown</string>
+      <string>graceNoteSlashStemUp</string>
+      <string>graceNoteSlashStemDown</string>
+      <string>stringsDownBow</string>
+      <string>stringsDownBowTurned</string>
+      <string>stringsUpBow</string>
+      <string>stringsUpBowTurned</string>
       <string>accidentalFlatParens</string>
       <string>accidentalNaturalParens</string>
       <string>accidentalSharpParens</string>

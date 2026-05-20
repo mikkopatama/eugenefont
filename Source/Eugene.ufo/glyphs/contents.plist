@@ -232,6 +232,18 @@
     <string>gC_lefR_eversed.glif</string>
     <key>gClefTurned</key>
     <string>gC_lefT_urned.glif</string>
+    <key>graceNoteAcciaccaturaStemDown</key>
+    <string>graceN_oteA_cciaccaturaS_temD_own.glif</string>
+    <key>graceNoteAcciaccaturaStemUp</key>
+    <string>graceN_oteA_cciaccaturaS_temU_p.glif</string>
+    <key>graceNoteAppoggiaturaStemDown</key>
+    <string>graceN_oteA_ppoggiaturaS_temD_own.glif</string>
+    <key>graceNoteAppoggiaturaStemUp</key>
+    <string>graceN_oteA_ppoggiaturaS_temU_p.glif</string>
+    <key>graceNoteSlashStemDown</key>
+    <string>graceN_oteS_lashS_temD_own.glif</string>
+    <key>graceNoteSlashStemUp</key>
+    <string>graceN_oteS_lashS_temU_p.glif</string>
     <key>metNote8thDown</key>
     <string>metN_ote8thD_own.glif</string>
     <key>metNote8thUp</key>
@@ -412,6 +424,14 @@
     <string>reversedB_racketT_op.glif</string>
     <key>segno</key>
     <string>segno.glif</string>
+    <key>stringsDownBow</key>
+    <string>stringsD_ownB_ow.glif</string>
+    <key>stringsDownBowTurned</key>
+    <string>stringsD_ownB_owT_urned.glif</string>
+    <key>stringsUpBow</key>
+    <string>stringsU_pB_ow.glif</string>
+    <key>stringsUpBowTurned</key>
+    <string>stringsU_pB_owT_urned.glif</string>
     <key>systemDivider</key>
     <string>systemD_ivider.glif</string>
     <key>systemDividerExtraLong</key>

@@ -5,7 +5,8 @@
   <note>
 uniE241
 </note>
-  <anchor x="0" y="25" name="stemDownSW"/>
+  <anchor x="332" y="157" name="graceNoteSlashSE"/>
+  <anchor x="-149" y="542" name="stemDownSW"/>
   <outline>
     <contour>
       <point x="14" y="-6" type="curve" smooth="yes"/>
@@ -41,7 +42,7 @@ uniE241
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-16 13:36:45 +0000</string>
+      <string>2026-05-20 09:07:04 +0000</string>
     </dict>
   </lib>
 </glyph>
