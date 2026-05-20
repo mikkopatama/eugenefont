@@ -38,6 +38,6 @@ jobs:
       - name: Upload installer to Release
         uses: softprops/action-gh-release@v2
         with:
-          files: Installers/Windows/Output/Eugene-Win-*.exe 
+          files: Installers/Windows/Scripts/Output/Eugene-Win-*.exe 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
