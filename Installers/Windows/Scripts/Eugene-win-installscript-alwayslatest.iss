@@ -8,12 +8,12 @@
 #define MyAppPublisher "Mikko Patama"
 #define MyAppURL "https://github.com/mikkopatama/eugenefont"
 #define public GetVersion(fallbackVersion) \
-  Local[0] = "git describe --tags > version.txt", \
+  Local[0] = "powershell -Command ""(Invoke-RestMethod -Uri 'https://api.github.com/repos/mikkopatama/eugenefont/releases/latest').tag_name | Out-File -FilePath version.txt -Encoding Default""", \
   Local[1] = Exec("cmd.exe", "/c " + Local[0], SourcePath, 1, 0), \
   Local[2] = FileOpen(AddBackslash(SourcePath) + "version.txt"), \
   Local[3] = FileRead(Local[2]), \
   FileClose(Local[2]), \
-  Local[3] == "" ? fallbackVersion : (Trim(Local[3]) + " (latest)")
+  Local[3] == "" ? fallbackVersion : Trim(Local[3])
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
