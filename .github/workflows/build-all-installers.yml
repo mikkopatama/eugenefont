@@ -1,9 +1,7 @@
 name: Build latest version setup installer
 
 on:
-  push:
-    tags:
-      - 'v*'
+  release:
 
 jobs:
   build:
