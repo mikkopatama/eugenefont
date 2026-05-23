@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="repeatBarLowerDot" format="2">
+  <advance width="108"/>
+  <unicode hex="E505"/>
+  <note>
+repeatBarLowerDot
+</note>
+  <outline>
+    <contour>
+      <point x="108" y="-126" type="curve" smooth="yes"/>
+      <point x="108" y="-96"/>
+      <point x="83" y="-72"/>
+      <point x="54" y="-72" type="curve" smooth="yes"/>
+      <point x="24" y="-72"/>
+      <point x="0" y="-96"/>
+      <point x="0" y="-126" type="curve" smooth="yes"/>
+      <point x="0" y="-156"/>
+      <point x="24" y="-180"/>
+      <point x="54" y="-180" type="curve" smooth="yes"/>
+      <point x="83" y="-180"/>
+      <point x="108" y="-156"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-23 08:42:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

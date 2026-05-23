@@ -2,6 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>_ornamentCadencePrefix</key>
+    <string>_ornamentC_adenceP_refix.glif</string>
+    <key>_ornamentCadenceUpperPref</key>
+    <string>_ornamentC_adenceU_pperP_ref.glif</string>
+    <key>_ornamentPole</key>
+    <string>_ornamentP_ole.glif</string>
+    <key>_ornamentSlideDown</key>
+    <string>_ornamentS_lideD_own.glif</string>
+    <key>_ornamentSlideUp</key>
+    <string>_ornamentS_lideU_p.glif</string>
+    <key>_ornamentSuffix</key>
+    <string>_ornamentS_uffix.glif</string>
+    <key>_ornamentTreblement</key>
+    <string>_ornamentT_reblement.glif</string>
+    <key>_ornamentTurnTrillPrefix</key>
+    <string>_ornamentT_urnT_rillP_refix.glif</string>
+    <key>_ornamentTurnTrillSuffix</key>
+    <string>_ornamentT_urnT_rillS_uffix.glif</string>
     <key>accidentalBracketLeft</key>
     <string>accidentalB_racketL_eft.glif</string>
     <key>accidentalBracketRight</key>
@@ -342,6 +360,48 @@
     <string>noteheadX_O_rnate.glif</string>
     <key>ornamentMordent</key>
     <string>ornamentM_ordent.glif</string>
+    <key>ornamentPrecompAppoggTrill</key>
+    <string>ornamentP_recompA_ppoggT_rill.glif</string>
+    <key>ornamentPrecompAppoggTrillSuffix</key>
+    <string>ornamentP_recompA_ppoggT_rillS_uffix.glif</string>
+    <key>ornamentPrecompCadence</key>
+    <string>ornamentP_recompC_adence.glif</string>
+    <key>ornamentPrecompCadenceUpperPrefix</key>
+    <string>ornamentP_recompC_adenceU_pperP_refix.glif</string>
+    <key>ornamentPrecompCadenceUpperPrefixTurn</key>
+    <string>ornamentP_recompC_adenceU_pperP_refixT_urn.glif</string>
+    <key>ornamentPrecompCadenceWithTurn</key>
+    <string>ornamentP_recompC_adenceW_ithT_urn.glif</string>
+    <key>ornamentPrecompDescendingSlide</key>
+    <string>ornamentP_recompD_escendingS_lide.glif</string>
+    <key>ornamentPrecompDoubleCadenceLowerPrefix</key>
+    <string>ornamentP_recompD_oubleC_adenceL_owerP_refix.glif</string>
+    <key>ornamentPrecompDoubleCadenceUpperPrefix</key>
+    <string>ornamentP_recompD_oubleC_adenceU_pperP_refix.glif</string>
+    <key>ornamentPrecompDoubleCadenceUpperPrefixTurn</key>
+    <string>ornamentP_recompD_oubleC_adenceU_pperP_refixT_urn.glif</string>
+    <key>ornamentPrecompMordentRelease</key>
+    <string>ornamentP_recompM_ordentR_elease.glif</string>
+    <key>ornamentPrecompSlide</key>
+    <string>ornamentP_recompS_lide.glif</string>
+    <key>ornamentPrecompSlideTrillBach</key>
+    <string>ornamentP_recompS_lideT_rillB_ach.glif</string>
+    <key>ornamentPrecompSlideTrillDAnglebert</key>
+    <string>ornamentP_recompS_lideT_rillD_A_nglebert.glif</string>
+    <key>ornamentPrecompSlideTrillMarpurg</key>
+    <string>ornamentP_recompS_lideT_rillM_arpurg.glif</string>
+    <key>ornamentPrecompSlideTrillMuffat</key>
+    <string>ornamentP_recompS_lideT_rillM_uffat.glif</string>
+    <key>ornamentPrecompSlideTrillSuffixMuffat</key>
+    <string>ornamentP_recompS_lideT_rillS_uffixM_uffat.glif</string>
+    <key>ornamentPrecompTrillSuffixDandrieu</key>
+    <string>ornamentP_recompT_rillS_uffixD_andrieu.glif</string>
+    <key>ornamentPrecompTrillWithMordent</key>
+    <string>ornamentP_recompT_rillW_ithM_ordent.glif</string>
+    <key>ornamentPrecompTurnTrillBach</key>
+    <string>ornamentP_recompT_urnT_rillB_ach.glif</string>
+    <key>ornamentPrecompTurnTrillDAnglebert</key>
+    <string>ornamentP_recompT_urnT_rillD_A_nglebert.glif</string>
     <key>ornamentShortTrill</key>
     <string>ornamentS_hortT_rill.glif</string>
     <key>ornamentTreblement</key>
@@ -370,6 +430,18 @@
     <string>ottavaB_assaV_b.glif</string>
     <key>quarternoteStemUp</key>
     <string>quarternoteS_temU_p.glif</string>
+    <key>repeat1Bar</key>
+    <string>repeat1B_ar.glif</string>
+    <key>repeat2Bars</key>
+    <string>repeat2B_ars.glif</string>
+    <key>repeat4Bars</key>
+    <string>repeat4B_ars.glif</string>
+    <key>repeatBarLowerDot</key>
+    <string>repeatB_arL_owerD_ot.glif</string>
+    <key>repeatBarSlash</key>
+    <string>repeatB_arS_lash.glif</string>
+    <key>repeatBarUpperDot</key>
+    <string>repeatB_arU_pperD_ot.glif</string>
     <key>rest1024th</key>
     <string>rest1024th.glif</string>
     <key>rest128th</key>

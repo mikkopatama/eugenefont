@@ -423,6 +423,8 @@
       <string>metNote8thUp</string>
       <string>metNote8thDown</string>
       <string>cClefFrench</string>
+      <string>ornamentPrecompSlideTrillMuffat</string>
+      <string>ornamentPrecompSlideTrillSuffixMuffat</string>
       <string>clef8</string>
       <string>clef15</string>
       <string>noteheadXBlack</string>
@@ -459,12 +461,37 @@
       <string>fermataLongBelow</string>
       <string>fermataVeryLongAbove</string>
       <string>fermataVeryLongBelow</string>
+      <string>repeat1Bar</string>
+      <string>repeat2Bars</string>
+      <string>repeat4Bars</string>
+      <string>repeatBarUpperDot</string>
+      <string>repeatBarSlash</string>
+      <string>repeatBarLowerDot</string>
       <string>graceNoteAcciaccaturaStemUp</string>
       <string>graceNoteAcciaccaturaStemDown</string>
       <string>graceNoteAppoggiaturaStemUp</string>
       <string>graceNoteAppoggiaturaStemDown</string>
       <string>graceNoteSlashStemUp</string>
       <string>graceNoteSlashStemDown</string>
+      <string>ornamentPrecompSlide</string>
+      <string>ornamentPrecompDescendingSlide</string>
+      <string>ornamentPrecompAppoggTrill</string>
+      <string>ornamentPrecompAppoggTrillSuffix</string>
+      <string>ornamentPrecompTurnTrillDAnglebert</string>
+      <string>ornamentPrecompTurnTrillBach</string>
+      <string>ornamentPrecompSlideTrillDAnglebert</string>
+      <string>ornamentPrecompSlideTrillMarpurg</string>
+      <string>ornamentPrecompSlideTrillBach</string>
+      <string>ornamentPrecompTrillSuffixDandrieu</string>
+      <string>ornamentPrecompTrillWithMordent</string>
+      <string>ornamentPrecompCadence</string>
+      <string>ornamentPrecompCadenceWithTurn</string>
+      <string>ornamentPrecompDoubleCadenceLowerPrefix</string>
+      <string>ornamentPrecompCadenceUpperPrefix</string>
+      <string>ornamentPrecompCadenceUpperPrefixTurn</string>
+      <string>ornamentPrecompDoubleCadenceUpperPrefix</string>
+      <string>ornamentPrecompDoubleCadenceUpperPrefixTurn</string>
+      <string>ornamentPrecompMordentRelease</string>
       <string>stringsDownBow</string>
       <string>stringsDownBowTurned</string>
       <string>stringsUpBow</string>
@@ -474,6 +501,15 @@
       <string>accidentalSharpParens</string>
       <string>accidentalDoubleSharpParens</string>
       <string>accidentalDoubleFlatParens</string>
+      <string>_ornamentCadencePrefix</string>
+      <string>_ornamentCadenceUpperPref</string>
+      <string>_ornamentPole</string>
+      <string>_ornamentSlideDown</string>
+      <string>_ornamentSlideUp</string>
+      <string>_ornamentSuffix</string>
+      <string>_ornamentTreblement</string>
+      <string>_ornamentTurnTrillPrefix</string>
+      <string>_ornamentTurnTrillSuffix</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -770,5 +806,17 @@
       <key>tuplet6</key>
       <string>uniE886</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>_ornamentCadencePrefix</string>
+      <string>_ornamentCadenceUpperPref</string>
+      <string>_ornamentPole</string>
+      <string>_ornamentSlideDown</string>
+      <string>_ornamentSlideUp</string>
+      <string>_ornamentSuffix</string>
+      <string>_ornamentTreblement</string>
+      <string>_ornamentTurnTrillPrefix</string>
+      <string>_ornamentTurnTrillSuffix</string>
+    </array>
   </dict>
 </plist>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ornamentShortTrill" format="2">
-  <advance width="708"/>
-  <unicode hex="E56C"/>
+<glyph name="ornamentPrecompSlide" format="2">
+  <advance width="1088"/>
+  <unicode hex="E5B0"/>
   <note>
-uniE56C
+uniE5B0
 </note>
   <outline>
     <contour>
@@ -34,10 +34,13 @@ uniE56C
       <point x="709" y="203"/>
       <point x="701" y="208" type="curve" smooth="yes"/>
       <point x="692" y="213"/>
-      <point x="684" y="210"/>
-      <point x="677" y="201" type="curve" smooth="yes"/>
-      <point x="660" y="178"/>
-      <point x="651" y="167"/>
+      <point x="685" y="210"/>
+      <point x="678" y="201" type="curve" smooth="yes"/>
+      <point x="675" y="197"/>
+      <point x="673" y="195"/>
+      <point x="671" y="192" type="curve" smooth="yes"/>
+      <point x="657" y="174"/>
+      <point x="646" y="161"/>
       <point x="611" y="120" type="curve" smooth="yes"/>
       <point x="608" y="117"/>
       <point x="595" y="116"/>
@@ -72,11 +75,12 @@ uniE56C
       <point x="-1" y="61"/>
       <point x="-2" y="52"/>
     </contour>
+    <component base="_ornamentSlideUp"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-23 10:54:55 +0000</string>
+      <string>2026-05-23 12:16:54 +0000</string>
     </dict>
   </lib>
 </glyph>

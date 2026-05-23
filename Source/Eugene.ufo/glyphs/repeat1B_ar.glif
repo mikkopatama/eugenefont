@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="repeat1Bar" format="2">
+  <advance width="524"/>
+  <unicode hex="E500"/>
+  <note>
+repeat1Bar
+</note>
+  <anchor x="10" y="-247" name="stemDownNW"/>
+  <outline>
+    <contour>
+      <point x="120" y="125" type="curve" smooth="yes"/>
+      <point x="120" y="155"/>
+      <point x="95" y="179"/>
+      <point x="66" y="179" type="curve" smooth="yes"/>
+      <point x="36" y="179"/>
+      <point x="12" y="155"/>
+      <point x="12" y="125" type="curve" smooth="yes"/>
+      <point x="12" y="95"/>
+      <point x="36" y="71"/>
+      <point x="66" y="71" type="curve" smooth="yes"/>
+      <point x="95" y="71"/>
+      <point x="120" y="95"/>
+    </contour>
+    <contour>
+      <point x="514" y="-126" type="curve" smooth="yes"/>
+      <point x="514" y="-96"/>
+      <point x="489" y="-72"/>
+      <point x="460" y="-72" type="curve" smooth="yes"/>
+      <point x="430" y="-72"/>
+      <point x="406" y="-96"/>
+      <point x="406" y="-126" type="curve" smooth="yes"/>
+      <point x="406" y="-156"/>
+      <point x="430" y="-180"/>
+      <point x="460" y="-180" type="curve" smooth="yes"/>
+      <point x="489" y="-180"/>
+      <point x="514" y="-156"/>
+    </contour>
+    <contour>
+      <point x="514" y="249" type="curve" smooth="yes"/>
+      <point x="425" y="249" type="line" smooth="yes"/>
+      <point x="420" y="249"/>
+      <point x="416" y="247"/>
+      <point x="412" y="243" type="curve" smooth="yes"/>
+      <point x="5" y="-232" type="line" smooth="yes"/>
+      <point x="-3" y="-241"/>
+      <point x="-1" y="-247"/>
+      <point x="10" y="-247" type="curve" smooth="yes"/>
+      <point x="99" y="-247" type="line" smooth="yes"/>
+      <point x="104" y="-247"/>
+      <point x="108" y="-245"/>
+      <point x="112" y="-241" type="curve" smooth="yes"/>
+      <point x="519" y="234" type="line" smooth="yes"/>
+      <point x="527" y="243"/>
+      <point x="525" y="249"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-23 08:39:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

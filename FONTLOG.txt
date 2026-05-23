@@ -10,6 +10,46 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+23 May 2026 (v. 0.515)
+
+- Modified:
+	ornamentShortTrill
+	ornamentMordent
+	ornamentTreblement
+
+
+- Added:
+	ornamentPrecompSlideTrillMuffat
+	ornamentPrecompSlideTrillSuffixMuffat
+	ornamentPrecompSlide
+	ornamentPrecompDescendingSlide
+	ornamentPrecompAppoggTrill
+	ornamentPrecompAppoggTrillSuffix
+	ornamentPrecompTurnTrillDAnglebert
+	ornamentPrecompTurnTrillBach
+	ornamentPrecompSlideTrillDAnglebert
+	ornamentPrecompSlideTrillMarpurg
+	ornamentPrecompSlideTrillBach
+	ornamentPrecompTrillSuffixDandrieu
+	ornamentPrecompTrillWithMordent
+	ornamentPrecompCadence
+	ornamentPrecompCadenceWithTurn
+	ornamentPrecompDoubleCadenceLowerPrefix
+	ornamentPrecompCadenceUpperPrefix
+	ornamentPrecompCadenceUpperPrefixTurn
+	ornamentPrecompDoubleCadenceUpperPrefix
+	ornamentPrecompDoubleCadenceUpperPrefixTurn
+	ornamentPrecompMordentRelease
+
+	repeat1Bar
+	repeat2Bars
+	repeat4Bars
+	repeatBarUpperDot
+	repeatBarSlash
+	repeatBarLowerDot
+
+
+
 20 May 2026 (v. 0.514)
 
 - Modified:

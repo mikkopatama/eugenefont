@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "0.514",
+  "fontVersion": "0.515",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -369,6 +369,12 @@
       "stemUpSE": [
         1.336,
         0.052
+      ]
+    },
+    "repeat1Bar": {
+      "stemDownNW": [
+        0.04,
+        -0.988
       ]
     }
   },
@@ -2005,32 +2011,242 @@
     },
     "ornamentMordent": {
       "bBoxNE": [
-        2.952,
-        1.276
+        2.831,
+        1.424
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.416
+      ]
+    },
+    "ornamentPrecompAppoggTrill": {
+      "bBoxNE": [
+        3.971,
+        1.92
+      ],
+      "bBoxSW": [
+        -0.016,
+        -0.066
+      ]
+    },
+    "ornamentPrecompAppoggTrillSuffix": {
+      "bBoxNE": [
+        3.252,
+        2.356
       ],
       "bBoxSW": [
         0.0,
-        -0.292
+        -0.01
+      ]
+    },
+    "ornamentPrecompCadence": {
+      "bBoxNE": [
+        4.255,
+        1.092
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.01
+      ]
+    },
+    "ornamentPrecompCadenceUpperPrefix": {
+      "bBoxNE": [
+        3.995,
+        1.092
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.01
+      ]
+    },
+    "ornamentPrecompCadenceUpperPrefixTurn": {
+      "bBoxNE": [
+        3.995,
+        1.44
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.4
+      ]
+    },
+    "ornamentPrecompCadenceWithTurn": {
+      "bBoxNE": [
+        4.255,
+        1.44
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.4
+      ]
+    },
+    "ornamentPrecompDescendingSlide": {
+      "bBoxNE": [
+        4.632,
+        1.06
+      ],
+      "bBoxSW": [
+        -0.0,
+        -0.733
+      ]
+    },
+    "ornamentPrecompDoubleCadenceLowerPrefix": {
+      "bBoxNE": [
+        3.991,
+        1.06
+      ],
+      "bBoxSW": [
+        -1.232,
+        -0.066
+      ]
+    },
+    "ornamentPrecompDoubleCadenceUpperPrefix": {
+      "bBoxNE": [
+        5.055,
+        1.06
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.066
+      ]
+    },
+    "ornamentPrecompDoubleCadenceUpperPrefixTurn": {
+      "bBoxNE": [
+        5.055,
+        1.44
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.4
+      ]
+    },
+    "ornamentPrecompMordentRelease": {
+      "bBoxNE": [
+        2.864,
+        1.604
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.01
+      ]
+    },
+    "ornamentPrecompSlide": {
+      "bBoxNE": [
+        4.352,
+        1.18
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.01
+      ]
+    },
+    "ornamentPrecompSlideTrillBach": {
+      "bBoxNE": [
+        3.979,
+        1.44
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.103
+      ]
+    },
+    "ornamentPrecompSlideTrillDAnglebert": {
+      "bBoxNE": [
+        3.979,
+        1.06
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.103
+      ]
+    },
+    "ornamentPrecompSlideTrillMarpurg": {
+      "bBoxNE": [
+        4.056,
+        1.608
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.103
+      ]
+    },
+    "ornamentPrecompSlideTrillMuffat": {
+      "bBoxNE": [
+        5.533,
+        1.898
+      ],
+      "bBoxSW": [
+        -0.0,
+        -1.065
+      ]
+    },
+    "ornamentPrecompSlideTrillSuffixMuffat": {
+      "bBoxNE": [
+        4.308,
+        1.532
+      ],
+      "bBoxSW": [
+        -0.0,
+        -1.065
+      ]
+    },
+    "ornamentPrecompTrillSuffixDandrieu": {
+      "bBoxNE": [
+        4.06,
+        1.6
+      ],
+      "bBoxSW": [
+        -0.0,
+        -0.066
+      ]
+    },
+    "ornamentPrecompTrillWithMordent": {
+      "bBoxNE": [
+        3.991,
+        1.44
+      ],
+      "bBoxSW": [
+        -0.0,
+        -0.4
+      ]
+    },
+    "ornamentPrecompTurnTrillBach": {
+      "bBoxNE": [
+        5.79,
+        1.44
+      ],
+      "bBoxSW": [
+        0.008,
+        -0.4
+      ]
+    },
+    "ornamentPrecompTurnTrillDAnglebert": {
+      "bBoxNE": [
+        5.857,
+        1.898
+      ],
+      "bBoxSW": [
+        0.008,
+        -0.066
       ]
     },
     "ornamentShortTrill": {
       "bBoxNE": [
-        2.952,
-        1.156
+        2.831,
+        1.092
       ],
       "bBoxSW": [
-        0.0,
-        0.004
+        -0.001,
+        -0.01
       ]
     },
     "ornamentTremblement": {
       "bBoxNE": [
-        4.056,
-        1.164
+        3.991,
+        1.06
       ],
       "bBoxSW": [
-        0.0,
-        0.0
+        -0.0,
+        -0.066
       ]
     },
     "ornamentTrill": {
@@ -2151,6 +2367,66 @@
       "bBoxSW": [
         0.188,
         -0.648
+      ]
+    },
+    "repeat1Bar": {
+      "bBoxNE": [
+        2.095,
+        0.996
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.988
+      ]
+    },
+    "repeat2Bars": {
+      "bBoxNE": [
+        2.895,
+        0.996
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.988
+      ]
+    },
+    "repeat4Bars": {
+      "bBoxNE": [
+        4.495,
+        0.996
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.988
+      ]
+    },
+    "repeatBarLowerDot": {
+      "bBoxNE": [
+        0.432,
+        -0.288
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.72
+      ]
+    },
+    "repeatBarSlash": {
+      "bBoxNE": [
+        2.095,
+        0.996
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.988
+      ]
+    },
+    "repeatBarUpperDot": {
+      "bBoxNE": [
+        0.432,
+        0.716
+      ],
+      "bBoxSW": [
+        0.0,
+        0.284
       ]
     },
     "rest1024th": {
