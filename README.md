@@ -9,11 +9,48 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 244
+Current glyph count: 271
 
 > **Version 0.51 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
 > Glyph coverage will expand in future releases.
 All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica).
+
+## More or less complete
+
+☑ Most frequently used basic noteheads
+
+☑ All slash noteheads
+
+☑ Three of the most frequently used clefs with ottava variants
+
+☑ Time signature numbers
+
+☑ All basic flags
+
+☑ All standard accidentals
+
+☑ All rests
+
+☑ All bar repeat signs
+
+☑ All common ornaments
+
+☑ All tuplet numbers
+
+☑ Most frequently used articulation glyphs
+
+## Goals for future releases
+
+☐ Finish [Articulations](https://w3c-cg.github.io/smufl/latest/tables/articulation.html)
+
+☐ Finish [Precomposed trills and mordents](https://w3c-cg.github.io/smufl/latest/tables/precomposed-trills-and-mordents.html)
+
+☐ Finish [Time signatures](https://w3c-cg.github.io/smufl/latest/tables/time-signatures.html)
+
+☐ More [Noteheads](https://w3c-cg.github.io/smufl/latest/tables/noteheads.html), not necessarily all in the SMuFL standard
+
+
+
 ---
 
 ## Files
@@ -35,7 +72,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 Quick automated installation:
 
-Download either the [macOS package](https://github.com/mikkopatama/eugenefont/blob/main/Installers/macOS/Eugene-v0.514.pkg) or the [Windows installer](https://github.com/mikkopatama/eugenefont/blob/main/Installers/Windows/Eugene-Win-0.514.exe), which will add the correct files in the system font directories.
+Download either the [macOS package](https://github.com/mikkopatama/eugenefont/blob/main/Installers/macOS/) or the [Windows installer](https://github.com/mikkopatama/eugenefont/blob/main/Installers/Windows/), which will add the correct files in the system font directories.
 
 Manual installation:
 
