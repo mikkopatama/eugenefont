@@ -9,9 +9,10 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 271
+Current glyph count: 371
+Target: ~500 glyphs
 
-> **Version 0.51 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
+> **Version 0.6 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
 > Glyph coverage will expand in future releases.
 All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica).
 
@@ -23,7 +24,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☑ Three of the most frequently used clefs with ottava variants
 
-☑ Time signature numbers
+☑ All time signature glyphs
 
 ☑ All basic flags
 
@@ -35,17 +36,13 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☑ All common ornaments
 
+☑ All [Precomposed trills and mordents](https://w3c-cg.github.io/smufl/latest/tables/precomposed-trills-and-mordents.html)
+
 ☑ All tuplet numbers
 
-☑ Most frequently used articulation glyphs
+☑ All [Articulations](https://w3c-cg.github.io/smufl/latest/tables/articulation.html)
 
 ## Goals for future releases in order of importance
-
-☐ Finish [Articulations](https://w3c-cg.github.io/smufl/latest/tables/articulation.html)
-
-☐ Finish [Precomposed trills and mordents](https://w3c-cg.github.io/smufl/latest/tables/precomposed-trills-and-mordents.html)
-
-☐ Finish [Time signatures](https://w3c-cg.github.io/smufl/latest/tables/time-signatures.html)
 
 ☐ Finish [Holds and pauses](https://w3c-cg.github.io/smufl/latest/tables/holds-and-pauses.html)
 
@@ -72,6 +69,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 |---|---|
 | `Installers` | Easy to use installer files for macOS and Windows |
 | `Source/Eugene.ufo` | Font source files, Unified Font Object package |
+| `Comparison Eugene-Bravura-Leland.pdf` | Comparison between Eugene and the default music fonts of Dorico and MuseScore |
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
 | `EugeneText.otf` | SMuFL-compliant OpenType music text font |
