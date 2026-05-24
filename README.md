@@ -12,6 +12,8 @@ The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buyme
 Current glyph count: 371
 Target: ~500 glyphs
 
+<img src="/Screenshot.png" />
+
 > **Version 0.6 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
 > Glyph coverage will expand in future releases.
 All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica).
