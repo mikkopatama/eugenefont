@@ -39,7 +39,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☑ Most frequently used articulation glyphs
 
-## Goals for future releases
+## Goals for future releases in order of importance
 
 ☐ Finish [Articulations](https://w3c-cg.github.io/smufl/latest/tables/articulation.html)
 
@@ -47,7 +47,20 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☐ Finish [Time signatures](https://w3c-cg.github.io/smufl/latest/tables/time-signatures.html)
 
+☐ Finish [Holds and pauses](https://w3c-cg.github.io/smufl/latest/tables/holds-and-pauses.html)
+
+☐ Create jazz articulations for Dorico ([Brass techniques](https://w3c-cg.github.io/smufl/latest/tables/brass-techniques.html?highlight=Lift%20wavy#brass-techniques-ue5d0ue5ef) from E5D0 to E5E4)
+
+☐ Wind playing techniques
+
+☐ Brass playing techniques
+
+☐ Keyboard playing techniques
+
+☐ Strings playing techniques
+
 ☐ More [Noteheads](https://w3c-cg.github.io/smufl/latest/tables/noteheads.html), not necessarily all in the SMuFL standard
+
 
 
 
