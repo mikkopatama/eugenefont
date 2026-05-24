@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articStressAbove" format="2">
+  <advance width="184"/>
+  <unicode hex="E4B6"/>
+  <note>
+uniE4B6
+</note>
+  <outline>
+    <contour>
+      <point x="159" y="167" type="curve" smooth="yes"/>
+      <point x="139" y="185"/>
+      <point x="123" y="201"/>
+      <point x="107" y="184" type="curve" smooth="yes"/>
+      <point x="96" y="174"/>
+      <point x="-18" y="27"/>
+      <point x="3" y="6" type="curve" smooth="yes"/>
+      <point x="23" y="-13"/>
+      <point x="162" y="99"/>
+      <point x="179" y="116" type="curve" smooth="yes"/>
+      <point x="193" y="132"/>
+      <point x="177" y="148"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-23 22:58:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

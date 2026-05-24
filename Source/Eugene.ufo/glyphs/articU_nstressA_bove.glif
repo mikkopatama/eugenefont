@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articUnstressAbove" format="2">
+  <advance width="344"/>
+  <unicode hex="E4B8"/>
+  <note>
+uniE4B8
+</note>
+  <outline>
+    <contour>
+      <point x="15" y="207" type="curve" smooth="yes"/>
+      <point x="14" y="207" type="line" smooth="yes"/>
+      <point x="5" y="207"/>
+      <point x="0" y="202"/>
+      <point x="0" y="192" type="curve" smooth="yes"/>
+      <point x="0" y="191" type="line" smooth="yes"/>
+      <point x="0" y="86"/>
+      <point x="77" y="0"/>
+      <point x="172" y="0" type="curve" smooth="yes"/>
+      <point x="267" y="0"/>
+      <point x="344" y="86"/>
+      <point x="344" y="191" type="curve" smooth="yes"/>
+      <point x="344" y="192" type="line" smooth="yes"/>
+      <point x="344" y="202"/>
+      <point x="338" y="207"/>
+      <point x="330" y="207" type="curve" smooth="yes"/>
+      <point x="329" y="207" type="line" smooth="yes"/>
+      <point x="320" y="207"/>
+      <point x="315" y="202"/>
+      <point x="315" y="192" type="curve" smooth="yes"/>
+      <point x="315" y="191" type="line" smooth="yes"/>
+      <point x="315" y="103"/>
+      <point x="251" y="32"/>
+      <point x="172" y="32" type="curve" smooth="yes"/>
+      <point x="94" y="32"/>
+      <point x="29" y="103"/>
+      <point x="29" y="191" type="curve" smooth="yes"/>
+      <point x="29" y="192" type="line" smooth="yes"/>
+      <point x="29" y="202"/>
+      <point x="23" y="207"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 11:30:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

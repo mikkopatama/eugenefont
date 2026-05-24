@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "0.515",
+  "fontVersion": "0.60",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -559,6 +559,26 @@
         -0.868
       ]
     },
+    "articLaissezVibrerAbove": {
+      "bBoxNE": [
+        1.462,
+        0.576
+      ],
+      "bBoxSW": [
+        0.01,
+        0.004
+      ]
+    },
+    "articLaissezVibrerBelow": {
+      "bBoxNE": [
+        1.45,
+        0.0
+      ],
+      "bBoxSW": [
+        -0.002,
+        -0.572
+      ]
+    },
     "articMarcatoAbove": {
       "bBoxNE": [
         0.824,
@@ -599,6 +619,106 @@
         -1.3
       ]
     },
+    "articStaccatissimoAbove": {
+      "bBoxNE": [
+        0.396,
+        0.892
+      ],
+      "bBoxSW": [
+        -0.0,
+        0.0
+      ]
+    },
+    "articStaccatissimoBelow": {
+      "bBoxNE": [
+        0.396,
+        0.0
+      ],
+      "bBoxSW": [
+        -0.0,
+        -0.892
+      ]
+    },
+    "articStaccatissimoStrokeAbove": {
+      "bBoxNE": [
+        0.18,
+        0.912
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "articStaccatissimoStrokeBelow": {
+      "bBoxNE": [
+        0.18,
+        0.0
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.912
+      ]
+    },
+    "articStaccatissimoWedgeAbove": {
+      "bBoxNE": [
+        0.407,
+        0.804
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.005
+      ]
+    },
+    "articStaccatissimoWedgeBelow": {
+      "bBoxNE": [
+        0.407,
+        0.001
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.808
+      ]
+    },
+    "articStaccatoAbove": {
+      "bBoxNE": [
+        0.336,
+        0.336
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "articStaccatoBelow": {
+      "bBoxNE": [
+        0.336,
+        0.0
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.336
+      ]
+    },
+    "articStressAbove": {
+      "bBoxNE": [
+        0.737,
+        0.765
+      ],
+      "bBoxSW": [
+        0.002,
+        0.015
+      ]
+    },
+    "articStressBelow": {
+      "bBoxNE": [
+        0.737,
+        0.001
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.749
+      ]
+    },
     "articTenutoAbove": {
       "bBoxNE": [
         1.303,
@@ -617,6 +737,26 @@
       "bBoxSW": [
         0.0,
         -0.237
+      ]
+    },
+    "articUnstressAbove": {
+      "bBoxNE": [
+        1.376,
+        0.828
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "articUnstressBelow": {
+      "bBoxNE": [
+        1.376,
+        0.004
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.824
       ]
     },
     "augmentationDot": {
@@ -1529,6 +1669,56 @@
         0.0
       ]
     },
+    "keyboardPedalDot": {
+      "bBoxNE": [
+        0.344,
+        0.344
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "keyboardPedalHalf2": {
+      "bBoxNE": [
+        2.608,
+        1.428
+      ],
+      "bBoxSW": [
+        0.0,
+        0.024
+      ]
+    },
+    "keyboardPedalHalf3": {
+      "bBoxNE": [
+        2.608,
+        2.428
+      ],
+      "bBoxSW": [
+        0.0,
+        1.024
+      ]
+    },
+    "keyboardPedalPed": {
+      "bBoxNE": [
+        4.72,
+        2.18
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.028
+      ]
+    },
+    "keyboardPedalUp": {
+      "bBoxNE": [
+        2.624,
+        2.228
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.456
+      ]
+    },
     "metNote8thDown": {
       "bBoxNE": [
         1.218,
@@ -2119,6 +2309,16 @@
         -0.4
       ]
     },
+    "ornamentPrecompInvertedMordentUpperPrefix": {
+      "bBoxNE": [
+        4.803,
+        1.454
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.4
+      ]
+    },
     "ornamentPrecompMordentRelease": {
       "bBoxNE": [
         2.864,
@@ -2127,6 +2327,26 @@
       "bBoxSW": [
         -0.001,
         -0.01
+      ]
+    },
+    "ornamentPrecompMordentUpperPrefix": {
+      "bBoxNE": [
+        4.803,
+        1.454
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.066
+      ]
+    },
+    "ornamentPrecompPortDeVoixMordent": {
+      "bBoxNE": [
+        5.191,
+        1.44
+      ],
+      "bBoxSW": [
+        0.18,
+        -0.4
       ]
     },
     "ornamentPrecompSlide": {
@@ -2187,6 +2407,16 @@
       "bBoxSW": [
         -0.0,
         -1.065
+      ]
+    },
+    "ornamentPrecompTrillLowerSuffix": {
+      "bBoxNE": [
+        3.724,
+        1.06
+      ],
+      "bBoxSW": [
+        0.12,
+        -0.976
       ]
     },
     "ornamentPrecompTrillSuffixDandrieu": {
@@ -2769,7 +2999,297 @@
         -0.212
       ]
     },
+    "textAugmentationDot": {
+      "bBoxNE": [
+        0.4,
+        0.256
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.144
+      ]
+    },
+    "textBlackNoteFrac16thLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.536
+      ]
+    },
+    "textBlackNoteFrac16thShortStem": {
+      "bBoxNE": [
+        1.368,
+        2.752
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.536
+      ]
+    },
+    "textBlackNoteFrac32ndLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.536
+      ]
+    },
+    "textBlackNoteFrac8thLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.536
+      ]
+    },
+    "textBlackNoteFrac8thShortStem": {
+      "bBoxNE": [
+        1.368,
+        2.752
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.54
+      ]
+    },
+    "textBlackNoteLongStem": {
+      "bBoxNE": [
+        1.14,
+        3.512
+      ],
+      "bBoxSW": [
+        -0.0,
+        -0.54
+      ]
+    },
+    "textBlackNoteShortStem": {
+      "bBoxNE": [
+        1.14,
+        2.792
+      ],
+      "bBoxSW": [
+        -0.0,
+        -0.54
+      ]
+    },
+    "textCont16thBeamLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        2.264
+      ]
+    },
+    "textCont16thBeamShortStem": {
+      "bBoxNE": [
+        1.368,
+        2.752
+      ],
+      "bBoxSW": [
+        0.0,
+        1.504
+      ]
+    },
+    "textCont32ndBeamLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        1.504
+      ]
+    },
+    "textCont8thBeamLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        3.012
+      ]
+    },
+    "textCont8thBeamShortStem": {
+      "bBoxNE": [
+        1.368,
+        2.752
+      ],
+      "bBoxSW": [
+        0.0,
+        2.252
+      ]
+    },
+    "textHeadlessBlackNoteFrac16thLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        0.188
+      ]
+    },
+    "textHeadlessBlackNoteFrac16thShortStem": {
+      "bBoxNE": [
+        1.368,
+        2.752
+      ],
+      "bBoxSW": [
+        0.0,
+        0.188
+      ]
+    },
+    "textHeadlessBlackNoteFrac32ndLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        0.188
+      ]
+    },
+    "textHeadlessBlackNoteFrac8thLongStem": {
+      "bBoxNE": [
+        1.368,
+        3.512
+      ],
+      "bBoxSW": [
+        0.0,
+        0.188
+      ]
+    },
+    "textHeadlessBlackNoteFrac8thShortStem": {
+      "bBoxNE": [
+        1.368,
+        2.752
+      ],
+      "bBoxSW": [
+        0.0,
+        0.184
+      ]
+    },
+    "textHeadlessBlackNoteLongStem": {
+      "bBoxNE": [
+        1.328,
+        3.512
+      ],
+      "bBoxSW": [
+        1.208,
+        0.184
+      ]
+    },
+    "textHeadlessBlackNoteShortStem": {
+      "bBoxNE": [
+        1.328,
+        2.752
+      ],
+      "bBoxSW": [
+        1.208,
+        0.184
+      ]
+    },
+    "textTie": {
+      "bBoxNE": [
+        1.46,
+        -0.732
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.304
+      ]
+    },
+    "textTuplet3LongStem": {
+      "bBoxNE": [
+        0.94,
+        5.3
+      ],
+      "bBoxSW": [
+        0.0,
+        4.2
+      ]
+    },
+    "textTuplet3ShortStem": {
+      "bBoxNE": [
+        0.94,
+        4.372
+      ],
+      "bBoxSW": [
+        0.0,
+        3.272
+      ]
+    },
+    "textTupletBracketEndLongStem": {
+      "bBoxNE": [
+        1.272,
+        4.764
+      ],
+      "bBoxSW": [
+        0.0,
+        3.94
+      ]
+    },
+    "textTupletBracketEndShortStem": {
+      "bBoxNE": [
+        1.272,
+        3.94
+      ],
+      "bBoxSW": [
+        0.0,
+        3.116
+      ]
+    },
+    "textTupletBracketStartLongStem": {
+      "bBoxNE": [
+        1.272,
+        4.764
+      ],
+      "bBoxSW": [
+        0.0,
+        3.94
+      ]
+    },
+    "textTupletBracketStartShortStem": {
+      "bBoxNE": [
+        1.272,
+        3.876
+      ],
+      "bBoxSW": [
+        0.0,
+        3.052
+      ]
+    },
     "timeSig0": {
+      "bBoxNE": [
+        1.484,
+        1.0
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.004
+      ]
+    },
+    "timeSig0Reversed": {
+      "bBoxNE": [
+        1.484,
+        1.0
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.004
+      ]
+    },
+    "timeSig0Turned": {
       "bBoxNE": [
         1.484,
         1.0
@@ -2789,6 +3309,26 @@
         -0.98
       ]
     },
+    "timeSig1Reversed": {
+      "bBoxNE": [
+        1.22,
+        1.008
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.98
+      ]
+    },
+    "timeSig1Turned": {
+      "bBoxNE": [
+        1.22,
+        1.008
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.98
+      ]
+    },
     "timeSig2": {
       "bBoxNE": [
         1.398,
@@ -2799,7 +3339,47 @@
         -0.972
       ]
     },
+    "timeSig2Reversed": {
+      "bBoxNE": [
+        1.404,
+        1.024
+      ],
+      "bBoxSW": [
+        0.086,
+        -0.972
+      ]
+    },
+    "timeSig2Turned": {
+      "bBoxNE": [
+        1.404,
+        1.02
+      ],
+      "bBoxSW": [
+        0.086,
+        -0.976
+      ]
+    },
     "timeSig3": {
+      "bBoxNE": [
+        1.264,
+        1.001
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.989
+      ]
+    },
+    "timeSig3Reversed": {
+      "bBoxNE": [
+        1.264,
+        0.992
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.0
+      ]
+    },
+    "timeSig3Turned": {
       "bBoxNE": [
         1.264,
         0.992
@@ -2819,7 +3399,47 @@
         -0.996
       ]
     },
+    "timeSig4Reversed": {
+      "bBoxNE": [
+        1.448,
+        1.004
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.996
+      ]
+    },
+    "timeSig4Turned": {
+      "bBoxNE": [
+        1.448,
+        0.996
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.004
+      ]
+    },
     "timeSig5": {
+      "bBoxNE": [
+        1.4,
+        0.896
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.076
+      ]
+    },
+    "timeSig5Reversed": {
+      "bBoxNE": [
+        1.4,
+        0.896
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.076
+      ]
+    },
+    "timeSig5Turned": {
       "bBoxNE": [
         1.4,
         0.896
@@ -2839,7 +3459,47 @@
         -0.928
       ]
     },
+    "timeSig6Reversed": {
+      "bBoxNE": [
+        1.436,
+        0.992
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.928
+      ]
+    },
+    "timeSig6Turned": {
+      "bBoxNE": [
+        1.436,
+        0.992
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.928
+      ]
+    },
     "timeSig7": {
+      "bBoxNE": [
+        1.456,
+        1.012
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.904
+      ]
+    },
+    "timeSig7Reversed": {
+      "bBoxNE": [
+        1.456,
+        1.012
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.904
+      ]
+    },
+    "timeSig7Turned": {
       "bBoxNE": [
         1.456,
         1.012
@@ -2859,6 +3519,26 @@
         -0.98
       ]
     },
+    "timeSig8Reversed": {
+      "bBoxNE": [
+        1.36,
+        0.988
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.98
+      ]
+    },
+    "timeSig8Turned": {
+      "bBoxNE": [
+        1.36,
+        0.988
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.98
+      ]
+    },
     "timeSig9": {
       "bBoxNE": [
         1.472,
@@ -2867,6 +3547,66 @@
       "bBoxSW": [
         0.078,
         -1.02
+      ]
+    },
+    "timeSig9Reversed": {
+      "bBoxNE": [
+        1.474,
+        1.032
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.02
+      ]
+    },
+    "timeSig9Turned": {
+      "bBoxNE": [
+        1.474,
+        1.032
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.02
+      ]
+    },
+    "timeSigBracketLeft": {
+      "bBoxNE": [
+        0.472,
+        2.456
+      ],
+      "bBoxSW": [
+        0.0,
+        -2.488
+      ]
+    },
+    "timeSigBracketLeftSmall": {
+      "bBoxNE": [
+        0.472,
+        1.456
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.488
+      ]
+    },
+    "timeSigBracketRight": {
+      "bBoxNE": [
+        0.472,
+        2.456
+      ],
+      "bBoxSW": [
+        0.0,
+        -2.488
+      ]
+    },
+    "timeSigBracketRightSmall": {
+      "bBoxNE": [
+        0.472,
+        1.456
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.488
       ]
     },
     "timeSigComma": {
@@ -2881,22 +3621,262 @@
     },
     "timeSigCommon": {
       "bBoxNE": [
-        1.772,
+        1.844,
         1.104
       ],
       "bBoxSW": [
-        0.008,
+        0.08,
         -0.968
+      ]
+    },
+    "timeSigCommonReversed": {
+      "bBoxNE": [
+        1.844,
+        1.104
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.968
+      ]
+    },
+    "timeSigCommonTurned": {
+      "bBoxNE": [
+        1.844,
+        1.104
+      ],
+      "bBoxSW": [
+        0.08,
+        -0.968
+      ]
+    },
+    "timeSigCut2": {
+      "bBoxNE": [
+        1.383,
+        1.328
+      ],
+      "bBoxSW": [
+        0.068,
+        -1.312
+      ]
+    },
+    "timeSigCut3": {
+      "bBoxNE": [
+        1.252,
+        1.328
+      ],
+      "bBoxSW": [
+        0.068,
+        -1.312
       ]
     },
     "timeSigCutCommon": {
       "bBoxNE": [
-        1.772,
+        1.844,
         1.412
       ],
       "bBoxSW": [
-        0.008,
+        0.08,
         -1.276
+      ]
+    },
+    "timeSigCutCommonReversed": {
+      "bBoxNE": [
+        1.844,
+        1.412
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.276
+      ]
+    },
+    "timeSigCutCommonTurned": {
+      "bBoxNE": [
+        1.844,
+        1.412
+      ],
+      "bBoxSW": [
+        0.08,
+        -1.276
+      ]
+    },
+    "timeSigEquals": {
+      "bBoxNE": [
+        1.792,
+        0.368
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.368
+      ]
+    },
+    "timeSigFractionHalf": {
+      "bBoxNE": [
+        1.559,
+        0.996
+      ],
+      "bBoxSW": [
+        0.073,
+        -0.96
+      ]
+    },
+    "timeSigFractionOneThird": {
+      "bBoxNE": [
+        1.6,
+        0.996
+      ],
+      "bBoxSW": [
+        0.073,
+        -1.004
+      ]
+    },
+    "timeSigFractionQuarter": {
+      "bBoxNE": [
+        1.588,
+        0.996
+      ],
+      "bBoxSW": [
+        0.073,
+        -0.992
+      ]
+    },
+    "timeSigFractionThreeQuarters": {
+      "bBoxNE": [
+        1.588,
+        1.012
+      ],
+      "bBoxSW": [
+        0.073,
+        -0.992
+      ]
+    },
+    "timeSigFractionTwoThirds": {
+      "bBoxNE": [
+        1.604,
+        0.964
+      ],
+      "bBoxSW": [
+        0.072,
+        -1.004
+      ]
+    },
+    "timeSigFractionalSlash": {
+      "bBoxNE": [
+        1.487,
+        0.743
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.743
+      ]
+    },
+    "timeSigMinus": {
+      "bBoxNE": [
+        1.792,
+        0.088
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.08
+      ]
+    },
+    "timeSigMultiply": {
+      "bBoxNE": [
+        1.487,
+        0.743
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.743
+      ]
+    },
+    "timeSigOpenPenderecki": {
+      "bBoxNE": [
+        3.384,
+        1.0
+      ],
+      "bBoxSW": [
+        -0.004,
+        -0.992
+      ]
+    },
+    "timeSigParensLeft": {
+      "bBoxNE": [
+        0.768,
+        1.928
+      ],
+      "bBoxSW": [
+        -0.016,
+        -1.932
+      ]
+    },
+    "timeSigParensLeftSmall": {
+      "bBoxNE": [
+        0.452,
+        0.988
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.992
+      ]
+    },
+    "timeSigParensRight": {
+      "bBoxNE": [
+        0.784,
+        1.928
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.932
+      ]
+    },
+    "timeSigParensRightSmall": {
+      "bBoxNE": [
+        0.452,
+        0.988
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.992
+      ]
+    },
+    "timeSigPlus": {
+      "bBoxNE": [
+        2.004,
+        1.016
+      ],
+      "bBoxSW": [
+        -0.02,
+        -1.008
+      ]
+    },
+    "timeSigPlusSmall": {
+      "bBoxNE": [
+        0.976,
+        0.472
+      ],
+      "bBoxSW": [
+        0.032,
+        -0.472
+      ]
+    },
+    "timeSigSlash": {
+      "bBoxNE": [
+        1.308,
+        2.064
+      ],
+      "bBoxSW": [
+        0.0,
+        -2.068
+      ]
+    },
+    "timeSigX": {
+      "bBoxNE": [
+        1.604,
+        1.5
+      ],
+      "bBoxSW": [
+        0.016,
+        -1.508
       ]
     },
     "tremolo1": {
@@ -3027,6 +4007,26 @@
       "bBoxSW": [
         -0.0,
         0.0
+      ]
+    },
+    "organGermanSemibrevisRest": {
+      "bBoxNE": [
+        1.108,
+        1.9
+      ],
+      "bBoxSW": [
+        0.892,
+        0.016
+      ]
+    },
+    "organGermanMinimaRest": {
+      "bBoxNE": [
+        1.276,
+        1.868
+      ],
+      "bBoxSW": [
+        0.72,
+        0.048
       ]
     }
   },

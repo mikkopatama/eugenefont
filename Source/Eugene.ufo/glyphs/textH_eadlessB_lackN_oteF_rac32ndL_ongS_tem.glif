@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="textHeadlessBlackNoteFrac32ndLongStem" format="2">
+  <advance width="342"/>
+  <unicode hex="E20A"/>
+  <note>
+uniE20A
+</note>
+  <outline>
+    <contour>
+      <point x="312" y="47" type="line"/>
+      <point x="342" y="47" type="line"/>
+      <point x="342" y="878" type="line"/>
+      <point x="0" y="878" type="line"/>
+      <point x="0" y="753" type="line"/>
+      <point x="312" y="753" type="line"/>
+      <point x="312" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="563" type="line"/>
+      <point x="312" y="563" type="line"/>
+      <point x="312" y="501" type="line"/>
+      <point x="0" y="501" type="line"/>
+      <point x="0" y="376" type="line"/>
+      <point x="312" y="376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 14:54:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

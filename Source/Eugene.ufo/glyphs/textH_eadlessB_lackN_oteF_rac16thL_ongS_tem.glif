@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="textHeadlessBlackNoteFrac16thLongStem" format="2">
+  <advance width="342"/>
+  <unicode hex="E209"/>
+  <note>
+uniE209
+</note>
+  <outline>
+    <contour>
+      <point x="312" y="47" type="line"/>
+      <point x="342" y="47" type="line"/>
+      <point x="342" y="878" type="line"/>
+      <point x="0" y="878" type="line"/>
+      <point x="0" y="753" type="line"/>
+      <point x="312" y="753" type="line"/>
+      <point x="312" y="691" type="line"/>
+      <point x="0" y="691" type="line"/>
+      <point x="0" y="566" type="line"/>
+      <point x="312" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 14:54:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

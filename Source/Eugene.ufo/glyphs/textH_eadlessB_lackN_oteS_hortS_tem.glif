@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="textHeadlessBlackNoteShortStem" format="2">
+  <advance width="332"/>
+  <unicode hex="E204"/>
+  <note>
+uniE204
+</note>
+  <outline>
+    <contour>
+      <point x="302" y="46" type="line"/>
+      <point x="332" y="46" type="line"/>
+      <point x="332" y="688" type="line"/>
+      <point x="302" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 14:54:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

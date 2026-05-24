@@ -423,10 +423,49 @@
       <string>metNote8thUp</string>
       <string>metNote8thDown</string>
       <string>cClefFrench</string>
-      <string>ornamentPrecompSlideTrillMuffat</string>
-      <string>ornamentPrecompSlideTrillSuffixMuffat</string>
       <string>clef8</string>
       <string>clef15</string>
+      <string>timeSig0Turned</string>
+      <string>timeSig0Reversed</string>
+      <string>timeSig1Turned</string>
+      <string>timeSig1Reversed</string>
+      <string>timeSig2Turned</string>
+      <string>timeSig2Reversed</string>
+      <string>timeSig3Turned</string>
+      <string>timeSig3Reversed</string>
+      <string>timeSig4Turned</string>
+      <string>timeSig4Reversed</string>
+      <string>timeSig5Turned</string>
+      <string>timeSig5Reversed</string>
+      <string>timeSig6Turned</string>
+      <string>timeSig6Reversed</string>
+      <string>timeSig7Turned</string>
+      <string>timeSig7Reversed</string>
+      <string>timeSig8Turned</string>
+      <string>timeSig8Reversed</string>
+      <string>timeSig9Turned</string>
+      <string>timeSig9Reversed</string>
+      <string>timeSigCommonTurned</string>
+      <string>timeSigCommonReversed</string>
+      <string>timeSigCutCommonTurned</string>
+      <string>timeSigCutCommonReversed</string>
+      <string>timeSigPlus</string>
+      <string>timeSigPlusSmall</string>
+      <string>timeSigFractionalSlash</string>
+      <string>timeSigEquals</string>
+      <string>timeSigMinus</string>
+      <string>timeSigMultiply</string>
+      <string>timeSigParensLeftSmall</string>
+      <string>timeSigParensRightSmall</string>
+      <string>timeSigParensLeft</string>
+      <string>timeSigParensRight</string>
+      <string>timeSigFractionQuarter</string>
+      <string>timeSigFractionHalf</string>
+      <string>timeSigFractionThreeQuarters</string>
+      <string>timeSigFractionOneThird</string>
+      <string>timeSigFractionTwoThirds</string>
+      <string>timeSigX</string>
+      <string>timeSigOpenPenderecki</string>
       <string>noteheadXBlack</string>
       <string>noteheadParenthesis</string>
       <string>noteheadSlashedHalf2</string>
@@ -450,11 +489,52 @@
       <string>noteheadSlashWhiteMuted</string>
       <string>noteheadSlashWhiteDoubleWhole</string>
       <string>augmentationDot</string>
+      <string>textBlackNoteShortStem</string>
+      <string>textBlackNoteLongStem</string>
+      <string>textBlackNoteFrac8thShortStem</string>
+      <string>textBlackNoteFrac8thLongStem</string>
+      <string>textBlackNoteFrac16thShortStem</string>
+      <string>textBlackNoteFrac16thLongStem</string>
+      <string>textBlackNoteFrac32ndLongStem</string>
+      <string>textCont8thBeamShortStem</string>
+      <string>textCont8thBeamLongStem</string>
+      <string>textCont16thBeamShortStem</string>
+      <string>textCont16thBeamLongStem</string>
+      <string>textCont32ndBeamLongStem</string>
+      <string>textAugmentationDot</string>
+      <string>textTie</string>
+      <string>textTupletBracketStartShortStem</string>
+      <string>textTuplet3ShortStem</string>
+      <string>textTupletBracketEndShortStem</string>
+      <string>textTupletBracketStartLongStem</string>
+      <string>textTuplet3LongStem</string>
+      <string>textTupletBracketEndLongStem</string>
+      <string>textHeadlessBlackNoteShortStem</string>
+      <string>textHeadlessBlackNoteLongStem</string>
+      <string>textHeadlessBlackNoteFrac8thShortStem</string>
+      <string>textHeadlessBlackNoteFrac8thLongStem</string>
+      <string>textHeadlessBlackNoteFrac16thShortStem</string>
+      <string>textHeadlessBlackNoteFrac16thLongStem</string>
+      <string>textHeadlessBlackNoteFrac32ndLongStem</string>
       <string>accidentalDoubleFlat</string>
       <string>accidentalParensLeft</string>
       <string>accidentalParensRight</string>
       <string>accidentalBracketLeft</string>
       <string>accidentalBracketRight</string>
+      <string>articStaccatoAbove</string>
+      <string>articStaccatoBelow</string>
+      <string>articStaccatissimoAbove</string>
+      <string>articStaccatissimoBelow</string>
+      <string>articStaccatissimoWedgeAbove</string>
+      <string>articStaccatissimoWedgeBelow</string>
+      <string>articStaccatissimoStrokeAbove</string>
+      <string>articStaccatissimoStrokeBelow</string>
+      <string>articStressAbove</string>
+      <string>articStressBelow</string>
+      <string>articUnstressAbove</string>
+      <string>articUnstressBelow</string>
+      <string>articLaissezVibrerAbove</string>
+      <string>articLaissezVibrerBelow</string>
       <string>fermataShortAbove</string>
       <string>fermataShortBelow</string>
       <string>fermataLongAbove</string>
@@ -478,11 +558,14 @@
       <string>ornamentPrecompAppoggTrill</string>
       <string>ornamentPrecompAppoggTrillSuffix</string>
       <string>ornamentPrecompTurnTrillDAnglebert</string>
-      <string>ornamentPrecompTurnTrillBach</string>
       <string>ornamentPrecompSlideTrillDAnglebert</string>
       <string>ornamentPrecompSlideTrillMarpurg</string>
+      <string>ornamentPrecompTurnTrillBach</string>
       <string>ornamentPrecompSlideTrillBach</string>
+      <string>ornamentPrecompSlideTrillMuffat</string>
+      <string>ornamentPrecompSlideTrillSuffixMuffat</string>
       <string>ornamentPrecompTrillSuffixDandrieu</string>
+      <string>ornamentPrecompPortDeVoixMordent</string>
       <string>ornamentPrecompTrillWithMordent</string>
       <string>ornamentPrecompCadence</string>
       <string>ornamentPrecompCadenceWithTurn</string>
@@ -492,10 +575,27 @@
       <string>ornamentPrecompDoubleCadenceUpperPrefix</string>
       <string>ornamentPrecompDoubleCadenceUpperPrefixTurn</string>
       <string>ornamentPrecompMordentRelease</string>
+      <string>ornamentPrecompMordentUpperPrefix</string>
+      <string>ornamentPrecompInvertedMordentUpperPrefix</string>
+      <string>ornamentPrecompTrillLowerSuffix</string>
       <string>stringsDownBow</string>
       <string>stringsDownBowTurned</string>
       <string>stringsUpBow</string>
       <string>stringsUpBowTurned</string>
+      <string>keyboardPedalPed</string>
+      <string>keyboardPedalDot</string>
+      <string>keyboardPedalUp</string>
+      <string>keyboardPedalHalf2</string>
+      <string>keyboardPedalHalf3</string>
+      <string>timeSigBracketLeft</string>
+      <string>timeSigBracketRight</string>
+      <string>timeSigBracketLeftSmall</string>
+      <string>timeSigBracketRightSmall</string>
+      <string>timeSigSlash</string>
+      <string>timeSigCut2</string>
+      <string>timeSigCut3</string>
+      <string>uniEE1F</string>
+      <string>uniEE20</string>
       <string>accidentalFlatParens</string>
       <string>accidentalNaturalParens</string>
       <string>accidentalSharpParens</string>

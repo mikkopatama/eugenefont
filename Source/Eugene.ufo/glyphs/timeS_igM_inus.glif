@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSigMinus" format="2">
+  <advance width="448"/>
+  <unicode hex="E090"/>
+  <note>
+uniE090
+</note>
+  <outline>
+    <contour>
+      <point x="426" y="22" type="curve" smooth="yes"/>
+      <point x="22" y="22" type="line" smooth="yes"/>
+      <point x="8" y="22"/>
+      <point x="0" y="14"/>
+      <point x="0" y="1" type="curve" smooth="yes"/>
+      <point x="0" y="-12"/>
+      <point x="8" y="-20"/>
+      <point x="22" y="-20" type="curve" smooth="yes"/>
+      <point x="426" y="-20" type="line" smooth="yes"/>
+      <point x="440" y="-20"/>
+      <point x="448" y="-12"/>
+      <point x="448" y="1" type="curve" smooth="yes"/>
+      <point x="448" y="14"/>
+      <point x="440" y="22"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 12:30:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

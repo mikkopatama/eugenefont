@@ -10,6 +10,134 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+
+24 May 2026 (v. 0.600)
+
++100 new glyphs.
+A version jump to 0.6 to signify that the project is now much closer to its initial
+glyph target (~500 glyphs, similar to Leland in its current form) at 371 glyphs.
+
+
+- Modified:
+
+	timeSig2
+	timeSig3
+	timeSig6
+	timeSig9
+
+
+- Added:
+	
+	timeSigPlus
+	timeSigPlusSmall
+	timeSigFractionalSlash
+	timeSigEquals
+	timeSigMinus
+	timeSigMultiply
+	timeSigParensLeftSmall
+	timeSigParensRightSmall
+	timeSigParensLeft
+	timeSigParensRight
+	timeSigFractionQuarter
+	timeSigFractionHalf
+	timeSigFractionThreeQuarters
+	timeSigFractionOneThird
+	timeSigFractionTwoThirds
+	timeSigX
+	timeSigOpenPenderecki
+
+
+	articStaccatoAbove
+	articStaccatoBelow
+	articStaccatissimoAbove
+	articStaccatissimoBelow
+	articStaccatissimoWedgeAbove
+	articStaccatissimoWedgeBelow
+	articStaccatissimoStrokeAbove
+	articStaccatissimoStrokeBelow
+	articStressAbove
+	articStressBelow
+	articUnstressAbove
+	articUnstressBelow
+	articLaissezVibrerAbove
+	articLaissezVibrerBelow
+
+	ornamentPrecompMordentUpperPrefix
+	ornamentPrecompInvertedMordentUpperPrefix
+	ornamentPrecompTrillLowerSuffix
+	ornamentPrecompPortDeVoixMordent
+
+	keyboardPedalPed
+	keyboardPedalDot
+	keyboardPedalUp
+	keyboardPedalHalf2
+	keyboardPedalHalf3
+
+	textBlackNoteShortStem
+	textBlackNoteLongStem
+	textBlackNoteFrac8thShortStem
+	textBlackNoteFrac8thLongStem
+	textBlackNoteFrac16thShortStem
+	textBlackNoteFrac16thLongStem
+	textBlackNoteFrac32ndLongStem
+	textCont8thBeamShortStem
+	textCont8thBeamLongStem
+	textCont16thBeamShortStem
+	textCont16thBeamLongStem
+	textCont32ndBeamLongStem
+	textAugmentationDot
+	textTie
+	textTupletBracketStartShortStem
+	textTuplet3ShortStem
+	textTupletBracketEndShortStem
+	textTupletBracketStartLongStem
+	textTuplet3LongStem
+	textTupletBracketEndLongStem
+	textHeadlessBlackNoteShortStem
+	textHeadlessBlackNoteLongStem
+	textHeadlessBlackNoteFrac8thShortStem
+	textHeadlessBlackNoteFrac8thLongStem
+	textHeadlessBlackNoteFrac16thShortStem
+	textHeadlessBlackNoteFrac16thLongStem
+	textHeadlessBlackNoteFrac32ndLongStem
+
+
+	timeSigBracketLeft
+	timeSigBracketRight
+	timeSigBracketLeftSmall
+	timeSigBracketRightSmall
+	timeSigSlash
+	timeSigCut2
+	timeSigCut3
+
+	timeSig0Turned
+	timeSig0Reversed
+	timeSig1Turned
+	timeSig1Reversed
+	timeSig2Turned
+	timeSig2Reversed
+	timeSig3Turned
+	timeSig3Reversed
+	timeSig4Turned
+	timeSig4Reversed
+	timeSig5Turned
+	timeSig5Reversed
+	timeSig6Turned
+	timeSig6Reversed
+	timeSig7Turned
+	timeSig7Reversed
+	timeSig8Turned
+	timeSig8Reversed
+	timeSig9Turned
+	timeSig9Reversed
+	timeSigCommonTurned
+	timeSigCommonReversed
+	timeSigCutCommonTurned
+	timeSigCutCommonReversed
+
+
+	
+
 23 May 2026 (v. 0.515)
 
 - Modified:

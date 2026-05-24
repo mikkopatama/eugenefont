@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSigParensRightSmall" format="2">
+  <advance width="110"/>
+  <unicode hex="E093"/>
+  <note>
+uniE093
+</note>
+  <outline>
+    <contour>
+      <point x="2" y="230" type="line" smooth="yes"/>
+      <point x="2" y="227"/>
+      <point x="3" y="226"/>
+      <point x="4" y="225" type="curve" smooth="yes"/>
+      <point x="60" y="174"/>
+      <point x="66" y="110"/>
+      <point x="66" y="0" type="curve" smooth="yes"/>
+      <point x="66" y="-111"/>
+      <point x="61" y="-176"/>
+      <point x="4" y="-227" type="curve" smooth="yes"/>
+      <point x="3" y="-228"/>
+      <point x="2" y="-229"/>
+      <point x="2" y="-231" type="curve" smooth="yes"/>
+      <point x="0" y="-244" type="line" smooth="yes"/>
+      <point x="0" y="-246"/>
+      <point x="2" y="-248"/>
+      <point x="3" y="-248" type="curve"/>
+      <point x="99" y="-187"/>
+      <point x="113" y="-100"/>
+      <point x="113" y="0" type="curve" smooth="yes"/>
+      <point x="113" y="97"/>
+      <point x="99" y="195"/>
+      <point x="1" y="247" type="curve"/>
+      <point x="0" y="247"/>
+      <point x="0" y="245"/>
+      <point x="0" y="242" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 12:31:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

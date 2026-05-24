@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="articTenutoAbove" format="2">
-  <advance width="325"/>
+  <advance width="326"/>
   <unicode hex="E4A4"/>
   <note>
 uniE4A4
@@ -24,4 +24,10 @@ uniE4A4
       <point x="16.29" y="0.6" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 11:26:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

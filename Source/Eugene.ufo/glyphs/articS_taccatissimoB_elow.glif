@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="articStaccatissimoBelow" format="2">
+  <advance width="99"/>
+  <unicode hex="E4A7"/>
+  <note>
+uniE4A7
+</note>
+  <outline>
+    <contour>
+      <point x="49" y="-223" type="curve" smooth="yes"/>
+      <point x="76" y="-223"/>
+      <point x="99" y="-223"/>
+      <point x="99" y="-200" type="curve" smooth="yes"/>
+      <point x="99" y="-177"/>
+      <point x="77" y="0"/>
+      <point x="49" y="0" type="curve" smooth="yes"/>
+      <point x="19" y="0"/>
+      <point x="-1" y="-186"/>
+      <point x="0" y="-201" type="curve" smooth="yes"/>
+      <point x="1" y="-223"/>
+      <point x="23" y="-223"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-23 22:58:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="timeSigEquals" format="2">
+  <advance width="448"/>
+  <unicode hex="E08F"/>
+  <note>
+uniE08F
+</note>
+  <outline>
+    <contour>
+      <point x="426" y="92" type="curve" smooth="yes"/>
+      <point x="22" y="92" type="line" smooth="yes"/>
+      <point x="8" y="92"/>
+      <point x="0" y="84"/>
+      <point x="0" y="71" type="curve" smooth="yes"/>
+      <point x="0" y="58"/>
+      <point x="8" y="50"/>
+      <point x="22" y="50" type="curve" smooth="yes"/>
+      <point x="426" y="50" type="line" smooth="yes"/>
+      <point x="440" y="50"/>
+      <point x="448" y="58"/>
+      <point x="448" y="71" type="curve" smooth="yes"/>
+      <point x="448" y="84"/>
+      <point x="440" y="92"/>
+    </contour>
+    <contour>
+      <point x="426" y="-50" type="curve" smooth="yes"/>
+      <point x="22" y="-50" type="line" smooth="yes"/>
+      <point x="8" y="-50"/>
+      <point x="0" y="-58"/>
+      <point x="0" y="-71" type="curve" smooth="yes"/>
+      <point x="0" y="-84"/>
+      <point x="8" y="-92"/>
+      <point x="22" y="-92" type="curve" smooth="yes"/>
+      <point x="426" y="-92" type="line" smooth="yes"/>
+      <point x="440" y="-92"/>
+      <point x="448" y="-84"/>
+      <point x="448" y="-71" type="curve" smooth="yes"/>
+      <point x="448" y="-58"/>
+      <point x="440" y="-50"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 12:33:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

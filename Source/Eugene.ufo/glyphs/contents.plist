@@ -66,6 +66,10 @@
     <string>articA_ccentA_bove.glif</string>
     <key>articAccentBelow</key>
     <string>articA_ccentB_elow.glif</string>
+    <key>articLaissezVibrerAbove</key>
+    <string>articL_aissezV_ibrerA_bove.glif</string>
+    <key>articLaissezVibrerBelow</key>
+    <string>articL_aissezV_ibrerB_elow.glif</string>
     <key>articMarcatoAbove</key>
     <string>articM_arcatoA_bove.glif</string>
     <key>articMarcatoBelow</key>
@@ -74,10 +78,34 @@
     <string>articM_arcatoS_taccatoA_bove.glif</string>
     <key>articMarcatoStaccatoBelow</key>
     <string>articM_arcatoS_taccatoB_elow.glif</string>
+    <key>articStaccatissimoAbove</key>
+    <string>articS_taccatissimoA_bove.glif</string>
+    <key>articStaccatissimoBelow</key>
+    <string>articS_taccatissimoB_elow.glif</string>
+    <key>articStaccatissimoStrokeAbove</key>
+    <string>articS_taccatissimoS_trokeA_bove.glif</string>
+    <key>articStaccatissimoStrokeBelow</key>
+    <string>articS_taccatissimoS_trokeB_elow.glif</string>
+    <key>articStaccatissimoWedgeAbove</key>
+    <string>articS_taccatissimoW_edgeA_bove.glif</string>
+    <key>articStaccatissimoWedgeBelow</key>
+    <string>articS_taccatissimoW_edgeB_elow.glif</string>
+    <key>articStaccatoAbove</key>
+    <string>articS_taccatoA_bove.glif</string>
+    <key>articStaccatoBelow</key>
+    <string>articS_taccatoB_elow.glif</string>
+    <key>articStressAbove</key>
+    <string>articS_tressA_bove.glif</string>
+    <key>articStressBelow</key>
+    <string>articS_tressB_elow.glif</string>
     <key>articTenutoAbove</key>
     <string>articT_enutoA_bove.glif</string>
     <key>articTenutoBelow</key>
     <string>articT_enutoB_elow.glif</string>
+    <key>articUnstressAbove</key>
+    <string>articU_nstressA_bove.glif</string>
+    <key>articUnstressBelow</key>
+    <string>articU_nstressB_elow.glif</string>
     <key>augmentationDot</key>
     <string>augmentationD_ot.glif</string>
     <key>brace</key>
@@ -262,6 +290,16 @@
     <string>graceN_oteS_lashS_temD_own.glif</string>
     <key>graceNoteSlashStemUp</key>
     <string>graceN_oteS_lashS_temU_p.glif</string>
+    <key>keyboardPedalDot</key>
+    <string>keyboardP_edalD_ot.glif</string>
+    <key>keyboardPedalHalf2</key>
+    <string>keyboardP_edalH_alf2.glif</string>
+    <key>keyboardPedalHalf3</key>
+    <string>keyboardP_edalH_alf3.glif</string>
+    <key>keyboardPedalPed</key>
+    <string>keyboardP_edalP_ed.glif</string>
+    <key>keyboardPedalUp</key>
+    <string>keyboardP_edalU_p.glif</string>
     <key>metNote8thDown</key>
     <string>metN_ote8thD_own.glif</string>
     <key>metNote8thUp</key>
@@ -380,8 +418,14 @@
     <string>ornamentP_recompD_oubleC_adenceU_pperP_refix.glif</string>
     <key>ornamentPrecompDoubleCadenceUpperPrefixTurn</key>
     <string>ornamentP_recompD_oubleC_adenceU_pperP_refixT_urn.glif</string>
+    <key>ornamentPrecompInvertedMordentUpperPrefix</key>
+    <string>ornamentP_recompI_nvertedM_ordentU_pperP_refix.glif</string>
     <key>ornamentPrecompMordentRelease</key>
     <string>ornamentP_recompM_ordentR_elease.glif</string>
+    <key>ornamentPrecompMordentUpperPrefix</key>
+    <string>ornamentP_recompM_ordentU_pperP_refix.glif</string>
+    <key>ornamentPrecompPortDeVoixMordent</key>
+    <string>ornamentP_recompP_ortD_eV_oixM_ordent.glif</string>
     <key>ornamentPrecompSlide</key>
     <string>ornamentP_recompS_lide.glif</string>
     <key>ornamentPrecompSlideTrillBach</key>
@@ -394,6 +438,8 @@
     <string>ornamentP_recompS_lideT_rillM_uffat.glif</string>
     <key>ornamentPrecompSlideTrillSuffixMuffat</key>
     <string>ornamentP_recompS_lideT_rillS_uffixM_uffat.glif</string>
+    <key>ornamentPrecompTrillLowerSuffix</key>
+    <string>ornamentP_recompT_rillL_owerS_uffix.glif</string>
     <key>ornamentPrecompTrillSuffixDandrieu</key>
     <string>ornamentP_recompT_rillS_uffixD_andrieu.glif</string>
     <key>ornamentPrecompTrillWithMordent</key>
@@ -510,32 +556,182 @@
     <string>systemD_ividerE_xtraL_ong.glif</string>
     <key>systemDividerLong</key>
     <string>systemD_ividerL_ong.glif</string>
+    <key>textAugmentationDot</key>
+    <string>textA_ugmentationD_ot.glif</string>
+    <key>textBlackNoteFrac16thLongStem</key>
+    <string>textB_lackN_oteF_rac16thL_ongS_tem.glif</string>
+    <key>textBlackNoteFrac16thShortStem</key>
+    <string>textB_lackN_oteF_rac16thS_hortS_tem.glif</string>
+    <key>textBlackNoteFrac32ndLongStem</key>
+    <string>textB_lackN_oteF_rac32ndL_ongS_tem.glif</string>
+    <key>textBlackNoteFrac8thLongStem</key>
+    <string>textB_lackN_oteF_rac8thL_ongS_tem.glif</string>
+    <key>textBlackNoteFrac8thShortStem</key>
+    <string>textB_lackN_oteF_rac8thS_hortS_tem.glif</string>
+    <key>textBlackNoteLongStem</key>
+    <string>textB_lackN_oteL_ongS_tem.glif</string>
+    <key>textBlackNoteShortStem</key>
+    <string>textB_lackN_oteS_hortS_tem.glif</string>
+    <key>textCont16thBeamLongStem</key>
+    <string>textC_ont16thB_eamL_ongS_tem.glif</string>
+    <key>textCont16thBeamShortStem</key>
+    <string>textC_ont16thB_eamS_hortS_tem.glif</string>
+    <key>textCont32ndBeamLongStem</key>
+    <string>textC_ont32ndB_eamL_ongS_tem.glif</string>
+    <key>textCont8thBeamLongStem</key>
+    <string>textC_ont8thB_eamL_ongS_tem.glif</string>
+    <key>textCont8thBeamShortStem</key>
+    <string>textC_ont8thB_eamS_hortS_tem.glif</string>
+    <key>textHeadlessBlackNoteFrac16thLongStem</key>
+    <string>textH_eadlessB_lackN_oteF_rac16thL_ongS_tem.glif</string>
+    <key>textHeadlessBlackNoteFrac16thShortStem</key>
+    <string>textH_eadlessB_lackN_oteF_rac16thS_hortS_tem.glif</string>
+    <key>textHeadlessBlackNoteFrac32ndLongStem</key>
+    <string>textH_eadlessB_lackN_oteF_rac32ndL_ongS_tem.glif</string>
+    <key>textHeadlessBlackNoteFrac8thLongStem</key>
+    <string>textH_eadlessB_lackN_oteF_rac8thL_ongS_tem.glif</string>
+    <key>textHeadlessBlackNoteFrac8thShortStem</key>
+    <string>textH_eadlessB_lackN_oteF_rac8thS_hortS_tem.glif</string>
+    <key>textHeadlessBlackNoteLongStem</key>
+    <string>textH_eadlessB_lackN_oteL_ongS_tem.glif</string>
+    <key>textHeadlessBlackNoteShortStem</key>
+    <string>textH_eadlessB_lackN_oteS_hortS_tem.glif</string>
+    <key>textTie</key>
+    <string>textT_ie.glif</string>
+    <key>textTuplet3LongStem</key>
+    <string>textT_uplet3L_ongS_tem.glif</string>
+    <key>textTuplet3ShortStem</key>
+    <string>textT_uplet3S_hortS_tem.glif</string>
+    <key>textTupletBracketEndLongStem</key>
+    <string>textT_upletB_racketE_ndL_ongS_tem.glif</string>
+    <key>textTupletBracketEndShortStem</key>
+    <string>textT_upletB_racketE_ndS_hortS_tem.glif</string>
+    <key>textTupletBracketStartLongStem</key>
+    <string>textT_upletB_racketS_tartL_ongS_tem.glif</string>
+    <key>textTupletBracketStartShortStem</key>
+    <string>textT_upletB_racketS_tartS_hortS_tem.glif</string>
     <key>timeSig0</key>
     <string>timeS_ig0.glif</string>
+    <key>timeSig0Reversed</key>
+    <string>timeS_ig0R_eversed.glif</string>
+    <key>timeSig0Turned</key>
+    <string>timeS_ig0T_urned.glif</string>
     <key>timeSig1</key>
     <string>timeS_ig1.glif</string>
+    <key>timeSig1Reversed</key>
+    <string>timeS_ig1R_eversed.glif</string>
+    <key>timeSig1Turned</key>
+    <string>timeS_ig1T_urned.glif</string>
     <key>timeSig2</key>
     <string>timeS_ig2.glif</string>
+    <key>timeSig2Reversed</key>
+    <string>timeS_ig2R_eversed.glif</string>
+    <key>timeSig2Turned</key>
+    <string>timeS_ig2T_urned.glif</string>
     <key>timeSig3</key>
     <string>timeS_ig3.glif</string>
+    <key>timeSig3Reversed</key>
+    <string>timeS_ig3R_eversed.glif</string>
+    <key>timeSig3Turned</key>
+    <string>timeS_ig3T_urned.glif</string>
     <key>timeSig4</key>
     <string>timeS_ig4.glif</string>
+    <key>timeSig4Reversed</key>
+    <string>timeS_ig4R_eversed.glif</string>
+    <key>timeSig4Turned</key>
+    <string>timeS_ig4T_urned.glif</string>
     <key>timeSig5</key>
     <string>timeS_ig5.glif</string>
+    <key>timeSig5Reversed</key>
+    <string>timeS_ig5R_eversed.glif</string>
+    <key>timeSig5Turned</key>
+    <string>timeS_ig5T_urned.glif</string>
     <key>timeSig6</key>
     <string>timeS_ig6.glif</string>
+    <key>timeSig6Reversed</key>
+    <string>timeS_ig6R_eversed.glif</string>
+    <key>timeSig6Turned</key>
+    <string>timeS_ig6T_urned.glif</string>
     <key>timeSig7</key>
     <string>timeS_ig7.glif</string>
+    <key>timeSig7Reversed</key>
+    <string>timeS_ig7R_eversed.glif</string>
+    <key>timeSig7Turned</key>
+    <string>timeS_ig7T_urned.glif</string>
     <key>timeSig8</key>
     <string>timeS_ig8.glif</string>
+    <key>timeSig8Reversed</key>
+    <string>timeS_ig8R_eversed.glif</string>
+    <key>timeSig8Turned</key>
+    <string>timeS_ig8T_urned.glif</string>
     <key>timeSig9</key>
     <string>timeS_ig9.glif</string>
+    <key>timeSig9Reversed</key>
+    <string>timeS_ig9R_eversed.glif</string>
+    <key>timeSig9Turned</key>
+    <string>timeS_ig9T_urned.glif</string>
+    <key>timeSigBracketLeft</key>
+    <string>timeS_igB_racketL_eft.glif</string>
+    <key>timeSigBracketLeftSmall</key>
+    <string>timeS_igB_racketL_eftS_mall.glif</string>
+    <key>timeSigBracketRight</key>
+    <string>timeS_igB_racketR_ight.glif</string>
+    <key>timeSigBracketRightSmall</key>
+    <string>timeS_igB_racketR_ightS_mall.glif</string>
     <key>timeSigComma</key>
     <string>timeS_igC_omma.glif</string>
     <key>timeSigCommon</key>
     <string>timeS_igC_ommon.glif</string>
+    <key>timeSigCommonReversed</key>
+    <string>timeS_igC_ommonR_eversed.glif</string>
+    <key>timeSigCommonTurned</key>
+    <string>timeS_igC_ommonT_urned.glif</string>
+    <key>timeSigCut2</key>
+    <string>timeS_igC_ut2.glif</string>
+    <key>timeSigCut3</key>
+    <string>timeS_igC_ut3.glif</string>
     <key>timeSigCutCommon</key>
     <string>timeS_igC_utC_ommon.glif</string>
+    <key>timeSigCutCommonReversed</key>
+    <string>timeS_igC_utC_ommonR_eversed.glif</string>
+    <key>timeSigCutCommonTurned</key>
+    <string>timeS_igC_utC_ommonT_urned.glif</string>
+    <key>timeSigEquals</key>
+    <string>timeS_igE_quals.glif</string>
+    <key>timeSigFractionHalf</key>
+    <string>timeS_igF_ractionH_alf.glif</string>
+    <key>timeSigFractionOneThird</key>
+    <string>timeS_igF_ractionO_neT_hird.glif</string>
+    <key>timeSigFractionQuarter</key>
+    <string>timeS_igF_ractionQ_uarter.glif</string>
+    <key>timeSigFractionThreeQuarters</key>
+    <string>timeS_igF_ractionT_hreeQ_uarters.glif</string>
+    <key>timeSigFractionTwoThirds</key>
+    <string>timeS_igF_ractionT_woT_hirds.glif</string>
+    <key>timeSigFractionalSlash</key>
+    <string>timeS_igF_ractionalS_lash.glif</string>
+    <key>timeSigMinus</key>
+    <string>timeS_igM_inus.glif</string>
+    <key>timeSigMultiply</key>
+    <string>timeS_igM_ultiply.glif</string>
+    <key>timeSigOpenPenderecki</key>
+    <string>timeS_igO_penP_enderecki.glif</string>
+    <key>timeSigParensLeft</key>
+    <string>timeS_igP_arensL_eft.glif</string>
+    <key>timeSigParensLeftSmall</key>
+    <string>timeS_igP_arensL_eftS_mall.glif</string>
+    <key>timeSigParensRight</key>
+    <string>timeS_igP_arensR_ight.glif</string>
+    <key>timeSigParensRightSmall</key>
+    <string>timeS_igP_arensR_ightS_mall.glif</string>
+    <key>timeSigPlus</key>
+    <string>timeS_igP_lus.glif</string>
+    <key>timeSigPlusSmall</key>
+    <string>timeS_igP_lusS_mall.glif</string>
+    <key>timeSigSlash</key>
+    <string>timeS_igS_lash.glif</string>
+    <key>timeSigX</key>
+    <string>timeS_igX_.glif</string>
     <key>tremolo1</key>
     <string>tremolo1.glif</string>
     <key>tremolo2</key>
@@ -562,5 +758,9 @@
     <string>tuplet8.glif</string>
     <key>tuplet9</key>
     <string>tuplet9.glif</string>
+    <key>uniEE1F</key>
+    <string>uniE_E_1F_.glif</string>
+    <key>uniEE20</key>
+    <string>uniE_E_20.glif</string>
   </dict>
 </plist>

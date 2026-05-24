@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="textCont8thBeamShortStem" format="2">
+  <advance width="342"/>
+  <unicode hex="E1F7"/>
+  <note>
+uniE1F7
+</note>
+  <outline>
+    <contour>
+      <point x="342" y="563" type="line"/>
+      <point x="342" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="563" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-24 14:51:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>
