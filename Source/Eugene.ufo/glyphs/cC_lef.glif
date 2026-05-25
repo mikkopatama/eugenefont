@@ -53,9 +53,9 @@ uniE05C
       <point x="357" y="-188.42"/>
       <point x="367" y="-188.42" type="curve" smooth="yes"/>
       <point x="378" y="-188.42"/>
-      <point x="383" y="-178.42"/>
-      <point x="388" y="-161.42" type="curve"/>
-      <point x="400.21" y="-130.85"/>
+      <point x="380" y="-178"/>
+      <point x="388" y="-161.42" type="curve" smooth="yes"/>
+      <point x="403" y="-130"/>
       <point x="443.05" y="-104.07"/>
       <point x="480.86" y="-104.87" type="curve" smooth="yes"/>
       <point x="545.84" y="-106.23"/>
@@ -64,14 +64,11 @@ uniE05C
       <point x="562.45" y="-418.14"/>
       <point x="534.64" y="-406.79"/>
       <point x="476.25" y="-433.29" type="curve" smooth="yes"/>
-      <point x="456.22" y="-442.38"/>
-      <point x="455.8" y="-438.77"/>
-      <point x="453.32" y="-437.16" type="curve"/>
-      <point x="445.9" y="-434.76"/>
-      <point x="445.8" y="-434.48"/>
-      <point x="439.79" y="-430.87" type="curve" smooth="yes"/>
-      <point x="437.68" y="-429.6"/>
-      <point x="438.56" y="-425.48"/>
+      <point x="457" y="-442"/>
+      <point x="453" y="-440"/>
+      <point x="440" y="-432" type="curve" smooth="yes"/>
+      <point x="438" y="-431"/>
+      <point x="434" y="-426"/>
       <point x="435.23" y="-421.81" type="curve"/>
       <point x="443.96" y="-406.61"/>
       <point x="444.11" y="-405.31"/>
@@ -83,9 +80,9 @@ uniE05C
       <point x="297.7" y="-301.37"/>
       <point x="297.7" y="-367.58" type="curve" smooth="yes"/>
       <point x="297.7" y="-430.58"/>
-      <point x="364.02" y="-478.02"/>
-      <point x="483.02" y="-478.02" type="curve" smooth="yes"/>
-      <point x="647.02" y="-478.02"/>
+      <point x="364" y="-484"/>
+      <point x="483" y="-484" type="curve" smooth="yes"/>
+      <point x="647" y="-484"/>
       <point x="686.49" y="-313.52"/>
       <point x="685.07" y="-264.68" type="curve" smooth="yes"/>
       <point x="681.07" y="-126.74"/>
@@ -127,11 +124,11 @@ uniE05C
       <point x="431.38" y="397.62"/>
       <point x="426.26" y="409.54"/>
       <point x="406.67" y="425.17" type="curve"/>
-      <point x="411.28" y="432.46"/>
-      <point x="408.24" y="437.23"/>
-      <point x="408.24" y="442.23" type="curve" smooth="yes"/>
-      <point x="408.24" y="449.23"/>
-      <point x="429.52" y="459.1"/>
+      <point x="403" y="432"/>
+      <point x="405" y="440"/>
+      <point x="407" y="446" type="curve" smooth="yes"/>
+      <point x="409" y="453"/>
+      <point x="419" y="459"/>
       <point x="434.2" y="464.51" type="curve"/>
       <point x="450.2" y="469.51"/>
       <point x="452.11" y="469.34"/>
@@ -140,12 +137,12 @@ uniE05C
       <point x="562.46" y="385.78"/>
       <point x="562.46" y="280.86" type="curve" smooth="yes"/>
       <point x="562.46" y="149.86"/>
-      <point x="532.59" y="81.23"/>
+      <point x="533" y="87"/>
       <point x="477.5" y="88.31" type="curve" smooth="yes"/>
-      <point x="423.65" y="95.22"/>
-      <point x="444.66" y="97.68"/>
-      <point x="396.11" y="139.97" type="curve"/>
-      <point x="373.01" y="171.65"/>
+      <point x="443" y="89"/>
+      <point x="414" y="119"/>
+      <point x="396.11" y="139.97" type="curve" smooth="yes"/>
+      <point x="369" y="171"/>
       <point x="370.95" y="173.33"/>
       <point x="359.95" y="173.33" type="curve" smooth="yes"/>
       <point x="349.95" y="173.33"/>
@@ -158,4 +155,10 @@ uniE05C
       <point x="234.66" y="32.86"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 10:02:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniF4BC" format="2">
+  <advance width="393"/>
+  <unicode hex="F4BC"/>
+  <note>
+uniF4BC
+</note>
+  <outline>
+    <component base="noteheadWhole" xScale="1.0376" yScale="1.0376"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 11:53:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

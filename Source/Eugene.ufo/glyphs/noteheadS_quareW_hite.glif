@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadSquareWhite" format="2">
+  <advance width="300"/>
+  <unicode hex="E0B8"/>
+  <note>
+uniE0B8
+</note>
+  <anchor x="0" y="-112" name="stemDownNW"/>
+  <anchor x="300" y="115" name="stemUpSE"/>
+  <outline>
+    <contour>
+      <point x="0" y="-130" type="line"/>
+      <point x="300" y="-130" type="line"/>
+      <point x="300" y="131" type="line"/>
+      <point x="0" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="-97" type="line"/>
+      <point x="38" y="98" type="line"/>
+      <point x="262" y="98" type="line"/>
+      <point x="262" y="-97" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 12:31:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

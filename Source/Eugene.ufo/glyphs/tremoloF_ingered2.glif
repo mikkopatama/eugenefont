@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tremoloFingered2" format="2">
+  <advance width="149"/>
+  <unicode hex="E226"/>
+  <note>
+uniE221
+</note>
+  <outline>
+    <contour>
+      <point x="145.99" y="-122.35" type="line"/>
+      <point x="145.99" y="-16.8" type="line"/>
+      <point x="-152" y="-55" type="line"/>
+      <point x="-151.33" y="-153.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="145.99" y="32.65" type="line"/>
+      <point x="145.99" y="138.2" type="line"/>
+      <point x="-152" y="100" type="line"/>
+      <point x="-151.33" y="1.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 15:10:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

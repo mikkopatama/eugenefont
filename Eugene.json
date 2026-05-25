@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "0.60",
+  "fontVersion": "0.650",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -191,6 +191,16 @@
         0.1
       ]
     },
+    "noteQuarterUp": {
+      "stemDownNW": [
+        0.196,
+        -0.196
+      ],
+      "stemUpSE": [
+        1.336,
+        0.052
+      ]
+    },
     "noteheadBlack": {
       "stemDownNW": [
         0.0,
@@ -341,6 +351,36 @@
         0.152
       ]
     },
+    "noteheadSlashedHalf2": {
+      "stemDownNW": [
+        0.04,
+        -0.22
+      ],
+      "stemUpSE": [
+        1.18,
+        0.152
+      ]
+    },
+    "noteheadSquareBlack": {
+      "stemDownNW": [
+        0.0,
+        -0.448
+      ],
+      "stemUpSE": [
+        1.2,
+        0.46
+      ]
+    },
+    "noteheadSquareWhite": {
+      "stemDownNW": [
+        0.0,
+        -0.448
+      ],
+      "stemUpSE": [
+        1.2,
+        0.46
+      ]
+    },
     "noteheadXBlack": {
       "stemDownNW": [
         0.004,
@@ -361,16 +401,6 @@
         0.312
       ]
     },
-    "noteQuarterUp": {
-      "stemDownNW": [
-        0.196,
-        -0.196
-      ],
-      "stemUpSE": [
-        1.336,
-        0.052
-      ]
-    },
     "repeat1Bar": {
       "stemDownNW": [
         0.04,
@@ -378,7 +408,45 @@
       ]
     }
   },
+  "glyphsWithAlternates": {
+    "cClef": {
+      "alternates": [
+        {
+          "codepoint": "U+F473",
+          "name": "fClefSmall"
+        }
+      ]
+    },
+    "gClef": {
+      "alternates": [
+        {
+          "codepoint": "U+F472",
+          "name": "gClefSmall"
+        }
+      ]
+    }
+  },
   "glyphBBoxes": {
+    "accidentalArrowDown": {
+      "bBoxNE": [
+        0.73,
+        1.552
+      ],
+      "bBoxSW": [
+        0.011,
+        -0.492
+      ]
+    },
+    "accidentalArrowUp": {
+      "bBoxNE": [
+        0.73,
+        1.544
+      ],
+      "bBoxSW": [
+        0.011,
+        -0.5
+      ]
+    },
     "accidentalBracketLeft": {
       "bBoxNE": [
         0.296,
@@ -401,12 +469,12 @@
     },
     "accidentalDoubleFlat": {
       "bBoxNE": [
-        1.724,
-        1.736
+        1.736,
+        1.812
       ],
       "bBoxSW": [
-        -0.001,
-        -0.815
+        0.0,
+        -0.851
       ]
     },
     "accidentalDoubleSharp": {
@@ -419,14 +487,54 @@
         -0.5
       ]
     },
-    "accidentalFlat": {
+    "accidentalFiveQuarterTonesFlatArrowDown": {
       "bBoxNE": [
-        0.908,
+        1.736,
         1.812
       ],
       "bBoxSW": [
-        -0.032,
-        -0.78
+        -0.241,
+        -1.556
+      ]
+    },
+    "accidentalFiveQuarterTonesSharpArrowUp": {
+      "bBoxNE": [
+        1.169,
+        1.364
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.5
+      ]
+    },
+    "accidentalFlat": {
+      "bBoxNE": [
+        0.904,
+        1.812
+      ],
+      "bBoxSW": [
+        -0.036,
+        -0.851
+      ]
+    },
+    "accidentalNarrowReversedFlat": {
+      "bBoxNE": [
+        0.707,
+        1.812
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.851
+      ]
+    },
+    "accidentalNarrowReversedFlatAndFlat": {
+      "bBoxNE": [
+        1.664,
+        1.812
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.851
       ]
     },
     "accidentalNatural": {
@@ -441,11 +549,11 @@
     },
     "accidentalNaturalFlat": {
       "bBoxNE": [
-        1.828,
-        1.784
+        1.82,
+        1.812
       ],
       "bBoxSW": [
-        0.004,
+        0.0,
         -1.347
       ]
     },
@@ -479,14 +587,64 @@
         -0.992
       ]
     },
+    "accidentalQuarterToneFlatArrowUp": {
+      "bBoxNE": [
+        0.908,
+        2.456
+      ],
+      "bBoxSW": [
+        -0.27,
+        -0.78
+      ]
+    },
+    "accidentalQuarterToneFlatNaturalArrowDown": {
+      "bBoxNE": [
+        0.897,
+        1.356
+      ],
+      "bBoxSW": [
+        0.0,
+        -2.06
+      ]
+    },
     "accidentalQuarterToneFlatStein": {
       "bBoxNE": [
-        0.912,
+        0.944,
         1.812
       ],
       "bBoxSW": [
-        -0.028,
-        -0.779
+        0.004,
+        -0.851
+      ]
+    },
+    "accidentalQuarterToneSharpArrowDown": {
+      "bBoxNE": [
+        1.032,
+        1.308
+      ],
+      "bBoxSW": [
+        -0.053,
+        -1.976
+      ]
+    },
+    "accidentalQuarterToneSharpNaturalArrowUp": {
+      "bBoxNE": [
+        0.648,
+        2.116
+      ],
+      "bBoxSW": [
+        -0.249,
+        -1.347
+      ]
+    },
+    "accidentalQuarterToneSharpStein": {
+      "bBoxNE": [
+        0.7,
+        1.156
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.34
       ]
     },
     "accidentalSharp": {
@@ -509,24 +667,74 @@
         -1.324
       ]
     },
-    "accidentalThreeQuarterTonesFlatZimmermann": {
+    "accidentalThreeQuarterTonesFlatArrowDown": {
       "bBoxNE": [
-        1.852,
+        0.904,
         1.812
       ],
       "bBoxSW": [
-        -0.028,
-        -0.779
+        -0.27,
+        -1.52
+      ]
+    },
+    "accidentalThreeQuarterTonesFlatArrowUp": {
+      "bBoxNE": [
+        1.736,
+        2.424
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.851
+      ]
+    },
+    "accidentalThreeQuarterTonesFlatZimmermann": {
+      "bBoxNE": [
+        1.888,
+        1.812
+      ],
+      "bBoxSW": [
+        0.004,
+        -0.851
+      ]
+    },
+    "accidentalThreeQuarterTonesSharpArrowDown": {
+      "bBoxNE": [
+        0.988,
+        0.5
+      ],
+      "bBoxSW": [
+        -0.181,
+        -1.348
+      ]
+    },
+    "accidentalThreeQuarterTonesSharpArrowUp": {
+      "bBoxNE": [
+        1.129,
+        2.012
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.324
+      ]
+    },
+    "accidentalThreeQuarterTonesSharpStein": {
+      "bBoxNE": [
+        1.496,
+        1.276
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.34
       ]
     },
     "accidentalTripleFlat": {
       "bBoxNE": [
-        2.416,
-        1.832
+        2.464,
+        1.812
       ],
       "bBoxSW": [
-        -0.032,
-        -0.779
+        0.0,
+        -0.851
       ]
     },
     "accidentalTripleSharp": {
@@ -779,6 +987,16 @@
         0.016
       ]
     },
+    "bracket": {
+      "bBoxNE": [
+        1.772,
+        5.624
+      ],
+      "bBoxSW": [
+        -0.135,
+        -1.396
+      ]
+    },
     "bracketBottom": {
       "bBoxNE": [
         1.748,
@@ -821,22 +1039,62 @@
     },
     "cClef8vb": {
       "bBoxNE": [
-        2.74,
+        2.716,
         2.008
       ],
       "bBoxSW": [
-        0.024,
+        0.0,
         -2.784
       ]
     },
     "cClefChange": {
       "bBoxNE": [
-        1.952,
-        1.444
+        2.0,
+        1.48
       ],
       "bBoxSW": [
-        -0.004,
-        -1.452
+        0.0,
+        -1.488
+      ]
+    },
+    "caesura": {
+      "bBoxNE": [
+        1.759,
+        1.36
+      ],
+      "bBoxSW": [
+        -0.001,
+        0.0
+      ]
+    },
+    "caesuraCurved": {
+      "bBoxNE": [
+        1.563,
+        1.36
+      ],
+      "bBoxSW": [
+        0.002,
+        0.0
+      ]
+    },
+    "caesuraShort": {
+      "bBoxNE": [
+        0.82,
+        1.36
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "caesuraSingleStroke": {
+      "bBoxNE": [
+        0.296,
+        1.36
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
       ]
     },
     "clef15": {
@@ -931,7 +1189,7 @@
     },
     "dynamicFortePiano": {
       "bBoxNE": [
-        2.405,
+        2.385,
         1.704
       ],
       "bBoxSW": [
@@ -996,47 +1254,47 @@
       ],
       "bBoxSW": [
         -0.229,
-        -0.568
+        -0.472
       ]
     },
     "dynamicPPP": {
       "bBoxNE": [
-        3.627,
-        1.04
+        3.653,
+        1.024
       ],
       "bBoxSW": [
         -0.229,
-        -0.568
+        -0.472
       ]
     },
     "dynamicPPPP": {
       "bBoxNE": [
-        4.847,
-        1.04
+        4.905,
+        1.024
       ],
       "bBoxSW": [
         -0.229,
-        -0.568
+        -0.472
       ]
     },
     "dynamicPPPPP": {
       "bBoxNE": [
-        6.087,
-        1.04
+        6.125,
+        1.024
       ],
       "bBoxSW": [
         -0.229,
-        -0.568
+        -0.472
       ]
     },
     "dynamicPPPPPP": {
       "bBoxNE": [
-        7.315,
-        1.04
+        7.401,
+        1.024
       ],
       "bBoxSW": [
         -0.229,
-        -0.568
+        -0.472
       ]
     },
     "dynamicPiano": {
@@ -1046,7 +1304,7 @@
       ],
       "bBoxSW": [
         -0.229,
-        -0.568
+        -0.472
       ]
     },
     "dynamicRinforzando": {
@@ -1111,7 +1369,7 @@
     },
     "dynamicSforzandoPiano": {
       "bBoxNE": [
-        3.127,
+        3.125,
         1.704
       ],
       "bBoxSW": [
@@ -1141,7 +1399,7 @@
     },
     "dynamicSforzatoPiano": {
       "bBoxNE": [
-        3.803,
+        3.793,
         1.704
       ],
       "bBoxSW": [
@@ -1232,11 +1490,11 @@
     "fClefTurned": {
       "bBoxNE": [
         2.548,
-        1.056
+        1.04
       ],
       "bBoxSW": [
         -0.001,
-        -2.036
+        -2.052
       ]
     },
     "fermataAbove": {
@@ -1501,62 +1759,62 @@
     },
     "gClef": {
       "bBoxNE": [
-        2.32,
-        3.92
+        2.409,
+        4.076
       ],
       "bBoxSW": [
         0.0,
-        -2.36
+        -2.481
       ]
     },
     "gClef15ma": {
       "bBoxNE": [
-        2.32,
-        4.852
+        2.409,
+        5.012
       ],
       "bBoxSW": [
         0.0,
-        -2.36
+        -2.481
       ]
     },
     "gClef15mb": {
       "bBoxNE": [
-        2.32,
-        3.92
+        2.409,
+        4.076
       ],
       "bBoxSW": [
         0.0,
-        -3.3
+        -3.424
       ]
     },
     "gClef8va": {
       "bBoxNE": [
-        2.32,
-        4.804
+        2.409,
+        4.964
       ],
       "bBoxSW": [
         0.0,
-        -2.36
+        -2.481
       ]
     },
     "gClef8vb": {
       "bBoxNE": [
-        2.32,
-        3.92
+        2.409,
+        4.076
       ],
       "bBoxSW": [
         0.0,
-        -3.24
+        -3.36
       ]
     },
     "gClef8vbCClef": {
       "bBoxNE": [
         3.368,
-        3.92
+        4.076
       ],
       "bBoxSW": [
         0.0,
-        -2.36
+        -2.481
       ]
     },
     "gClef8vbOld": {
@@ -1571,42 +1829,42 @@
     },
     "gClef8vbParens": {
       "bBoxNE": [
-        2.32,
-        3.92
+        2.409,
+        4.076
       ],
       "bBoxSW": [
         0.0,
-        -3.288
+        -3.408
       ]
     },
     "gClefChange": {
       "bBoxNE": [
-        1.888,
-        3.248
+        1.927,
+        3.421
       ],
       "bBoxSW": [
-        0.032,
-        -1.775
+        0.0,
+        -1.825
       ]
     },
     "gClefReversed": {
       "bBoxNE": [
-        2.32,
-        3.92
+        2.408,
+        4.076
       ],
       "bBoxSW": [
-        0.0,
-        -2.36
+        -0.001,
+        -2.481
       ]
     },
     "gClefTurned": {
       "bBoxNE": [
-        2.32,
-        3.88
+        2.409,
+        4.077
       ],
       "bBoxSW": [
         0.0,
-        -2.4
+        -2.48
       ]
     },
     "graceNoteAcciaccaturaStemDown": {
@@ -1889,6 +2147,16 @@
         -3.504
       ]
     },
+    "noteQuarterUp": {
+      "bBoxNE": [
+        1.328,
+        3.5
+      ],
+      "bBoxSW": [
+        0.188,
+        -0.648
+      ]
+    },
     "noteWhole": {
       "bBoxNE": [
         1.484,
@@ -2102,21 +2370,21 @@
     "noteheadSlashedDoubleWhole1": {
       "bBoxNE": [
         2.32,
-        0.671
+        0.62
       ],
       "bBoxSW": [
         0.0,
-        -0.658
+        -0.62
       ]
     },
     "noteheadSlashedDoubleWhole2": {
       "bBoxNE": [
         2.32,
-        0.671
+        0.653
       ],
       "bBoxSW": [
         0.0,
-        -0.658
+        -0.651
       ]
     },
     "noteheadSlashedHalf1": {
@@ -2131,32 +2399,52 @@
     },
     "noteheadSlashedHalf2": {
       "bBoxNE": [
-        1.544,
-        0.671
+        1.224,
+        0.603
       ],
       "bBoxSW": [
-        -0.002,
-        -0.658
+        -0.001,
+        -0.592
       ]
     },
     "noteheadSlashedWhole1": {
       "bBoxNE": [
-        1.546,
-        0.671
+        1.579,
+        0.593
       ],
       "bBoxSW": [
-        0.0,
-        -0.658
+        -0.038,
+        -0.588
       ]
     },
     "noteheadSlashedWhole2": {
       "bBoxNE": [
-        1.544,
-        0.671
+        1.524,
+        0.653
       ],
       "bBoxSW": [
-        -0.002,
-        -0.658
+        0.0,
+        -0.651
+      ]
+    },
+    "noteheadSquareBlack": {
+      "bBoxNE": [
+        1.2,
+        0.524
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.52
+      ]
+    },
+    "noteheadSquareWhite": {
+      "bBoxNE": [
+        1.2,
+        0.524
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.52
       ]
     },
     "noteheadWhole": {
@@ -2589,16 +2877,6 @@
         -0.04
       ]
     },
-    "noteQuarterUp": {
-      "bBoxNE": [
-        1.328,
-        3.5
-      ],
-      "bBoxSW": [
-        0.188,
-        -0.648
-      ]
-    },
     "repeat1Bar": {
       "bBoxNE": [
         2.095,
@@ -2731,11 +3009,11 @@
     },
     "rest8th": {
       "bBoxNE": [
-        1.008,
-        0.716
+        1.044,
+        0.748
       ],
       "bBoxSW": [
-        0.0,
+        0.036,
         -0.992
       ]
     },
@@ -2841,22 +3119,22 @@
     },
     "restQuarter": {
       "bBoxNE": [
-        1.003,
-        1.532
+        0.966,
+        1.514
       ],
       "bBoxSW": [
-        0.036,
+        0.044,
         -1.144
       ]
     },
     "restQuarterOld": {
       "bBoxNE": [
         1.008,
-        0.712
+        0.748
       ],
       "bBoxSW": [
         0.0,
-        -0.996
+        -0.992
       ]
     },
     "restQuarterZ": {
@@ -2927,6 +3205,46 @@
       "bBoxSW": [
         -0.024,
         0.004
+      ]
+    },
+    "splitBarDivider": {
+      "bBoxNE": [
+        0.664,
+        1.937
+      ],
+      "bBoxSW": [
+        -0.612,
+        0.5
+      ]
+    },
+    "staffDivideArrowDown": {
+      "bBoxNE": [
+        2.09,
+        2.104
+      ],
+      "bBoxSW": [
+        0.0,
+        0.014
+      ]
+    },
+    "staffDivideArrowUp": {
+      "bBoxNE": [
+        2.09,
+        3.986
+      ],
+      "bBoxSW": [
+        0.0,
+        1.896
+      ]
+    },
+    "staffDivideArrowUpDown": {
+      "bBoxNE": [
+        2.09,
+        4.058
+      ],
+      "bBoxSW": [
+        0.0,
+        0.014
       ]
     },
     "stringsDownBow": {
@@ -3341,22 +3659,22 @@
     },
     "timeSig2Reversed": {
       "bBoxNE": [
-        1.404,
+        1.4,
         1.024
       ],
       "bBoxSW": [
-        0.086,
+        0.082,
         -0.972
       ]
     },
     "timeSig2Turned": {
       "bBoxNE": [
-        1.404,
-        1.02
+        1.4,
+        1.024
       ],
       "bBoxSW": [
-        0.086,
-        -0.976
+        0.082,
+        -0.972
       ]
     },
     "timeSig3": {
@@ -3372,21 +3690,21 @@
     "timeSig3Reversed": {
       "bBoxNE": [
         1.264,
-        0.992
+        1.001
       ],
       "bBoxSW": [
         0.08,
-        -1.0
+        -0.989
       ]
     },
     "timeSig3Turned": {
       "bBoxNE": [
         1.264,
-        0.992
+        1.001
       ],
       "bBoxSW": [
         0.08,
-        -1.0
+        -0.989
       ]
     },
     "timeSig4": {
@@ -3412,11 +3730,11 @@
     "timeSig4Turned": {
       "bBoxNE": [
         1.448,
-        0.996
+        1.004
       ],
       "bBoxSW": [
         0.08,
-        -1.004
+        -0.996
       ]
     },
     "timeSig5": {
@@ -3481,7 +3799,7 @@
     },
     "timeSig7": {
       "bBoxNE": [
-        1.456,
+        1.433,
         1.012
       ],
       "bBoxSW": [
@@ -3491,21 +3809,21 @@
     },
     "timeSig7Reversed": {
       "bBoxNE": [
-        1.456,
+        1.432,
         1.012
       ],
       "bBoxSW": [
-        0.08,
+        0.079,
         -0.904
       ]
     },
     "timeSig7Turned": {
       "bBoxNE": [
-        1.456,
+        1.432,
         1.012
       ],
       "bBoxSW": [
-        0.08,
+        0.079,
         -0.904
       ]
     },
@@ -3651,21 +3969,21 @@
     },
     "timeSigCut2": {
       "bBoxNE": [
-        1.383,
+        1.398,
         1.328
       ],
       "bBoxSW": [
-        0.068,
+        0.08,
         -1.312
       ]
     },
     "timeSigCut3": {
       "bBoxNE": [
-        1.252,
+        1.264,
         1.328
       ],
       "bBoxSW": [
-        0.068,
+        0.08,
         -1.312
       ]
     },
@@ -3712,50 +4030,50 @@
     "timeSigFractionHalf": {
       "bBoxNE": [
         1.559,
-        0.996
+        1.005
       ],
       "bBoxSW": [
-        0.073,
-        -0.96
+        0.058,
+        -0.884
       ]
     },
     "timeSigFractionOneThird": {
       "bBoxNE": [
-        1.6,
-        0.996
+        1.61,
+        1.005
       ],
       "bBoxSW": [
-        0.073,
+        0.058,
         -1.004
       ]
     },
     "timeSigFractionQuarter": {
       "bBoxNE": [
-        1.588,
-        0.996
+        1.587,
+        1.005
       ],
       "bBoxSW": [
-        0.073,
-        -0.992
+        0.054,
+        -0.987
       ]
     },
     "timeSigFractionThreeQuarters": {
       "bBoxNE": [
-        1.588,
-        1.012
+        1.559,
+        1.027
       ],
       "bBoxSW": [
         0.073,
-        -0.992
+        -1.008
       ]
     },
     "timeSigFractionTwoThirds": {
       "bBoxNE": [
-        1.604,
-        0.964
+        1.61,
+        0.986
       ],
       "bBoxSW": [
-        0.072,
+        0.077,
         -1.004
       ]
     },
@@ -3902,11 +4220,81 @@
     "tremolo3": {
       "bBoxNE": [
         0.596,
-        1.021
+        1.017
       ],
       "bBoxSW": [
-        -0.598,
-        -0.892
+        -0.596,
+        -0.917
+      ]
+    },
+    "tremolo4": {
+      "bBoxNE": [
+        0.596,
+        1.361
+      ],
+      "bBoxSW": [
+        -0.596,
+        -1.241
+      ]
+    },
+    "tremolo5": {
+      "bBoxNE": [
+        0.596,
+        1.721
+      ],
+      "bBoxSW": [
+        -0.596,
+        -1.637
+      ]
+    },
+    "tremoloFingered1": {
+      "bBoxNE": [
+        0.592,
+        0.297
+      ],
+      "bBoxSW": [
+        -0.6,
+        -0.25
+      ]
+    },
+    "tremoloFingered2": {
+      "bBoxNE": [
+        0.584,
+        0.553
+      ],
+      "bBoxSW": [
+        -0.608,
+        -0.614
+      ]
+    },
+    "tremoloFingered3": {
+      "bBoxNE": [
+        0.596,
+        1.017
+      ],
+      "bBoxSW": [
+        -0.596,
+        -0.917
+      ]
+    },
+    "tremoloFingered4": {
+      "bBoxNE": [
+        0.596,
+        1.361
+      ],
+      "bBoxSW": [
+        -0.596,
+        -1.241
+      ]
+    },
+    "tremoloFingered5": {
+      "bBoxNE": [
+        0.596,
+        1.721
+      ],
+      "bBoxSW": [
+        -0.596,
+        -1.637
       ]
     },
     "tuplet0": {
@@ -4007,26 +4395,6 @@
       "bBoxSW": [
         -0.0,
         0.0
-      ]
-    },
-    "organGermanSemibrevisRest": {
-      "bBoxNE": [
-        1.108,
-        1.9
-      ],
-      "bBoxSW": [
-        0.892,
-        0.016
-      ]
-    },
-    "organGermanMinimaRest": {
-      "bBoxNE": [
-        1.276,
-        1.868
-      ],
-      "bBoxSW": [
-        0.72,
-        0.048
       ]
     }
   },
@@ -4209,6 +4577,13 @@
         "dynamicZ",
         "dynamicPiano"
       ]
+    }
+  },
+  "optionalGlyphs": {
+      "gClefSmall": {
+      "classes": ["clefs", "clefsG"],
+      "codepoint": "U+F472",
+      "description": "G clef (small staff)"
     }
   }
 }

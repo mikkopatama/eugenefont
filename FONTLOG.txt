@@ -10,6 +10,83 @@ https://github.com/mikkopatama/eugenefont
 Change log
 ----------
 
+25 May 2026 (v. 0.65)
+
+- Modified:
+	- Significant improvements to gclef shape
+	- 8th note flags have now slightly thicker tips
+	- Redrawing restQuarter with less nodes and smoother contours
+	- 8th note rest ball sits slightly higher between the stafflines
+	- Improvements to flat signs
+
+
+- Added:
+
+	Staff brackets and dividers
+	---------------------------
+	bracket
+	splitBarDivider
+	staffDivideArrowDown
+	staffDivideArrowUp
+	staffDivideArrowUpDown
+
+
+	Noteheads
+	---------
+
+	noteheadSquareWhite
+	noteheadSquareBlack
+	noteheadSlashedHalf2
+	noteheadSlashedWhole1
+	noteheadSlashedWhole2
+	noteheadSlashedDoubleWhole1
+	noteheadSlashedDoubleWhole2
+
+	Gould arrow quartertone accidentals
+	-----------------------------------
+
+	accidentalQuarterToneFlatArrowUp
+	accidentalThreeQuarterTonesFlatArrowDown
+	accidentalQuarterToneSharpNaturalArrowUp
+	accidentalQuarterToneFlatNaturalArrowDown
+	accidentalThreeQuarterTonesSharpArrowUp
+	accidentalQuarterToneSharpArrowDown
+	accidentalFiveQuarterTonesSharpArrowUp
+	accidentalThreeQuarterTonesSharpArrowDown
+	accidentalThreeQuarterTonesFlatArrowUp
+	accidentalFiveQuarterTonesFlatArrowDown
+	accidentalArrowUp
+	accidentalArrowDown
+
+
+	Stein-Zimmermann accidentals
+	----------------------------
+
+	accidentalQuarterToneSharpStein
+	accidentalThreeQuarterTonesSharpStein
+	accidentalNarrowReversedFlat
+	accidentalNarrowReversedFlatAndFlat
+
+	Tremolos
+	--------
+	tremoloFingered1
+	tremoloFingered2
+	tremoloFingered3
+	tremoloFingered4
+	tremoloFingered5
+	tremolo4
+	tremolo5
+
+
+	Holds and pauses
+	----------------
+	caesura
+	caesuraShort
+	caesuraCurved
+	caesuraSingleStroke
+
+
+
 
 24 May 2026 (v. 0.600)
 

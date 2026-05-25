@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniF472" format="2">
+  <advance width="641"/>
+  <unicode hex="F472"/>
+  <note>
+uniF472
+</note>
+  <outline>
+    <component base="gClefChange" xScale="1.331" yScale="1.331" yOffset="-86"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 16:42:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

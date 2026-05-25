@@ -36,3 +36,16 @@ lookup SUB_0 {
 } SUB_0;
 } liga;
 
+feature ss01 {
+featureNames {
+	name "";
+};
+script DFLT;
+language dflt;
+lookup SUB_1 {
+	sub gClef from [uniF472];
+	sub cClef from [uniF473];
+	sub fClef from [uniF474];
+} SUB_1;
+} ss01;
+

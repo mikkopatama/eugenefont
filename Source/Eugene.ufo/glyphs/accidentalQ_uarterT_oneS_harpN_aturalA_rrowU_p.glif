@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalQuarterToneSharpNaturalArrowUp" format="2">
+  <advance width="162"/>
+  <unicode hex="E272"/>
+  <note>
+uniE272
+</note>
+  <outline>
+    <component base="accidentalNatural"/>
+    <component base="accidentalArrowUp" xOffset="-65" yOffset="143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 12:52:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

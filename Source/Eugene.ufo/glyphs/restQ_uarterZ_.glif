@@ -82,4 +82,10 @@ uniE4F6
       <point x="188" y="64"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 07:06:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

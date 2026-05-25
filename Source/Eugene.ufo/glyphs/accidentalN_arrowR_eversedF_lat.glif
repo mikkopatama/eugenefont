@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalNarrowReversedFlat" format="2">
+  <advance width="176"/>
+  <unicode hex="E284"/>
+  <note>
+uniE284
+</note>
+  <outline>
+    <component base="accidentalFlat" xScale="-0.75" xOffset="170"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-25 14:42:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>
