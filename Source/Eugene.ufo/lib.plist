@@ -847,9 +847,70 @@
       <string>accidentalSharpParens</string>
       <string>accidentalDoubleSharpParens</string>
       <string>accidentalDoubleFlatParens</string>
+      <string>uniE043</string>
+      <string>repeatDot</string>
+      <string>noteheadNull</string>
+      <string>noteheadPlusBlack</string>
+      <string>noteheadCircleX</string>
+      <string>noteheadTriangleUpDoubleWhole</string>
+      <string>noteheadTriangleUpWhole</string>
+      <string>noteheadTriangleUpHalf</string>
+      <string>noteheadTriangleUpWhite</string>
+      <string>noteheadTriangleUpBlack</string>
+      <string>noteheadTriangleLeftWhite</string>
+      <string>noteheadTriangleLeftBlack</string>
+      <string>noteheadTriangleRightWhite</string>
+      <string>noteheadTriangleRightBlack</string>
+      <string>noteheadTriangleDownDoubleWhole</string>
+      <string>noteheadTriangleDownWhole</string>
+      <string>noteheadTriangleDownHalf</string>
+      <string>noteheadTriangleDownWhite</string>
+      <string>noteheadTriangleDownBlack</string>
+      <string>noteheadMoonWhite</string>
+      <string>noteheadMoonBlack</string>
+      <string>noteheadTriangleRoundDownWhite</string>
+      <string>noteheadTriangleRoundDownBlack</string>
+      <string>noteheadDiamondDoubleWhole</string>
+      <string>noteheadDiamondWhole</string>
+      <string>noteheadDiamondHalf</string>
+      <string>noteheadDiamondHalfWide</string>
+      <string>noteheadDiamondBlack</string>
+      <string>noteheadDiamondBlackWide</string>
+      <string>noteheadDiamondWhite</string>
+      <string>noteheadDiamondWhiteWide</string>
+      <string>noteheadCircledBlack</string>
+      <string>noteheadCircledHalf</string>
+      <string>noteheadCircledWhole</string>
+      <string>noteheadCircledDoubleWhole</string>
+      <string>noteheadClusterSquareWhite</string>
+      <string>noteheadClusterSquareBlack</string>
+      <string>accidentalBuyukMucennebFlat</string>
+      <string>accidentalBakiyeFlat</string>
+      <string>accidentalKucukMucennebSharp</string>
+      <string>accidentalBuyukMucennebSharp</string>
+      <string>fermataLongHenzeAbove</string>
+      <string>fermataLongHenzeBelow</string>
+      <string>breathMarkTick</string>
+      <string>breathMarkUpbow</string>
+      <string>breathMarkSalzedo</string>
+      <string>quindicesima</string>
+      <string>quindicesimaAlta</string>
+      <string>quindicesimaBassa</string>
+      <string>ventiduesima</string>
+      <string>ventiduesimaAlta</string>
+      <string>ventiduesimaBassa</string>
+      <string>octaveParensLeft</string>
+      <string>octaveParensRight</string>
+      <string>quindicesimaBassaMb</string>
+      <string>ventiduesimaBassaMb</string>
+      <string>octaveBassa</string>
+      <string>dynamicNiente</string>
+      <string>keyboardPedalParensLeft</string>
+      <string>keyboardPedalParensRight</string>
       <string>uniF472</string>
       <string>uniF473</string>
       <string>uniF474</string>
+      <string>_Circle</string>
       <string>_ornamentCadencePrefix</string>
       <string>_ornamentCadenceUpperPref</string>
       <string>_ornamentPole</string>
@@ -1157,6 +1218,7 @@
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>
+      <string>_Circle</string>
       <string>_ornamentCadencePrefix</string>
       <string>_ornamentCadenceUpperPref</string>
       <string>_ornamentPole</string>

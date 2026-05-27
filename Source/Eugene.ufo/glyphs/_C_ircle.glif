@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_Circle" format="2">
+  <advance width="342"/>
+  <outline>
+    <contour>
+      <point x="171" y="-171" type="curve" smooth="yes"/>
+      <point x="265" y="-171"/>
+      <point x="342" y="-95"/>
+      <point x="342" y="-2" type="curve" smooth="yes"/>
+      <point x="342" y="91"/>
+      <point x="265" y="167"/>
+      <point x="171" y="167" type="curve" smooth="yes"/>
+      <point x="78" y="167"/>
+      <point x="0" y="91"/>
+      <point x="0" y="-2" type="curve" smooth="yes"/>
+      <point x="0" y="-95"/>
+      <point x="78" y="-171"/>
+    </contour>
+    <contour>
+      <point x="171" y="-152" type="curve" smooth="yes"/>
+      <point x="88" y="-152"/>
+      <point x="19" y="-85"/>
+      <point x="19" y="-2" type="curve" smooth="yes"/>
+      <point x="19" y="81"/>
+      <point x="88" y="148"/>
+      <point x="171" y="148" type="curve" smooth="yes"/>
+      <point x="254" y="148"/>
+      <point x="323" y="81"/>
+      <point x="323" y="-2" type="curve" smooth="yes"/>
+      <point x="323" y="-85"/>
+      <point x="254" y="-152"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-27 10:37:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

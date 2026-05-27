@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "0.650",
+  "fontVersion": "0.660",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -137,7 +137,7 @@
         -2.456
       ],
       "stemUpNW": [
-        -0.024,
+        0.0,
         -0.04
       ]
     },
@@ -211,7 +211,107 @@
         0.1
       ]
     },
+    "noteheadCircleX": {
+      "stemDownNW": [
+        0.0,
+        0.0
+      ],
+      "stemUpSE": [
+        1.164,
+        0.0
+      ]
+    },
+    "noteheadCircledBlack": {
+      "stemDownNW": [
+        0.12,
+        -0.148
+      ],
+      "stemUpSE": [
+        1.26,
+        0.1
+      ]
+    },
+    "noteheadCircledHalf": {
+      "stemDownNW": [
+        0.12,
+        -0.22
+      ],
+      "stemUpSE": [
+        1.26,
+        0.152
+      ]
+    },
+    "noteheadDiamondBlack": {
+      "stemDownNW": [
+        0.004,
+        0.0
+      ],
+      "stemUpSE": [
+        0.996,
+        0.0
+      ]
+    },
+    "noteheadDiamondBlackWide": {
+      "stemDownNW": [
+        0.0,
+        0.0
+      ],
+      "stemUpSE": [
+        1.392,
+        0.0
+      ]
+    },
+    "noteheadDiamondHalf": {
+      "stemDownNW": [
+        0.004,
+        0.0
+      ],
+      "stemUpSE": [
+        0.996,
+        0.0
+      ]
+    },
+    "noteheadDiamondHalfWide": {
+      "stemDownNW": [
+        0.0,
+        0.0
+      ],
+      "stemUpSE": [
+        1.392,
+        0.0
+      ]
+    },
+    "noteheadDiamondWhite": {
+      "stemDownNW": [
+        0.004,
+        0.0
+      ],
+      "stemUpSE": [
+        0.996,
+        0.0
+      ]
+    },
+    "noteheadDiamondWhiteWide": {
+      "stemDownNW": [
+        0.0,
+        0.0
+      ],
+      "stemUpSE": [
+        1.392,
+        0.0
+      ]
+    },
     "noteheadHalf": {
+      "stemDownNW": [
+        0.0,
+        -0.22
+      ],
+      "stemUpSE": [
+        1.14,
+        0.152
+      ]
+    },
+    "noteheadHalfFilled": {
       "stemDownNW": [
         0.0,
         -0.22
@@ -229,6 +329,26 @@
       "stemUpSE": [
         1.14,
         0.152
+      ]
+    },
+    "noteheadMoonBlack": {
+      "stemDownNW": [
+        0.0,
+        0.0
+      ],
+      "stemUpSE": [
+        1.176,
+        0.456
+      ]
+    },
+    "noteheadMoonWhite": {
+      "stemDownNW": [
+        0.0,
+        0.0
+      ],
+      "stemUpSE": [
+        1.176,
+        0.456
       ]
     },
     "noteheadSlashDiamondWhite": {
@@ -381,6 +501,156 @@
         0.46
       ]
     },
+    "noteheadTriangleDownBlack": {
+      "stemDownNW": [
+        0.0,
+        0.492
+      ],
+      "stemUpSE": [
+        1.184,
+        0.492
+      ]
+    },
+    "noteheadTriangleDownHalf": {
+      "stemDownNW": [
+        0.0,
+        0.492
+      ],
+      "stemUpSE": [
+        1.184,
+        0.492
+      ]
+    },
+    "noteheadTriangleDownWhite": {
+      "stemDownNW": [
+        0.0,
+        0.496
+      ],
+      "stemUpSE": [
+        1.184,
+        0.496
+      ]
+    },
+    "noteheadTriangleDownWhole": {
+      "stemDownNW": [
+        0.0,
+        0.508
+      ],
+      "stemUpSE": [
+        1.208,
+        0.508
+      ]
+    },
+    "noteheadTriangleLeftBlack": {
+      "stemDownNW": [
+        0.0,
+        -0.54
+      ],
+      "stemUpSE": [
+        1.404,
+        -0.54
+      ]
+    },
+    "noteheadTriangleLeftWhite": {
+      "stemDownNW": [
+        0.0,
+        -0.54
+      ],
+      "stemUpSE": [
+        1.404,
+        -0.54
+      ]
+    },
+    "noteheadTriangleRightBlack": {
+      "stemDownNW": [
+        0.0,
+        -0.54
+      ],
+      "stemUpSE": [
+        1.404,
+        -0.54
+      ]
+    },
+    "noteheadTriangleRightWhite": {
+      "stemDownNW": [
+        0.0,
+        -0.54
+      ],
+      "stemUpSE": [
+        1.404,
+        -0.54
+      ]
+    },
+    "noteheadTriangleRoundDownBlack": {
+      "stemDownNW": [
+        0.004,
+        0.184
+      ],
+      "stemUpSE": [
+        1.22,
+        0.184
+      ]
+    },
+    "noteheadTriangleRoundDownWhite": {
+      "stemDownNW": [
+        0.004,
+        0.184
+      ],
+      "stemUpSE": [
+        1.22,
+        0.184
+      ]
+    },
+    "noteheadTriangleUpBlack": {
+      "stemDownNW": [
+        0.0,
+        -0.5
+      ],
+      "stemUpSE": [
+        1.184,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpDoubleWhole": {
+      "stemDownNW": [
+        0.36,
+        -0.5
+      ],
+      "stemUpSE": [
+        1.568,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpHalf": {
+      "stemDownNW": [
+        0.0,
+        -0.5
+      ],
+      "stemUpSE": [
+        1.184,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpWhite": {
+      "stemDownNW": [
+        0.0,
+        -0.5
+      ],
+      "stemUpSE": [
+        1.184,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpWhole": {
+      "stemDownNW": [
+        0.0,
+        -0.5
+      ],
+      "stemUpSE": [
+        1.208,
+        -0.5
+      ]
+    },
     "noteheadXBlack": {
       "stemDownNW": [
         0.004,
@@ -447,6 +717,16 @@
         -0.5
       ]
     },
+    "accidentalBakiyeFlat": {
+      "bBoxNE": [
+        1.2,
+        1.812
+      ],
+      "bBoxSW": [
+        0.022,
+        -0.851
+      ]
+    },
     "accidentalBracketLeft": {
       "bBoxNE": [
         0.296,
@@ -465,6 +745,26 @@
       "bBoxSW": [
         0.0,
         -0.748
+      ]
+    },
+    "accidentalBuyukMucennebFlat": {
+      "bBoxNE": [
+        1.2,
+        1.812
+      ],
+      "bBoxSW": [
+        -0.002,
+        -0.851
+      ]
+    },
+    "accidentalBuyukMucennebSharp": {
+      "bBoxNE": [
+        1.28,
+        1.308
+      ],
+      "bBoxSW": [
+        -0.204,
+        -1.324
       ]
     },
     "accidentalDoubleFlat": {
@@ -517,6 +817,16 @@
         -0.851
       ]
     },
+    "accidentalKucukMucennebSharp": {
+      "bBoxNE": [
+        1.444,
+        1.192
+      ],
+      "bBoxSW": [
+        -0.04,
+        -1.304
+      ]
+    },
     "accidentalNarrowReversedFlat": {
       "bBoxNE": [
         0.707,
@@ -539,32 +849,32 @@
     },
     "accidentalNatural": {
       "bBoxNE": [
-        0.648,
-        1.356
+        0.652,
+        1.348
       ],
       "bBoxSW": [
-        0.032,
-        -1.347
+        0.02,
+        -1.344
       ]
     },
     "accidentalNaturalFlat": {
       "bBoxNE": [
-        1.82,
+        1.76,
         1.812
       ],
       "bBoxSW": [
         0.0,
-        -1.347
+        -1.344
       ]
     },
     "accidentalNaturalSharp": {
       "bBoxNE": [
-        1.832,
-        1.356
+        1.812,
+        1.328
       ],
       "bBoxSW": [
-        0.032,
-        -1.347
+        0.0,
+        -1.364
       ]
     },
     "accidentalParensLeft": {
@@ -600,10 +910,10 @@
     "accidentalQuarterToneFlatNaturalArrowDown": {
       "bBoxNE": [
         0.897,
-        1.356
+        1.348
       ],
       "bBoxSW": [
-        0.0,
+        -0.012,
         -2.06
       ]
     },
@@ -629,12 +939,12 @@
     },
     "accidentalQuarterToneSharpNaturalArrowUp": {
       "bBoxNE": [
-        0.648,
-        2.116
+        0.652,
+        2.124
       ],
       "bBoxSW": [
-        -0.249,
-        -1.347
+        -0.245,
+        -1.344
       ]
     },
     "accidentalQuarterToneSharpStein": {
@@ -989,32 +1299,32 @@
     },
     "bracket": {
       "bBoxNE": [
-        1.772,
-        5.624
+        1.652,
+        5.544
       ],
       "bBoxSW": [
-        -0.135,
-        -1.396
+        -0.251,
+        -1.316
       ]
     },
     "bracketBottom": {
       "bBoxNE": [
-        1.748,
-        0.001
+        1.632,
+        0.081
       ],
       "bBoxSW": [
-        -0.155,
-        -1.344
+        -0.271,
+        -1.264
       ]
     },
     "bracketTop": {
       "bBoxNE": [
-        1.748,
-        1.344
+        1.628,
+        1.264
       ],
       "bBoxSW": [
-        -0.155,
-        -0.001
+        -0.275,
+        -0.081
       ]
     },
     "breathMarkComma": {
@@ -1025,6 +1335,36 @@
       "bBoxSW": [
         0.0,
         0.008
+      ]
+    },
+    "breathMarkSalzedo": {
+      "bBoxNE": [
+        2.244,
+        1.752
+      ],
+      "bBoxSW": [
+        0.0,
+        0.008
+      ]
+    },
+    "breathMarkTick": {
+      "bBoxNE": [
+        2.008,
+        1.928
+      ],
+      "bBoxSW": [
+        -0.0,
+        0.0
+      ]
+    },
+    "breathMarkUpbow": {
+      "bBoxNE": [
+        0.977,
+        1.932
+      ],
+      "bBoxSW": [
+        0.028,
+        0.052
       ]
     },
     "cClef": {
@@ -1235,6 +1575,16 @@
       "bBoxSW": [
         0.094,
         0.0
+      ]
+    },
+    "dynamicNiente": {
+      "bBoxNE": [
+        0.999,
+        1.019
+      ],
+      "bBoxSW": [
+        -0.064,
+        -0.006
       ]
     },
     "dynamicPF": {
@@ -1537,6 +1887,26 @@
         -1.212
       ]
     },
+    "fermataLongHenzeAbove": {
+      "bBoxNE": [
+        2.468,
+        1.484
+      ],
+      "bBoxSW": [
+        0.0,
+        0.048
+      ]
+    },
+    "fermataLongHenzeBelow": {
+      "bBoxNE": [
+        2.468,
+        -0.004
+      ],
+      "bBoxSW": [
+        0.0,
+        -1.44
+      ]
+    },
     "fermataShortAbove": {
       "bBoxNE": [
         2.08,
@@ -1609,12 +1979,12 @@
     },
     "flag1024thUp": {
       "bBoxNE": [
-        0.972,
+        0.976,
         5.416
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.132
       ]
     },
     "flag128thDown": {
@@ -1629,12 +1999,12 @@
     },
     "flag128thUp": {
       "bBoxNE": [
-        0.972,
+        0.977,
         2.492
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.132
       ]
     },
     "flag16thDown": {
@@ -1649,12 +2019,12 @@
     },
     "flag16thUp": {
       "bBoxNE": [
-        0.972,
+        0.969,
         0.032
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.125
       ]
     },
     "flag256thDown": {
@@ -1669,12 +2039,12 @@
     },
     "flag256thUp": {
       "bBoxNE": [
-        0.972,
+        0.971,
         3.44
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.128
       ]
     },
     "flag32ndDown": {
@@ -1689,12 +2059,12 @@
     },
     "flag32ndUp": {
       "bBoxNE": [
-        0.972,
+        0.983,
         0.852
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.125
       ]
     },
     "flag512thDown": {
@@ -1709,12 +2079,12 @@
     },
     "flag512thUp": {
       "bBoxNE": [
-        0.972,
+        0.976,
         4.412
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.128
       ]
     },
     "flag64thDown": {
@@ -1729,12 +2099,12 @@
     },
     "flag64thUp": {
       "bBoxNE": [
-        0.972,
+        0.973,
         1.672
       ],
       "bBoxSW": [
         0.0,
-        -3.133
+        -3.125
       ]
     },
     "flag8thDown": {
@@ -1957,6 +2327,26 @@
         1.024
       ]
     },
+    "keyboardPedalParensLeft": {
+      "bBoxNE": [
+        0.536,
+        2.329
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.244
+      ]
+    },
+    "keyboardPedalParensRight": {
+      "bBoxNE": [
+        0.536,
+        2.329
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.244
+      ]
+    },
     "keyboardPedalPed": {
       "bBoxNE": [
         4.72,
@@ -2177,6 +2567,156 @@
         -0.56
       ]
     },
+    "noteheadCircleX": {
+      "bBoxNE": [
+        1.164,
+        0.544
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.556
+      ]
+    },
+    "noteheadCircledBlack": {
+      "bBoxNE": [
+        1.368,
+        0.668
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.684
+      ]
+    },
+    "noteheadCircledDoubleWhole": {
+      "bBoxNE": [
+        2.332,
+        0.784
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.8
+      ]
+    },
+    "noteheadCircledHalf": {
+      "bBoxNE": [
+        1.368,
+        0.668
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.684
+      ]
+    },
+    "noteheadCircledWhole": {
+      "bBoxNE": [
+        1.6,
+        0.784
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.8
+      ]
+    },
+    "noteheadClusterSquareBlack": {
+      "bBoxNE": [
+        1.3,
+        2.504
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.504
+      ]
+    },
+    "noteheadClusterSquareWhite": {
+      "bBoxNE": [
+        1.3,
+        2.504
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.504
+      ]
+    },
+    "noteheadDiamondBlack": {
+      "bBoxNE": [
+        0.998,
+        0.498
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.498
+      ]
+    },
+    "noteheadDiamondBlackWide": {
+      "bBoxNE": [
+        1.393,
+        0.498
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.498
+      ]
+    },
+    "noteheadDiamondDoubleWhole": {
+      "bBoxNE": [
+        2.3,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteheadDiamondHalf": {
+      "bBoxNE": [
+        0.998,
+        0.498
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.498
+      ]
+    },
+    "noteheadDiamondHalfWide": {
+      "bBoxNE": [
+        1.393,
+        0.498
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.498
+      ]
+    },
+    "noteheadDiamondWhite": {
+      "bBoxNE": [
+        0.998,
+        0.498
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.498
+      ]
+    },
+    "noteheadDiamondWhiteWide": {
+      "bBoxNE": [
+        1.393,
+        0.498
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.498
+      ]
+    },
+    "noteheadDiamondWhole": {
+      "bBoxNE": [
+        1.662,
+        0.561
+      ],
+      "bBoxSW": [
+        -0.002,
+        -0.564
+      ]
+    },
     "noteheadHalf": {
       "bBoxNE": [
         1.14,
@@ -2207,6 +2747,36 @@
         -0.532
       ]
     },
+    "noteheadMoonBlack": {
+      "bBoxNE": [
+        1.176,
+        0.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.5
+      ]
+    },
+    "noteheadMoonWhite": {
+      "bBoxNE": [
+        1.176,
+        0.5
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.5
+      ]
+    },
+    "noteheadNull": {
+      "bBoxNE": [
+        0.0,
+        0.0
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
     "noteheadParenthesis": {
       "bBoxNE": [
         1.472,
@@ -2219,22 +2789,32 @@
     },
     "noteheadParenthesisLeft": {
       "bBoxNE": [
-        0.43,
-        0.724
+        0.392,
+        0.844
       ],
       "bBoxSW": [
         0.0,
-        -0.714
+        -0.84
       ]
     },
     "noteheadParenthesisRight": {
       "bBoxNE": [
-        0.292,
-        0.724
+        0.392,
+        0.844
       ],
       "bBoxSW": [
-        -0.138,
-        -0.714
+        0.0,
+        -0.84
+      ]
+    },
+    "noteheadPlusBlack": {
+      "bBoxNE": [
+        1.1,
+        0.552
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.548
       ]
     },
     "noteheadSlashDiamondWhite": {
@@ -2447,6 +3027,166 @@
         -0.52
       ]
     },
+    "noteheadTriangleDownBlack": {
+      "bBoxNE": [
+        1.183,
+        0.492
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.498
+      ]
+    },
+    "noteheadTriangleDownDoubleWhole": {
+      "bBoxNE": [
+        1.932,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
+    "noteheadTriangleDownHalf": {
+      "bBoxNE": [
+        1.183,
+        0.492
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.498
+      ]
+    },
+    "noteheadTriangleDownWhite": {
+      "bBoxNE": [
+        1.183,
+        0.496
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.494
+      ]
+    },
+    "noteheadTriangleDownWhole": {
+      "bBoxNE": [
+        1.207,
+        0.508
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.498
+      ]
+    },
+    "noteheadTriangleLeftBlack": {
+      "bBoxNE": [
+        1.405,
+        0.53
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.54
+      ]
+    },
+    "noteheadTriangleLeftWhite": {
+      "bBoxNE": [
+        1.405,
+        0.53
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.54
+      ]
+    },
+    "noteheadTriangleRightBlack": {
+      "bBoxNE": [
+        1.404,
+        0.53
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.54
+      ]
+    },
+    "noteheadTriangleRightWhite": {
+      "bBoxNE": [
+        1.404,
+        0.53
+      ],
+      "bBoxSW": [
+        -0.001,
+        -0.54
+      ]
+    },
+    "noteheadTriangleRoundDownBlack": {
+      "bBoxNE": [
+        1.222,
+        0.488
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.527
+      ]
+    },
+    "noteheadTriangleRoundDownWhite": {
+      "bBoxNE": [
+        1.222,
+        0.488
+      ],
+      "bBoxSW": [
+        0.002,
+        -0.527
+      ]
+    },
+    "noteheadTriangleUpBlack": {
+      "bBoxNE": [
+        1.183,
+        0.49
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpDoubleWhole": {
+      "bBoxNE": [
+        1.912,
+        0.62
+      ],
+      "bBoxSW": [
+        0.02,
+        -0.62
+      ]
+    },
+    "noteheadTriangleUpHalf": {
+      "bBoxNE": [
+        1.183,
+        0.49
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpWhite": {
+      "bBoxNE": [
+        1.183,
+        0.49
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.5
+      ]
+    },
+    "noteheadTriangleUpWhole": {
+      "bBoxNE": [
+        1.207,
+        0.506
+      ],
+      "bBoxSW": [
+        0.001,
+        -0.5
+      ]
+    },
     "noteheadWhole": {
       "bBoxNE": [
         1.516,
@@ -2485,6 +3225,36 @@
       "bBoxSW": [
         0.0,
         -0.5
+      ]
+    },
+    "octaveBassa": {
+      "bBoxNE": [
+        4.216,
+        1.42
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.0
+      ]
+    },
+    "octaveParensLeft": {
+      "bBoxNE": [
+        0.64,
+        1.867
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.151
+      ]
+    },
+    "octaveParensRight": {
+      "bBoxNE": [
+        0.64,
+        1.867
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.151
       ]
     },
     "ornamentMordent": {
@@ -2859,22 +3629,62 @@
     },
     "ottavaBassaBa": {
       "bBoxNE": [
-        3.5,
+        3.14,
         1.872
       ],
       "bBoxSW": [
         0.088,
-        -0.04
+        -0.036
       ]
     },
     "ottavaBassaVb": {
       "bBoxNE": [
-        3.184,
+        3.108,
         1.872
       ],
       "bBoxSW": [
         0.088,
-        -0.04
+        -0.036
+      ]
+    },
+    "quindicesima": {
+      "bBoxNE": [
+        2.341,
+        1.904
+      ],
+      "bBoxSW": [
+        -0.06,
+        -0.005
+      ]
+    },
+    "quindicesimaAlta": {
+      "bBoxNE": [
+        5.02,
+        1.904
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.005
+      ]
+    },
+    "quindicesimaBassa": {
+      "bBoxNE": [
+        4.96,
+        1.904
+      ],
+      "bBoxSW": [
+        -0.06,
+        -0.005
+      ]
+    },
+    "quindicesimaBassaMb": {
+      "bBoxNE": [
+        4.812,
+        1.904
+      ],
+      "bBoxSW": [
+        -0.06,
+        -0.005
       ]
     },
     "repeat1Bar": {
@@ -2935,6 +3745,16 @@
       "bBoxSW": [
         0.0,
         0.284
+      ]
+    },
+    "repeatDot": {
+      "bBoxNE": [
+        0.4,
+        0.196
+      ],
+      "bBoxSW": [
+        0.016,
+        -0.196
       ]
     },
     "rest1024th": {
@@ -3179,22 +3999,22 @@
     },
     "reversedBracketBottom": {
       "bBoxNE": [
-        1.903,
-        0.001
+        2.023,
+        0.133
       ],
       "bBoxSW": [
-        0.0,
-        -1.344
+        0.12,
+        -1.212
       ]
     },
     "reversedBracketTop": {
       "bBoxNE": [
-        1.903,
-        1.344
+        2.023,
+        1.264
       ],
       "bBoxSW": [
-        0.0,
-        -0.001
+        0.12,
+        -0.081
       ]
     },
     "segno": {
@@ -4396,6 +5216,56 @@
         -0.0,
         0.0
       ]
+    },
+    "repeatDots": {
+      "bBoxNE": [
+        0.372,
+        2.644
+      ],
+      "bBoxSW": [
+        0.032,
+        1.304
+      ]
+    },
+    "ventiduesima": {
+      "bBoxNE": [
+        2.576,
+        1.895
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.006
+      ]
+    },
+    "ventiduesimaAlta": {
+      "bBoxNE": [
+        5.248,
+        1.895
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.006
+      ]
+    },
+    "ventiduesimaBassa": {
+      "bBoxNE": [
+        5.248,
+        1.895
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.006
+      ]
+    },
+    "ventiduesimaBassaMb": {
+      "bBoxNE": [
+        5.076,
+        1.895
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.006
+      ]
     }
   },
   "ligatures": {
@@ -4577,13 +5447,6 @@
         "dynamicZ",
         "dynamicPiano"
       ]
-    }
-  },
-  "optionalGlyphs": {
-      "gClefSmall": {
-      "classes": ["clefs", "clefsG"],
-      "codepoint": "U+F472",
-      "description": "G clef (small staff)"
     }
   }
 }

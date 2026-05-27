@@ -7,12 +7,12 @@ uniE272
 </note>
   <outline>
     <component base="accidentalNatural"/>
-    <component base="accidentalArrowUp" xOffset="-65" yOffset="143"/>
+    <component base="accidentalArrowUp" xOffset="-64" yOffset="145"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 12:52:42 +0000</string>
+      <string>2026-05-27 12:16:08 +0000</string>
     </dict>
   </lib>
 </glyph>

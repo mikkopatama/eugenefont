@@ -5,10 +5,90 @@ publications.
 The font is licensed under the SIL Open Font License, Version 1.1.
 
 https://github.com/mikkopatama/eugenefont
+https://mikkopatama.com/eugenefont
 
 
 Change log
 ----------
+
+27 May 2026 (v. 0.66)
+
+- Modified
+	- Corrected misplaced anchor in flag8thUp
+	- Corrected all other Up flags, removing unecessary nodes and rounding paths
+	- Better accidentalNatural glyph
+	- Adjusted compound dynamic kerning in EugeneText
+	- Added ottava, quindicesima and ventiduesima letters to EugeneText
+	- Adjusted bracketTop and bracketBottom positions so they attach to bracket correctly
+
+- Added:
+	ottavaBassaBa
+	ottavaBassaVb
+	quindicesima
+	quindicesimaAlta
+	quindicesimaBassa
+	ventiduesima
+	ventiduesimaAlta
+	ventiduesimaBassa
+	quindicesimaBassaMb
+	ventiduesimaBassaMb
+	octaveBassa
+	octaveParensLeft
+	octaveParensRight
+
+	noteheadPlusBlack
+	noteheadCircleX
+	noteheadTriangleUpDoubleWhole
+	noteheadTriangleUpWhole
+	noteheadTriangleUpHalf
+	noteheadTriangleUpWhite
+	noteheadTriangleUpBlack
+	noteheadTriangleLeftWhite
+	noteheadTriangleLeftBlack
+	noteheadTriangleRightWhite
+	noteheadTriangleRightBlack
+	noteheadTriangleDownDoubleWhole
+	noteheadTriangleDownWhole
+	noteheadTriangleDownHalf
+	noteheadTriangleDownWhite
+	noteheadTriangleDownBlack
+	noteheadMoonWhite
+	noteheadMoonBlack
+	noteheadTriangleRoundDownWhite
+	noteheadTriangleRoundDownBlack
+	noteheadDiamondDoubleWhole
+	noteheadDiamondWhole
+	noteheadDiamondHalf
+	noteheadDiamondHalfWide
+	noteheadDiamondBlack
+	noteheadDiamondBlackWide
+	noteheadDiamondWhite
+	noteheadDiamondWhiteWide
+	noteheadCircledBlack
+	noteheadCircledHalf
+	noteheadCircledWhole
+	noteheadCircledDoubleWhole
+	noteheadClusterSquareWhite
+	noteheadClusterSquareBlack
+
+	fermataLongHenzeAbove
+	fermataLongHenzeBelow
+	breathMarkTick
+	breathMarkUpbow
+	breathMarkSalzedo
+
+	accidentalBuyukMucennebFlat
+	accidentalBakiyeFlat
+	accidentalKucukMucennebSharp
+	accidentalBuyukMucennebSharp
+
+
+	dynamicNiente
+
+	keyboardPedalParensLeft
+	keyboardPedalParensRight
+
+
 
 25 May 2026 (v. 0.65)
 

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidentalBuyukMucennebSharp" format="2">
+  <advance width="258"/>
+  <unicode hex="E447"/>
+  <note>
+accidentalBuyukMucennebSharp
+</note>
+  <outline>
+    <contour>
+      <point x="-35" y="-86" type="curve" smooth="yes"/>
+      <point x="304" y="-14" type="line" smooth="yes"/>
+      <point x="312" y="-13"/>
+      <point x="320" y="-5"/>
+      <point x="320" y="4" type="curve" smooth="yes"/>
+      <point x="316" y="59" type="line" smooth="yes"/>
+      <point x="316" y="68"/>
+      <point x="313" y="71"/>
+      <point x="305" y="70" type="curve" smooth="yes"/>
+      <point x="-42" y="-2" type="line" smooth="yes"/>
+      <point x="-50" y="-3"/>
+      <point x="-51" y="-11"/>
+      <point x="-51" y="-20" type="curve" smooth="yes"/>
+      <point x="-47" y="-75" type="line" smooth="yes"/>
+      <point x="-47" y="-84"/>
+      <point x="-43" y="-87"/>
+    </contour>
+    <component base="accidentalSharp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-27 16:17:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

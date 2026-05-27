@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>_Circle</key>
+    <string>_C_ircle.glif</string>
     <key>_ornamentCadencePrefix</key>
     <string>_ornamentC_adenceP_refix.glif</string>
     <key>_ornamentCadenceUpperPref</key>
@@ -24,10 +26,16 @@
     <string>accidentalA_rrowD_own.glif</string>
     <key>accidentalArrowUp</key>
     <string>accidentalA_rrowU_p.glif</string>
+    <key>accidentalBakiyeFlat</key>
+    <string>accidentalB_akiyeF_lat.glif</string>
     <key>accidentalBracketLeft</key>
     <string>accidentalB_racketL_eft.glif</string>
     <key>accidentalBracketRight</key>
     <string>accidentalB_racketR_ight.glif</string>
+    <key>accidentalBuyukMucennebFlat</key>
+    <string>accidentalB_uyukM_ucennebF_lat.glif</string>
+    <key>accidentalBuyukMucennebSharp</key>
+    <string>accidentalB_uyukM_ucennebS_harp.glif</string>
     <key>accidentalDoubleFlat</key>
     <string>accidentalD_oubleF_lat.glif</string>
     <key>accidentalDoubleFlatParens</key>
@@ -44,6 +52,8 @@
     <string>accidentalF_lat.glif</string>
     <key>accidentalFlatParens</key>
     <string>accidentalF_latP_arens.glif</string>
+    <key>accidentalKucukMucennebSharp</key>
+    <string>accidentalK_ucukM_ucennebS_harp.glif</string>
     <key>accidentalNarrowReversedFlat</key>
     <string>accidentalN_arrowR_eversedF_lat.glif</string>
     <key>accidentalNarrowReversedFlatAndFlat</key>
@@ -150,6 +160,12 @@
     <string>bracketT_op.glif</string>
     <key>breathMarkComma</key>
     <string>breathM_arkC_omma.glif</string>
+    <key>breathMarkSalzedo</key>
+    <string>breathM_arkS_alzedo.glif</string>
+    <key>breathMarkTick</key>
+    <string>breathM_arkT_ick.glif</string>
+    <key>breathMarkUpbow</key>
+    <string>breathM_arkU_pbow.glif</string>
     <key>cClef</key>
     <string>cC_lef.glif</string>
     <key>cClef8vb</key>
@@ -194,6 +210,8 @@
     <string>dynamicM_P_.glif</string>
     <key>dynamicMezzo</key>
     <string>dynamicM_ezzo.glif</string>
+    <key>dynamicNiente</key>
+    <string>dynamicN_iente.glif</string>
     <key>dynamicPF</key>
     <string>dynamicP_F_.glif</string>
     <key>dynamicPP</key>
@@ -254,6 +272,10 @@
     <string>fermataL_ongA_bove.glif</string>
     <key>fermataLongBelow</key>
     <string>fermataL_ongB_elow.glif</string>
+    <key>fermataLongHenzeAbove</key>
+    <string>fermataL_ongH_enzeA_bove.glif</string>
+    <key>fermataLongHenzeBelow</key>
+    <string>fermataL_ongH_enzeB_elow.glif</string>
     <key>fermataShortAbove</key>
     <string>fermataS_hortA_bove.glif</string>
     <key>fermataShortBelow</key>
@@ -338,6 +360,10 @@
     <string>keyboardP_edalH_alf2.glif</string>
     <key>keyboardPedalHalf3</key>
     <string>keyboardP_edalH_alf3.glif</string>
+    <key>keyboardPedalParensLeft</key>
+    <string>keyboardP_edalP_arensL_eft.glif</string>
+    <key>keyboardPedalParensRight</key>
+    <string>keyboardP_edalP_arensR_ight.glif</string>
     <key>keyboardPedalPed</key>
     <string>keyboardP_edalP_ed.glif</string>
     <key>keyboardPedalUp</key>
@@ -382,18 +408,56 @@
     <string>noteW_hole.glif</string>
     <key>noteheadBlack</key>
     <string>noteheadB_lack.glif</string>
+    <key>noteheadCircleX</key>
+    <string>noteheadC_ircleX_.glif</string>
+    <key>noteheadCircledBlack</key>
+    <string>noteheadC_ircledB_lack.glif</string>
+    <key>noteheadCircledDoubleWhole</key>
+    <string>noteheadC_ircledD_oubleW_hole.glif</string>
+    <key>noteheadCircledHalf</key>
+    <string>noteheadC_ircledH_alf.glif</string>
+    <key>noteheadCircledWhole</key>
+    <string>noteheadC_ircledW_hole.glif</string>
+    <key>noteheadClusterSquareBlack</key>
+    <string>noteheadC_lusterS_quareB_lack.glif</string>
+    <key>noteheadClusterSquareWhite</key>
+    <string>noteheadC_lusterS_quareW_hite.glif</string>
+    <key>noteheadDiamondBlack</key>
+    <string>noteheadD_iamondB_lack.glif</string>
+    <key>noteheadDiamondBlackWide</key>
+    <string>noteheadD_iamondB_lackW_ide.glif</string>
+    <key>noteheadDiamondDoubleWhole</key>
+    <string>noteheadD_iamondD_oubleW_hole.glif</string>
+    <key>noteheadDiamondHalf</key>
+    <string>noteheadD_iamondH_alf.glif</string>
+    <key>noteheadDiamondHalfWide</key>
+    <string>noteheadD_iamondH_alfW_ide.glif</string>
+    <key>noteheadDiamondWhite</key>
+    <string>noteheadD_iamondW_hite.glif</string>
+    <key>noteheadDiamondWhiteWide</key>
+    <string>noteheadD_iamondW_hiteW_ide.glif</string>
+    <key>noteheadDiamondWhole</key>
+    <string>noteheadD_iamondW_hole.glif</string>
     <key>noteheadHalf</key>
     <string>noteheadH_alf.glif</string>
     <key>noteheadHalfFilled</key>
     <string>noteheadH_alfF_illed.glif</string>
     <key>noteheadHalfWithX</key>
     <string>noteheadH_alfW_ithX_.glif</string>
+    <key>noteheadMoonBlack</key>
+    <string>noteheadM_oonB_lack.glif</string>
+    <key>noteheadMoonWhite</key>
+    <string>noteheadM_oonW_hite.glif</string>
+    <key>noteheadNull</key>
+    <string>noteheadN_ull.glif</string>
     <key>noteheadParenthesis</key>
     <string>noteheadP_arenthesis.glif</string>
     <key>noteheadParenthesisLeft</key>
     <string>noteheadP_arenthesisL_eft.glif</string>
     <key>noteheadParenthesisRight</key>
     <string>noteheadP_arenthesisR_ight.glif</string>
+    <key>noteheadPlusBlack</key>
+    <string>noteheadP_lusB_lack.glif</string>
     <key>noteheadSlashDiamondWhite</key>
     <string>noteheadS_lashD_iamondW_hite.glif</string>
     <key>noteheadSlashHorizontalEnds</key>
@@ -436,6 +500,38 @@
     <string>noteheadS_quareB_lack.glif</string>
     <key>noteheadSquareWhite</key>
     <string>noteheadS_quareW_hite.glif</string>
+    <key>noteheadTriangleDownBlack</key>
+    <string>noteheadT_riangleD_ownB_lack.glif</string>
+    <key>noteheadTriangleDownDoubleWhole</key>
+    <string>noteheadT_riangleD_ownD_oubleW_hole.glif</string>
+    <key>noteheadTriangleDownHalf</key>
+    <string>noteheadT_riangleD_ownH_alf.glif</string>
+    <key>noteheadTriangleDownWhite</key>
+    <string>noteheadT_riangleD_ownW_hite.glif</string>
+    <key>noteheadTriangleDownWhole</key>
+    <string>noteheadT_riangleD_ownW_hole.glif</string>
+    <key>noteheadTriangleLeftBlack</key>
+    <string>noteheadT_riangleL_eftB_lack.glif</string>
+    <key>noteheadTriangleLeftWhite</key>
+    <string>noteheadT_riangleL_eftW_hite.glif</string>
+    <key>noteheadTriangleRightBlack</key>
+    <string>noteheadT_riangleR_ightB_lack.glif</string>
+    <key>noteheadTriangleRightWhite</key>
+    <string>noteheadT_riangleR_ightW_hite.glif</string>
+    <key>noteheadTriangleRoundDownBlack</key>
+    <string>noteheadT_riangleR_oundD_ownB_lack.glif</string>
+    <key>noteheadTriangleRoundDownWhite</key>
+    <string>noteheadT_riangleR_oundD_ownW_hite.glif</string>
+    <key>noteheadTriangleUpBlack</key>
+    <string>noteheadT_riangleU_pB_lack.glif</string>
+    <key>noteheadTriangleUpDoubleWhole</key>
+    <string>noteheadT_riangleU_pD_oubleW_hole.glif</string>
+    <key>noteheadTriangleUpHalf</key>
+    <string>noteheadT_riangleU_pH_alf.glif</string>
+    <key>noteheadTriangleUpWhite</key>
+    <string>noteheadT_riangleU_pW_hite.glif</string>
+    <key>noteheadTriangleUpWhole</key>
+    <string>noteheadT_riangleU_pW_hole.glif</string>
     <key>noteheadWhole</key>
     <string>noteheadW_hole.glif</string>
     <key>noteheadWholeFilled</key>
@@ -444,6 +540,12 @@
     <string>noteheadX_B_lack.glif</string>
     <key>noteheadXOrnate</key>
     <string>noteheadX_O_rnate.glif</string>
+    <key>octaveBassa</key>
+    <string>octaveB_assa.glif</string>
+    <key>octaveParensLeft</key>
+    <string>octaveP_arensL_eft.glif</string>
+    <key>octaveParensRight</key>
+    <string>octaveP_arensR_ight.glif</string>
     <key>ornamentMordent</key>
     <string>ornamentM_ordent.glif</string>
     <key>ornamentPrecompAppoggTrill</key>
@@ -522,6 +624,14 @@
     <string>ottavaB_assaB_a.glif</string>
     <key>ottavaBassaVb</key>
     <string>ottavaB_assaV_b.glif</string>
+    <key>quindicesima</key>
+    <string>quindicesima.glif</string>
+    <key>quindicesimaAlta</key>
+    <string>quindicesimaA_lta.glif</string>
+    <key>quindicesimaBassa</key>
+    <string>quindicesimaB_assa.glif</string>
+    <key>quindicesimaBassaMb</key>
+    <string>quindicesimaB_assaM_b.glif</string>
     <key>repeat1Bar</key>
     <string>repeat1B_ar.glif</string>
     <key>repeat2Bars</key>
@@ -534,6 +644,8 @@
     <string>repeatB_arS_lash.glif</string>
     <key>repeatBarUpperDot</key>
     <string>repeatB_arU_pperD_ot.glif</string>
+    <key>repeatDot</key>
+    <string>repeatD_ot.glif</string>
     <key>rest1024th</key>
     <string>rest1024th.glif</string>
     <key>rest128th</key>
@@ -826,6 +938,8 @@
     <string>tuplet8.glif</string>
     <key>tuplet9</key>
     <string>tuplet9.glif</string>
+    <key>uniE043</key>
+    <string>uniE_043.glif</string>
     <key>uniF472</key>
     <string>uniF_472.glif</string>
     <key>uniF473</key>
@@ -838,5 +952,13 @@
     <string>uniF_4B_D_.glif</string>
     <key>uniF4BE</key>
     <string>uniF_4B_E_.glif</string>
+    <key>ventiduesima</key>
+    <string>ventiduesima.glif</string>
+    <key>ventiduesimaAlta</key>
+    <string>ventiduesimaA_lta.glif</string>
+    <key>ventiduesimaBassa</key>
+    <string>ventiduesimaB_assa.glif</string>
+    <key>ventiduesimaBassaMb</key>
+    <string>ventiduesimaB_assaM_b.glif</string>
   </dict>
 </plist>

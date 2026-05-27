@@ -7,34 +7,34 @@ uniE004
 </note>
   <outline>
     <contour>
-      <point x="-1" y="0" type="line" smooth="yes"/>
-      <point x="-3" y="0"/>
-      <point x="-5" y="-2"/>
-      <point x="-6" y="-3" type="curve" smooth="yes"/>
-      <point x="-37" y="-51" type="line" smooth="yes"/>
-      <point x="-44" y="-61"/>
-      <point x="-30" y="-87"/>
-      <point x="-12" y="-87" type="curve" smooth="yes"/>
-      <point x="121" y="-87" type="line"/>
-      <point x="319" y="-118"/>
-      <point x="380" y="-223"/>
-      <point x="404" y="-321" type="curve" smooth="yes"/>
-      <point x="405" y="-325"/>
-      <point x="416" y="-336"/>
-      <point x="425" y="-336" type="curve" smooth="yes"/>
-      <point x="431" y="-336"/>
-      <point x="437" y="-324"/>
-      <point x="437" y="-321" type="curve" smooth="yes"/>
-      <point x="436" y="-308" type="line" smooth="yes"/>
-      <point x="418" y="-147"/>
-      <point x="273" y="8"/>
-      <point x="143" y="0" type="curve"/>
+      <point x="-30" y="20" type="line" smooth="yes"/>
+      <point x="-32" y="20"/>
+      <point x="-34" y="18"/>
+      <point x="-35" y="17" type="curve" smooth="yes"/>
+      <point x="-66" y="-31" type="line" smooth="yes"/>
+      <point x="-73" y="-41"/>
+      <point x="-59" y="-67"/>
+      <point x="-41" y="-67" type="curve" smooth="yes"/>
+      <point x="92" y="-67" type="line"/>
+      <point x="290" y="-98"/>
+      <point x="351" y="-203"/>
+      <point x="375" y="-301" type="curve" smooth="yes"/>
+      <point x="376" y="-305"/>
+      <point x="387" y="-316"/>
+      <point x="396" y="-316" type="curve" smooth="yes"/>
+      <point x="402" y="-316"/>
+      <point x="408" y="-304"/>
+      <point x="408" y="-301" type="curve" smooth="yes"/>
+      <point x="407" y="-288" type="line" smooth="yes"/>
+      <point x="389" y="-127"/>
+      <point x="244" y="28"/>
+      <point x="114" y="20" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-13 15:18:44 +0000</string>
+      <string>2026-05-27 07:40:40 +0000</string>
     </dict>
   </lib>
 </glyph>

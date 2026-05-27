@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="repeatDot" format="2">
+  <advance width="104"/>
+  <unicode hex="E044"/>
+  <note>
+repeatDot
+</note>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="curve" smooth="yes"/>
+      <point x="100" y="27"/>
+      <point x="79" y="49"/>
+      <point x="52" y="49" type="curve" smooth="yes"/>
+      <point x="25" y="49"/>
+      <point x="4" y="27"/>
+      <point x="4" y="0" type="curve" smooth="yes"/>
+      <point x="4" y="-27"/>
+      <point x="25" y="-49"/>
+      <point x="52" y="-49" type="curve" smooth="yes"/>
+      <point x="79" y="-49"/>
+      <point x="100" y="-27"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-27 07:52:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>
