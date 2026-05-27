@@ -9,7 +9,7 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 409
+Current glyph count: 469
 
 Target: ~500 glyphs
 
@@ -23,7 +23,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☑ All Staff brackets and dividers
 
-☑ Most frequently used basic noteheads and some special ones
+☑ 67 different [noteheads](https://w3c-cg.github.io/smufl/latest/tables/noteheads.html)
 
 ☑ All slash noteheads
 
@@ -51,11 +51,11 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☑ All [Articulations](https://w3c-cg.github.io/smufl/latest/tables/articulation.html)
 
+☑ All Octave glyphs
+
 ## Goals for future releases in order of importance
 
 ☐ Finish [Holds and pauses](https://w3c-cg.github.io/smufl/latest/tables/holds-and-pauses.html)
-
-☐ Finish [Octaves](https://w3c-cg.github.io/smufl/latest/tables/octaves.html)
 
 ☐ Create jazz articulations for Dorico ([Brass techniques](https://w3c-cg.github.io/smufl/latest/tables/brass-techniques.html?highlight=Lift%20wavy#brass-techniques-ue5d0ue5ef) from E5D0 to E5E4)
 
@@ -67,7 +67,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☐ Strings playing techniques
 
-☐ More [Noteheads](https://w3c-cg.github.io/smufl/latest/tables/noteheads.html), not necessarily all in the SMuFL standard
+☐ More noteheads, not necessarily all in the SMuFL standard
 
 
 
