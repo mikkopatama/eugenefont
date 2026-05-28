@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>/wiggleArpeggiatoDownSwash/wiggleArpeggiatoDown</string>
+      <string>/wiggleArpeggiatoDownSwash</string>
+      <string>/wiggleTrillFast/wiggleTrillFast/wiggleTrill/wiggleTrill/wiggleTrill</string>
+      <string>/wiggleTrillFast</string>
+      <string>/wiggleTrillFaster/wiggleTrillFaster</string>
+    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3436</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -44,6 +52,8 @@
       <string>staffDivideArrowDown</string>
       <string>staffDivideArrowUp</string>
       <string>staffDivideArrowUpDown</string>
+      <string>uniE043</string>
+      <string>repeatDot</string>
       <string>segno</string>
       <string>coda</string>
       <string>gClef</string>
@@ -104,11 +114,32 @@
       <string>noteheadWhole</string>
       <string>noteheadHalf</string>
       <string>noteheadBlack</string>
+      <string>noteheadNull</string>
       <string>noteheadXBlack</string>
       <string>noteheadXOrnate</string>
+      <string>noteheadPlusBlack</string>
+      <string>noteheadCircleX</string>
       <string>noteheadHalfWithX</string>
       <string>noteheadSquareWhite</string>
       <string>noteheadSquareBlack</string>
+      <string>noteheadTriangleUpDoubleWhole</string>
+      <string>noteheadTriangleUpWhole</string>
+      <string>noteheadTriangleUpHalf</string>
+      <string>noteheadTriangleUpWhite</string>
+      <string>noteheadTriangleUpBlack</string>
+      <string>noteheadTriangleLeftWhite</string>
+      <string>noteheadTriangleLeftBlack</string>
+      <string>noteheadTriangleRightWhite</string>
+      <string>noteheadTriangleRightBlack</string>
+      <string>noteheadTriangleDownDoubleWhole</string>
+      <string>noteheadTriangleDownWhole</string>
+      <string>noteheadTriangleDownHalf</string>
+      <string>noteheadTriangleDownWhite</string>
+      <string>noteheadTriangleDownBlack</string>
+      <string>noteheadMoonWhite</string>
+      <string>noteheadMoonBlack</string>
+      <string>noteheadTriangleRoundDownWhite</string>
+      <string>noteheadTriangleRoundDownBlack</string>
       <string>noteheadParenthesis</string>
       <string>noteheadSlashedBlack1</string>
       <string>noteheadSlashedBlack2</string>
@@ -118,6 +149,18 @@
       <string>noteheadSlashedWhole2</string>
       <string>noteheadSlashedDoubleWhole1</string>
       <string>noteheadSlashedDoubleWhole2</string>
+      <string>noteheadDiamondDoubleWhole</string>
+      <string>noteheadDiamondWhole</string>
+      <string>noteheadDiamondHalf</string>
+      <string>noteheadDiamondHalfWide</string>
+      <string>noteheadDiamondBlack</string>
+      <string>noteheadDiamondBlackWide</string>
+      <string>noteheadDiamondWhite</string>
+      <string>noteheadDiamondWhiteWide</string>
+      <string>noteheadCircledBlack</string>
+      <string>noteheadCircledHalf</string>
+      <string>noteheadCircledWhole</string>
+      <string>noteheadCircledDoubleWhole</string>
       <string>noteheadParenthesisLeft</string>
       <string>noteheadParenthesisRight</string>
       <string>noteheadWholeFilled</string>
@@ -133,6 +176,8 @@
       <string>noteheadSlashHorizontalEndsMuted</string>
       <string>noteheadSlashWhiteMuted</string>
       <string>noteheadSlashWhiteDoubleWhole</string>
+      <string>noteheadClusterSquareWhite</string>
+      <string>noteheadClusterSquareBlack</string>
       <string>noteDoubleWhole</string>
       <string>noteWhole</string>
       <string>noteHalfUp</string>
@@ -229,6 +274,10 @@
       <string>accidentalThreeQuarterTonesSharpStein</string>
       <string>accidentalNarrowReversedFlat</string>
       <string>accidentalNarrowReversedFlatAndFlat</string>
+      <string>accidentalBuyukMucennebFlat</string>
+      <string>accidentalBakiyeFlat</string>
+      <string>accidentalKucukMucennebSharp</string>
+      <string>accidentalBuyukMucennebSharp</string>
       <string>articAccentAbove</string>
       <string>articAccentBelow</string>
       <string>articStaccatoAbove</string>
@@ -259,12 +308,17 @@
       <string>fermataLongBelow</string>
       <string>fermataVeryLongAbove</string>
       <string>fermataVeryLongBelow</string>
+      <string>fermataLongHenzeAbove</string>
+      <string>fermataLongHenzeBelow</string>
       <string>fermataShortHenzeAbove</string>
       <string>fermataShortHenzeBelow</string>
       <string>breathMarkComma</string>
+      <string>breathMarkTick</string>
+      <string>breathMarkUpbow</string>
       <string>caesura</string>
       <string>caesuraShort</string>
       <string>caesuraCurved</string>
+      <string>breathMarkSalzedo</string>
       <string>caesuraSingleStroke</string>
       <string>restMaxima</string>
       <string>restLonga</string>
@@ -299,13 +353,25 @@
       <string>ottavaAlta</string>
       <string>ottavaBassa</string>
       <string>ottavaBassaBa</string>
+      <string>quindicesima</string>
+      <string>quindicesimaAlta</string>
+      <string>quindicesimaBassa</string>
+      <string>ventiduesima</string>
+      <string>ventiduesimaAlta</string>
+      <string>ventiduesimaBassa</string>
+      <string>octaveParensLeft</string>
+      <string>octaveParensRight</string>
       <string>ottavaBassaVb</string>
+      <string>quindicesimaBassaMb</string>
+      <string>ventiduesimaBassaMb</string>
+      <string>octaveBassa</string>
       <string>dynamicPiano</string>
       <string>dynamicMezzo</string>
       <string>dynamicForte</string>
       <string>dynamicRinforzando</string>
       <string>dynamicSforzando</string>
       <string>dynamicZ</string>
+      <string>dynamicNiente</string>
       <string>dynamicPPPPPP</string>
       <string>dynamicPPPPP</string>
       <string>dynamicPPPP</string>
@@ -378,6 +444,8 @@
       <string>keyboardPedalUp</string>
       <string>keyboardPedalHalf2</string>
       <string>keyboardPedalHalf3</string>
+      <string>keyboardPedalParensLeft</string>
+      <string>keyboardPedalParensRight</string>
       <string>tuplet0</string>
       <string>tuplet1</string>
       <string>tuplet2</string>
@@ -428,6 +496,9 @@
       <string>timeSigCommonReversed</string>
       <string>timeSigCutCommonReversed</string>
       <string>cClefFrench</string>
+      <string>uniF472</string>
+      <string>uniF473</string>
+      <string>uniF474</string>
       <string>uniF4BC</string>
       <string>uniF4BD</string>
       <string>uniF4BE</string>
@@ -455,6 +526,8 @@
       <string>staffDivideArrowDown</string>
       <string>staffDivideArrowUp</string>
       <string>staffDivideArrowUpDown</string>
+      <string>uniE043</string>
+      <string>repeatDot</string>
       <string>segno</string>
       <string>coda</string>
       <string>gClef</string>
@@ -515,11 +588,32 @@
       <string>noteheadWhole</string>
       <string>noteheadHalf</string>
       <string>noteheadBlack</string>
+      <string>noteheadNull</string>
       <string>noteheadXBlack</string>
       <string>noteheadXOrnate</string>
+      <string>noteheadPlusBlack</string>
+      <string>noteheadCircleX</string>
       <string>noteheadHalfWithX</string>
       <string>noteheadSquareWhite</string>
       <string>noteheadSquareBlack</string>
+      <string>noteheadTriangleUpDoubleWhole</string>
+      <string>noteheadTriangleUpWhole</string>
+      <string>noteheadTriangleUpHalf</string>
+      <string>noteheadTriangleUpWhite</string>
+      <string>noteheadTriangleUpBlack</string>
+      <string>noteheadTriangleLeftWhite</string>
+      <string>noteheadTriangleLeftBlack</string>
+      <string>noteheadTriangleRightWhite</string>
+      <string>noteheadTriangleRightBlack</string>
+      <string>noteheadTriangleDownDoubleWhole</string>
+      <string>noteheadTriangleDownWhole</string>
+      <string>noteheadTriangleDownHalf</string>
+      <string>noteheadTriangleDownWhite</string>
+      <string>noteheadTriangleDownBlack</string>
+      <string>noteheadMoonWhite</string>
+      <string>noteheadMoonBlack</string>
+      <string>noteheadTriangleRoundDownWhite</string>
+      <string>noteheadTriangleRoundDownBlack</string>
       <string>noteheadParenthesis</string>
       <string>noteheadSlashedBlack1</string>
       <string>noteheadSlashedBlack2</string>
@@ -529,6 +623,18 @@
       <string>noteheadSlashedWhole2</string>
       <string>noteheadSlashedDoubleWhole1</string>
       <string>noteheadSlashedDoubleWhole2</string>
+      <string>noteheadDiamondDoubleWhole</string>
+      <string>noteheadDiamondWhole</string>
+      <string>noteheadDiamondHalf</string>
+      <string>noteheadDiamondHalfWide</string>
+      <string>noteheadDiamondBlack</string>
+      <string>noteheadDiamondBlackWide</string>
+      <string>noteheadDiamondWhite</string>
+      <string>noteheadDiamondWhiteWide</string>
+      <string>noteheadCircledBlack</string>
+      <string>noteheadCircledHalf</string>
+      <string>noteheadCircledWhole</string>
+      <string>noteheadCircledDoubleWhole</string>
       <string>noteheadParenthesisLeft</string>
       <string>noteheadParenthesisRight</string>
       <string>noteheadWholeFilled</string>
@@ -544,6 +650,8 @@
       <string>noteheadSlashHorizontalEndsMuted</string>
       <string>noteheadSlashWhiteMuted</string>
       <string>noteheadSlashWhiteDoubleWhole</string>
+      <string>noteheadClusterSquareWhite</string>
+      <string>noteheadClusterSquareBlack</string>
       <string>noteDoubleWhole</string>
       <string>noteWhole</string>
       <string>noteHalfUp</string>
@@ -640,6 +748,10 @@
       <string>accidentalThreeQuarterTonesSharpStein</string>
       <string>accidentalNarrowReversedFlat</string>
       <string>accidentalNarrowReversedFlatAndFlat</string>
+      <string>accidentalBuyukMucennebFlat</string>
+      <string>accidentalBakiyeFlat</string>
+      <string>accidentalKucukMucennebSharp</string>
+      <string>accidentalBuyukMucennebSharp</string>
       <string>articAccentAbove</string>
       <string>articAccentBelow</string>
       <string>articStaccatoAbove</string>
@@ -670,12 +782,17 @@
       <string>fermataLongBelow</string>
       <string>fermataVeryLongAbove</string>
       <string>fermataVeryLongBelow</string>
+      <string>fermataLongHenzeAbove</string>
+      <string>fermataLongHenzeBelow</string>
       <string>fermataShortHenzeAbove</string>
       <string>fermataShortHenzeBelow</string>
       <string>breathMarkComma</string>
+      <string>breathMarkTick</string>
+      <string>breathMarkUpbow</string>
       <string>caesura</string>
       <string>caesuraShort</string>
       <string>caesuraCurved</string>
+      <string>breathMarkSalzedo</string>
       <string>caesuraSingleStroke</string>
       <string>restMaxima</string>
       <string>restLonga</string>
@@ -710,13 +827,25 @@
       <string>ottavaAlta</string>
       <string>ottavaBassa</string>
       <string>ottavaBassaBa</string>
+      <string>quindicesima</string>
+      <string>quindicesimaAlta</string>
+      <string>quindicesimaBassa</string>
+      <string>ventiduesima</string>
+      <string>ventiduesimaAlta</string>
+      <string>ventiduesimaBassa</string>
+      <string>octaveParensLeft</string>
+      <string>octaveParensRight</string>
       <string>ottavaBassaVb</string>
+      <string>quindicesimaBassaMb</string>
+      <string>ventiduesimaBassaMb</string>
+      <string>octaveBassa</string>
       <string>dynamicPiano</string>
       <string>dynamicMezzo</string>
       <string>dynamicForte</string>
       <string>dynamicRinforzando</string>
       <string>dynamicSforzando</string>
       <string>dynamicZ</string>
+      <string>dynamicNiente</string>
       <string>dynamicPPPPPP</string>
       <string>dynamicPPPPP</string>
       <string>dynamicPPPP</string>
@@ -789,6 +918,8 @@
       <string>keyboardPedalUp</string>
       <string>keyboardPedalHalf2</string>
       <string>keyboardPedalHalf3</string>
+      <string>keyboardPedalParensLeft</string>
+      <string>keyboardPedalParensRight</string>
       <string>tuplet0</string>
       <string>tuplet1</string>
       <string>tuplet2</string>
@@ -839,6 +970,9 @@
       <string>timeSigCommonReversed</string>
       <string>timeSigCutCommonReversed</string>
       <string>cClefFrench</string>
+      <string>uniF472</string>
+      <string>uniF473</string>
+      <string>uniF474</string>
       <string>uniF4BC</string>
       <string>uniF4BD</string>
       <string>uniF4BE</string>
@@ -847,69 +981,44 @@
       <string>accidentalSharpParens</string>
       <string>accidentalDoubleSharpParens</string>
       <string>accidentalDoubleFlatParens</string>
-      <string>uniE043</string>
-      <string>repeatDot</string>
-      <string>noteheadNull</string>
-      <string>noteheadPlusBlack</string>
-      <string>noteheadCircleX</string>
-      <string>noteheadTriangleUpDoubleWhole</string>
-      <string>noteheadTriangleUpWhole</string>
-      <string>noteheadTriangleUpHalf</string>
-      <string>noteheadTriangleUpWhite</string>
-      <string>noteheadTriangleUpBlack</string>
-      <string>noteheadTriangleLeftWhite</string>
-      <string>noteheadTriangleLeftBlack</string>
-      <string>noteheadTriangleRightWhite</string>
-      <string>noteheadTriangleRightBlack</string>
-      <string>noteheadTriangleDownDoubleWhole</string>
-      <string>noteheadTriangleDownWhole</string>
-      <string>noteheadTriangleDownHalf</string>
-      <string>noteheadTriangleDownWhite</string>
-      <string>noteheadTriangleDownBlack</string>
-      <string>noteheadMoonWhite</string>
-      <string>noteheadMoonBlack</string>
-      <string>noteheadTriangleRoundDownWhite</string>
-      <string>noteheadTriangleRoundDownBlack</string>
-      <string>noteheadDiamondDoubleWhole</string>
-      <string>noteheadDiamondWhole</string>
-      <string>noteheadDiamondHalf</string>
-      <string>noteheadDiamondHalfWide</string>
-      <string>noteheadDiamondBlack</string>
-      <string>noteheadDiamondBlackWide</string>
-      <string>noteheadDiamondWhite</string>
-      <string>noteheadDiamondWhiteWide</string>
-      <string>noteheadCircledBlack</string>
-      <string>noteheadCircledHalf</string>
-      <string>noteheadCircledWhole</string>
-      <string>noteheadCircledDoubleWhole</string>
-      <string>noteheadClusterSquareWhite</string>
-      <string>noteheadClusterSquareBlack</string>
-      <string>accidentalBuyukMucennebFlat</string>
-      <string>accidentalBakiyeFlat</string>
-      <string>accidentalKucukMucennebSharp</string>
-      <string>accidentalBuyukMucennebSharp</string>
-      <string>fermataLongHenzeAbove</string>
-      <string>fermataLongHenzeBelow</string>
-      <string>breathMarkTick</string>
-      <string>breathMarkUpbow</string>
-      <string>breathMarkSalzedo</string>
-      <string>quindicesima</string>
-      <string>quindicesimaAlta</string>
-      <string>quindicesimaBassa</string>
-      <string>ventiduesima</string>
-      <string>ventiduesimaAlta</string>
-      <string>ventiduesimaBassa</string>
-      <string>octaveParensLeft</string>
-      <string>octaveParensRight</string>
-      <string>quindicesimaBassaMb</string>
-      <string>ventiduesimaBassaMb</string>
-      <string>octaveBassa</string>
-      <string>dynamicNiente</string>
-      <string>keyboardPedalParensLeft</string>
-      <string>keyboardPedalParensRight</string>
-      <string>uniF472</string>
-      <string>uniF473</string>
-      <string>uniF474</string>
+      <string>uniE05A</string>
+      <string>uniE05B</string>
+      <string>uniE5D0</string>
+      <string>uniE5D1</string>
+      <string>uniE5D2</string>
+      <string>uniE5D3</string>
+      <string>uniE5D4</string>
+      <string>uniE5D5</string>
+      <string>uniE5D6</string>
+      <string>uniE5D7</string>
+      <string>uniE5D8</string>
+      <string>uniE5D9</string>
+      <string>uniE5DA</string>
+      <string>uniE5DB</string>
+      <string>uniE5DC</string>
+      <string>uniE5DD</string>
+      <string>uniE5DE</string>
+      <string>uniE5DF</string>
+      <string>uniE5E0</string>
+      <string>uniE5E1</string>
+      <string>uniE5E2</string>
+      <string>uniE5E3</string>
+      <string>uniE5E4</string>
+      <string>uniE634</string>
+      <string>uniE635</string>
+      <string>uniE63C</string>
+      <string>wiggleTrillFaster</string>
+      <string>wiggleTrillFast</string>
+      <string>wiggleTrill</string>
+      <string>wiggleTrillSlow</string>
+      <string>wiggleTrillSlower</string>
+      <string>wiggleArpeggiatoUp</string>
+      <string>wiggleArpeggiatoDown</string>
+      <string>wiggleArpeggiatoUpSwash</string>
+      <string>wiggleArpeggiatoDownSwash</string>
+      <string>wiggleArpeggiatoUpArrow</string>
+      <string>wiggleArpeggiatoDownArrow</string>
+      <string>wiggleGlissando</string>
       <string>_Circle</string>
       <string>_ornamentCadencePrefix</string>
       <string>_ornamentCadenceUpperPref</string>

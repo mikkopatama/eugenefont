@@ -116,6 +116,7 @@ ventiduesimaBassa
       <point x="745" y="6"/>
       <point x="747" y="2"/>
     </contour>
+    <component base="ventiduesima"/>
     <contour>
       <point x="1162" y="3" type="curve" smooth="yes"/>
       <point x="1207" y="3"/>
@@ -198,13 +199,11 @@ ventiduesimaBassa
       <point x="1208" y="35"/>
       <point x="1187" y="26"/>
     </contour>
-    <component base="timeSig2" xScale="0.9524" yScale="0.9524" xOffset="-19" yOffset="230"/>
-    <component base="timeSig2" xScale="0.9524" yScale="0.9524" xOffset="311" yOffset="230"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-27 14:26:30 +0000</string>
+      <string>2026-05-27 17:24:29 +0000</string>
     </dict>
   </lib>
 </glyph>

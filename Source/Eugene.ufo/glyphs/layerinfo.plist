@@ -5,7 +5,7 @@
     <key>lib</key>
     <dict>
       <key>GSCornerRadius</key>
-      <real>15</real>
+      <integer>10</integer>
     </dict>
   </dict>
 </plist>

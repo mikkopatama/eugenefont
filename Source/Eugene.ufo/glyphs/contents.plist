@@ -940,6 +940,58 @@
     <string>tuplet9.glif</string>
     <key>uniE043</key>
     <string>uniE_043.glif</string>
+    <key>uniE05A</key>
+    <string>uniE_05A_.glif</string>
+    <key>uniE05B</key>
+    <string>uniE_05B_.glif</string>
+    <key>uniE5D0</key>
+    <string>uniE_5D_0.glif</string>
+    <key>uniE5D1</key>
+    <string>uniE_5D_1.glif</string>
+    <key>uniE5D2</key>
+    <string>uniE_5D_2.glif</string>
+    <key>uniE5D3</key>
+    <string>uniE_5D_3.glif</string>
+    <key>uniE5D4</key>
+    <string>uniE_5D_4.glif</string>
+    <key>uniE5D5</key>
+    <string>uniE_5D_5.glif</string>
+    <key>uniE5D6</key>
+    <string>uniE_5D_6.glif</string>
+    <key>uniE5D7</key>
+    <string>uniE_5D_7.glif</string>
+    <key>uniE5D8</key>
+    <string>uniE_5D_8.glif</string>
+    <key>uniE5D9</key>
+    <string>uniE_5D_9.glif</string>
+    <key>uniE5DA</key>
+    <string>uniE_5D_A_.glif</string>
+    <key>uniE5DB</key>
+    <string>uniE_5D_B_.glif</string>
+    <key>uniE5DC</key>
+    <string>uniE_5D_C_.glif</string>
+    <key>uniE5DD</key>
+    <string>uniE_5D_D_.glif</string>
+    <key>uniE5DE</key>
+    <string>uniE_5D_E_.glif</string>
+    <key>uniE5DF</key>
+    <string>uniE_5D_F_.glif</string>
+    <key>uniE5E0</key>
+    <string>uniE_5E_0.glif</string>
+    <key>uniE5E1</key>
+    <string>uniE_5E_1.glif</string>
+    <key>uniE5E2</key>
+    <string>uniE_5E_2.glif</string>
+    <key>uniE5E3</key>
+    <string>uniE_5E_3.glif</string>
+    <key>uniE5E4</key>
+    <string>uniE_5E_4.glif</string>
+    <key>uniE634</key>
+    <string>uniE_634.glif</string>
+    <key>uniE635</key>
+    <string>uniE_635.glif</string>
+    <key>uniE63C</key>
+    <string>uniE_63C_.glif</string>
     <key>uniF472</key>
     <string>uniF_472.glif</string>
     <key>uniF473</key>
@@ -960,5 +1012,29 @@
     <string>ventiduesimaB_assa.glif</string>
     <key>ventiduesimaBassaMb</key>
     <string>ventiduesimaB_assaM_b.glif</string>
+    <key>wiggleArpeggiatoDown</key>
+    <string>wiggleA_rpeggiatoD_own.glif</string>
+    <key>wiggleArpeggiatoDownArrow</key>
+    <string>wiggleA_rpeggiatoD_ownA_rrow.glif</string>
+    <key>wiggleArpeggiatoDownSwash</key>
+    <string>wiggleA_rpeggiatoD_ownS_wash.glif</string>
+    <key>wiggleArpeggiatoUp</key>
+    <string>wiggleA_rpeggiatoU_p.glif</string>
+    <key>wiggleArpeggiatoUpArrow</key>
+    <string>wiggleA_rpeggiatoU_pA_rrow.glif</string>
+    <key>wiggleArpeggiatoUpSwash</key>
+    <string>wiggleA_rpeggiatoU_pS_wash.glif</string>
+    <key>wiggleGlissando</key>
+    <string>wiggleG_lissando.glif</string>
+    <key>wiggleTrill</key>
+    <string>wiggleT_rill.glif</string>
+    <key>wiggleTrillFast</key>
+    <string>wiggleT_rillF_ast.glif</string>
+    <key>wiggleTrillFaster</key>
+    <string>wiggleT_rillF_aster.glif</string>
+    <key>wiggleTrillSlow</key>
+    <string>wiggleT_rillS_low.glif</string>
+    <key>wiggleTrillSlower</key>
+    <string>wiggleT_rillS_lower.glif</string>
   </dict>
 </plist>
