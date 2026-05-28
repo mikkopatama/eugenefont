@@ -31,6 +31,33 @@ Change log
 	wiggleArpeggiatoDownSwash
 	wiggleArpeggiatoUpArrow
 	wiggleArpeggiatoDownArrow
+	
+	uniE05A
+	uniE05B
+
+	Work in progress:
+	uniE5D0
+	uniE5D1
+	uniE5D2
+	uniE5D3
+	uniE5D4
+	uniE5D5
+	uniE5D6
+	uniE5D7
+	uniE5D8
+	uniE5D9
+	uniE5DA
+	uniE5DB
+	uniE5DC
+	uniE5DD
+	uniE5DE
+	uniE5DF
+	uniE5E0
+	uniE5E1
+	uniE5E2
+	uniE5E3
+	uniE5E4
+
 
 
 27 May 2026 (v. 0.66)
