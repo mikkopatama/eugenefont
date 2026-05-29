@@ -4,11 +4,7 @@
   <dict>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>/wiggleArpeggiatoDownSwash/wiggleArpeggiatoDown</string>
-      <string>/wiggleArpeggiatoDownSwash</string>
-      <string>/wiggleTrillFast/wiggleTrillFast/wiggleTrill/wiggleTrill/wiggleTrill</string>
-      <string>/wiggleTrillFast</string>
-      <string>/wiggleTrillFaster/wiggleTrillFaster</string>
+      <string>/uniE05A</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3436</string>
@@ -983,30 +979,35 @@
       <string>accidentalDoubleFlatParens</string>
       <string>uniE05A</string>
       <string>uniE05B</string>
-      <string>uniE5D0</string>
-      <string>uniE5D1</string>
-      <string>uniE5D2</string>
-      <string>uniE5D3</string>
-      <string>uniE5D4</string>
-      <string>uniE5D5</string>
-      <string>uniE5D6</string>
-      <string>uniE5D7</string>
-      <string>uniE5D8</string>
-      <string>uniE5D9</string>
+      <string>fClefArrowUp</string>
+      <string>fClefArrowDown</string>
+      <string>unpitchedPercussionClef1</string>
+      <string>unpitchedPercussionClef2</string>
+      <string>brassScoop</string>
+      <string>brassLiftShort</string>
+      <string>brassLiftMedium</string>
+      <string>brassLiftLong</string>
+      <string>brassDoitShort</string>
+      <string>brassDoitMedium</string>
+      <string>brassDoitLong</string>
+      <string>brassFallLipShort</string>
+      <string>brassFallLipMedium</string>
+      <string>brassFallLipLong</string>
       <string>uniE5DA</string>
       <string>uniE5DB</string>
       <string>uniE5DC</string>
-      <string>uniE5DD</string>
-      <string>uniE5DE</string>
-      <string>uniE5DF</string>
-      <string>uniE5E0</string>
+      <string>brassFallRoughShort</string>
+      <string>brassFallRoughMedium</string>
+      <string>brassFallRoughLong</string>
+      <string>brassPlop</string>
       <string>uniE5E1</string>
-      <string>uniE5E2</string>
+      <string>brassSmear</string>
       <string>uniE5E3</string>
-      <string>uniE5E4</string>
+      <string>brassJazzTurn</string>
       <string>uniE634</string>
       <string>uniE635</string>
       <string>uniE63C</string>
+      <string>keyboardPedalP</string>
       <string>wiggleTrillFaster</string>
       <string>wiggleTrillFast</string>
       <string>wiggleTrill</string>
@@ -1019,6 +1020,7 @@
       <string>wiggleArpeggiatoUpArrow</string>
       <string>wiggleArpeggiatoDownArrow</string>
       <string>wiggleGlissando</string>
+      <string>uniF434</string>
       <string>_Circle</string>
       <string>_ornamentCadencePrefix</string>
       <string>_ornamentCadenceUpperPref</string>

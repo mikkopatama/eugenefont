@@ -158,6 +158,38 @@
     <string>bracketB_ottom.glif</string>
     <key>bracketTop</key>
     <string>bracketT_op.glif</string>
+    <key>brassDoitLong</key>
+    <string>brassD_oitL_ong.glif</string>
+    <key>brassDoitMedium</key>
+    <string>brassD_oitM_edium.glif</string>
+    <key>brassDoitShort</key>
+    <string>brassD_oitS_hort.glif</string>
+    <key>brassFallLipLong</key>
+    <string>brassF_allL_ipL_ong.glif</string>
+    <key>brassFallLipMedium</key>
+    <string>brassF_allL_ipM_edium.glif</string>
+    <key>brassFallLipShort</key>
+    <string>brassF_allL_ipS_hort.glif</string>
+    <key>brassFallRoughLong</key>
+    <string>brassF_allR_oughL_ong.glif</string>
+    <key>brassFallRoughMedium</key>
+    <string>brassF_allR_oughM_edium.glif</string>
+    <key>brassFallRoughShort</key>
+    <string>brassF_allR_oughS_hort.glif</string>
+    <key>brassJazzTurn</key>
+    <string>brassJ_azzT_urn.glif</string>
+    <key>brassLiftLong</key>
+    <string>brassL_iftL_ong.glif</string>
+    <key>brassLiftMedium</key>
+    <string>brassL_iftM_edium.glif</string>
+    <key>brassLiftShort</key>
+    <string>brassL_iftS_hort.glif</string>
+    <key>brassPlop</key>
+    <string>brassP_lop.glif</string>
+    <key>brassScoop</key>
+    <string>brassS_coop.glif</string>
+    <key>brassSmear</key>
+    <string>brassS_mear.glif</string>
     <key>breathMarkComma</key>
     <string>breathM_arkC_omma.glif</string>
     <key>breathMarkSalzedo</key>
@@ -258,6 +290,10 @@
     <string>fC_lef8va.glif</string>
     <key>fClef8vb</key>
     <string>fC_lef8vb.glif</string>
+    <key>fClefArrowDown</key>
+    <string>fC_lefA_rrowD_own.glif</string>
+    <key>fClefArrowUp</key>
+    <string>fC_lefA_rrowU_p.glif</string>
     <key>fClefChange</key>
     <string>fC_lefC_hange.glif</string>
     <key>fClefReversed</key>
@@ -360,6 +396,8 @@
     <string>keyboardP_edalH_alf2.glif</string>
     <key>keyboardPedalHalf3</key>
     <string>keyboardP_edalH_alf3.glif</string>
+    <key>keyboardPedalP</key>
+    <string>keyboardP_edalP_.glif</string>
     <key>keyboardPedalParensLeft</key>
     <string>keyboardP_edalP_arensL_eft.glif</string>
     <key>keyboardPedalParensRight</key>
@@ -944,54 +982,24 @@
     <string>uniE_05A_.glif</string>
     <key>uniE05B</key>
     <string>uniE_05B_.glif</string>
-    <key>uniE5D0</key>
-    <string>uniE_5D_0.glif</string>
-    <key>uniE5D1</key>
-    <string>uniE_5D_1.glif</string>
-    <key>uniE5D2</key>
-    <string>uniE_5D_2.glif</string>
-    <key>uniE5D3</key>
-    <string>uniE_5D_3.glif</string>
-    <key>uniE5D4</key>
-    <string>uniE_5D_4.glif</string>
-    <key>uniE5D5</key>
-    <string>uniE_5D_5.glif</string>
-    <key>uniE5D6</key>
-    <string>uniE_5D_6.glif</string>
-    <key>uniE5D7</key>
-    <string>uniE_5D_7.glif</string>
-    <key>uniE5D8</key>
-    <string>uniE_5D_8.glif</string>
-    <key>uniE5D9</key>
-    <string>uniE_5D_9.glif</string>
     <key>uniE5DA</key>
     <string>uniE_5D_A_.glif</string>
     <key>uniE5DB</key>
     <string>uniE_5D_B_.glif</string>
     <key>uniE5DC</key>
     <string>uniE_5D_C_.glif</string>
-    <key>uniE5DD</key>
-    <string>uniE_5D_D_.glif</string>
-    <key>uniE5DE</key>
-    <string>uniE_5D_E_.glif</string>
-    <key>uniE5DF</key>
-    <string>uniE_5D_F_.glif</string>
-    <key>uniE5E0</key>
-    <string>uniE_5E_0.glif</string>
     <key>uniE5E1</key>
     <string>uniE_5E_1.glif</string>
-    <key>uniE5E2</key>
-    <string>uniE_5E_2.glif</string>
     <key>uniE5E3</key>
     <string>uniE_5E_3.glif</string>
-    <key>uniE5E4</key>
-    <string>uniE_5E_4.glif</string>
     <key>uniE634</key>
     <string>uniE_634.glif</string>
     <key>uniE635</key>
     <string>uniE_635.glif</string>
     <key>uniE63C</key>
     <string>uniE_63C_.glif</string>
+    <key>uniF434</key>
+    <string>uniF_434.glif</string>
     <key>uniF472</key>
     <string>uniF_472.glif</string>
     <key>uniF473</key>
@@ -1004,6 +1012,10 @@
     <string>uniF_4B_D_.glif</string>
     <key>uniF4BE</key>
     <string>uniF_4B_E_.glif</string>
+    <key>unpitchedPercussionClef1</key>
+    <string>unpitchedP_ercussionC_lef1.glif</string>
+    <key>unpitchedPercussionClef2</key>
+    <string>unpitchedP_ercussionC_lef2.glif</string>
     <key>ventiduesima</key>
     <string>ventiduesima.glif</string>
     <key>ventiduesimaAlta</key>

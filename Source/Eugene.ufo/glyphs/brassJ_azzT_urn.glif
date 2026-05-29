@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brassJazzTurn" format="2">
+  <advance width="589"/>
+  <unicode hex="E5E4"/>
+  <note>
+uniE5E4
+</note>
+  <outline>
+    <contour>
+      <point x="537" y="126"/>
+      <point x="523" y="113" type="curve" smooth="yes"/>
+      <point x="515" y="107"/>
+      <point x="509" y="105"/>
+      <point x="504" y="105" type="curve" smooth="yes"/>
+      <point x="498" y="105"/>
+      <point x="493" y="109"/>
+      <point x="488" y="113" type="curve" smooth="yes"/>
+      <point x="480" y="120"/>
+      <point x="425" y="186"/>
+      <point x="415" y="193" type="curve" smooth="yes"/>
+      <point x="407" y="201"/>
+      <point x="399" y="206"/>
+      <point x="391" y="206" type="curve" smooth="yes"/>
+      <point x="385" y="205"/>
+      <point x="379" y="204"/>
+      <point x="371" y="198" type="curve" smooth="yes"/>
+      <point x="362" y="192"/>
+      <point x="355" y="184"/>
+      <point x="349" y="177" type="curve" smooth="yes"/>
+      <point x="268" y="105" type="line"/>
+      <point x="268" y="105"/>
+      <point x="263" y="101"/>
+      <point x="257" y="101" type="curve" smooth="yes"/>
+      <point x="254" y="101"/>
+      <point x="250" y="102"/>
+      <point x="247" y="105" type="curve" smooth="yes"/>
+      <point x="238" y="114"/>
+      <point x="162" y="193"/>
+      <point x="162" y="193" type="curve"/>
+      <point x="153" y="204"/>
+      <point x="141" y="210"/>
+      <point x="132" y="210" type="curve" smooth="yes"/>
+      <point x="125" y="210"/>
+      <point x="120" y="208"/>
+      <point x="111" y="202" type="curve"/>
+      <point x="11" y="93" type="line" smooth="yes"/>
+      <point x="7" y="88"/>
+      <point x="0" y="79"/>
+      <point x="0" y="73" type="curve" smooth="yes"/>
+      <point x="0" y="68"/>
+      <point x="3" y="65"/>
+      <point x="10" y="64" type="curve" smooth="yes"/>
+      <point x="19" y="64"/>
+      <point x="69" y="96"/>
+      <point x="78" y="96" type="curve" smooth="yes"/>
+      <point x="83" y="96"/>
+      <point x="86" y="92"/>
+      <point x="93" y="85" type="curve" smooth="yes"/>
+      <point x="97" y="81"/>
+      <point x="167" y="16"/>
+      <point x="175" y="7" type="curve" smooth="yes"/>
+      <point x="179" y="3"/>
+      <point x="186" y="1"/>
+      <point x="194" y="1" type="curve" smooth="yes"/>
+      <point x="201" y="1"/>
+      <point x="208" y="3"/>
+      <point x="212" y="6" type="curve"/>
+      <point x="212" y="6"/>
+      <point x="315" y="95"/>
+      <point x="329" y="96" type="curve" smooth="yes"/>
+      <point x="333" y="96"/>
+      <point x="338" y="92"/>
+      <point x="344" y="85" type="curve" smooth="yes"/>
+      <point x="349" y="81"/>
+      <point x="419" y="16"/>
+      <point x="427" y="7" type="curve" smooth="yes"/>
+      <point x="430" y="3"/>
+      <point x="438" y="1"/>
+      <point x="446" y="1" type="curve" smooth="yes"/>
+      <point x="453" y="1"/>
+      <point x="460" y="3"/>
+      <point x="464" y="6" type="curve" smooth="yes"/>
+      <point x="470" y="11"/>
+      <point x="564" y="98"/>
+      <point x="577" y="111" type="curve" smooth="yes"/>
+      <point x="581" y="117"/>
+      <point x="589" y="126"/>
+      <point x="589" y="131" type="curve"/>
+      <point x="587" y="140"/>
+      <point x="582" y="145"/>
+      <point x="576" y="146" type="curve"/>
+      <point x="557" y="146"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-28 21:35:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

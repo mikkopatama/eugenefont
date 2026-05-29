@@ -49,3 +49,11 @@ lookup SUB_1 {
 } SUB_1;
 } ss01;
 
+feature salt {
+script DFLT;
+language dflt;
+lookup SUB_2 {
+	sub keyboardPedalPed from [uniF434];
+} SUB_2;
+} salt;
+

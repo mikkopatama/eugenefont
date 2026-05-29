@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brassFallLipMedium" format="2">
+  <advance width="484"/>
+  <unicode hex="E5D8"/>
+  <note>
+uniE5D8
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="-13" type="line" smooth="yes"/>
+      <point x="0" y="-21"/>
+      <point x="3" y="-24"/>
+      <point x="14" y="-24" type="curve" smooth="yes"/>
+      <point x="168" y="-30"/>
+      <point x="292" y="-91"/>
+      <point x="363" y="-162" type="curve" smooth="yes"/>
+      <point x="393" y="-192"/>
+      <point x="427" y="-248"/>
+      <point x="438" y="-314" type="curve" smooth="yes"/>
+      <point x="438" y="-314"/>
+      <point x="440" y="-325"/>
+      <point x="442" y="-332" type="curve" smooth="yes"/>
+      <point x="443" y="-342"/>
+      <point x="482" y="-343"/>
+      <point x="483" y="-334" type="curve" smooth="yes"/>
+      <point x="485" y="-326"/>
+      <point x="485" y="-317"/>
+      <point x="483" y="-306" type="curve" smooth="yes"/>
+      <point x="483" y="-306"/>
+      <point x="483" y="-227"/>
+      <point x="395" y="-122" type="curve" smooth="yes"/>
+      <point x="355" y="-74"/>
+      <point x="190" y="35"/>
+      <point x="18" y="39" type="curve" smooth="yes"/>
+      <point x="8" y="39"/>
+      <point x="0" y="35"/>
+      <point x="0" y="30" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-29 07:45:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>
