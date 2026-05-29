@@ -9,13 +9,11 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 469
-
-Target: ~500 glyphs
+Current glyph count: 513
 
 <img src="/Screenshot.png" />
 
-> **Version 0.6 — work in progress.** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
+> **Work in progress** Glyphs not yet redesigned in Eugene fall back to [Bravura](https://github.com/steinbergmedia/bravura) by Steinberg Media Technologies GmbH.
 > Glyph coverage will expand in future releases.
 All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica).
 
@@ -57,15 +55,13 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☐ Finish [Holds and pauses](https://w3c-cg.github.io/smufl/latest/tables/holds-and-pauses.html)
 
-☐ Create jazz articulations for Dorico ([Brass techniques](https://w3c-cg.github.io/smufl/latest/tables/brass-techniques.html?highlight=Lift%20wavy#brass-techniques-ue5d0ue5ef) from E5D0 to E5E4)
+☐ Strings playing techniques
 
 ☐ Wind playing techniques
 
 ☐ Brass playing techniques
 
 ☐ Keyboard playing techniques
-
-☐ Strings playing techniques
 
 ☐ More noteheads, not necessarily all in the SMuFL standard
 
