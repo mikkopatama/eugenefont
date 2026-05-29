@@ -11,6 +11,47 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+29 May 2026 (v. 1.0)
+
+The project has reached the initial goal of ~500 glyphs (513 in total in this update).
+Version number jumped to 1.0 to signify the reaching of this goal.
+Modifications to current glyphs are guaranteed, but additions will slow down from now on.
+
+
+- Modified
+	brassScoop
+	brassLiftShort
+	brassLiftMedium
+	brassLiftLong
+	brassDoitShort
+	brassDoitMedium
+	brassDoitLong
+	brassFallLipShort
+	brassFallLipMedium
+	brassFallLipLong
+	uniE5DA
+	uniE5DB
+	uniE5DC
+	brassFallRoughShort
+	brassFallRoughMedium
+	brassFallRoughLong
+	brassPlop
+	uniE5E1
+	brassSmear
+	uniE5E3
+	brassJazzTurn
+
+
+- Added
+	fClefArrowUp
+	fClefArrowDown
+	unpitchedPercussionClef1
+	unpitchedPercussionClef2
+	
+	keyboardPedalP
+	EF434
+
+
 28 May 2026 (v. 0.661)
 
 - Modified
