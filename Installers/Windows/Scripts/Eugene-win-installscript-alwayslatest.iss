@@ -4,9 +4,9 @@
 
 #include <idp.iss>
 
-#define MyAppName "Eugene font - SMuFL"
+#define MyAppName "Eugene Music Font"
 #define MyAppPublisher "Mikko Patama"
-#define MyAppURL "https://github.com/mikkopatama/eugenefont"
+#define MyAppURL "https://mikkopatama.com/eugenefont"
 #define public GetVersion(fallbackVersion) \
   Local[0] = "powershell -Command ""(Invoke-RestMethod -Uri 'https://api.github.com/repos/mikkopatama/eugenefont/releases/latest').tag_name | Out-File -FilePath version.txt -Encoding Default""", \
   Local[1] = Exec("cmd.exe", "/c " + Local[0], SourcePath, 1, 0), \
@@ -30,7 +30,7 @@ DefaultDirName={autopf}
 DisableDirPage=yes
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 OutputBaseFilename=Eugene-Win-latest
 SolidCompression=yes
 WizardStyle=classic dynamic
@@ -57,9 +57,11 @@ begin
   begin
     ForceDirectories(ExpandConstant('{localappdata}\Microsoft\Windows\Fonts'));
     ForceDirectories(ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene'));
+    ForceDirectories(ExpandConstant('%COMMONPROGRAMFILES%\SMuFL\Fonts\Eugene\Eugene.json'));
     FileCopy(ExpandConstant('{tmp}\EugeneText.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\EugeneText.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\Eugene.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.json'), ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene\Eugene.json'), False);
+    FileCopy(ExpandConstant('{tmp}\Eugene.json'), ExpandConstant('%COMMONPROGRAMFILES%\SMuFL\Fonts\Eugene\Eugene.json'), False);
   end;
 end;
 
