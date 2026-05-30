@@ -10,9 +10,9 @@
   #define AppVersion "0.513"
 #endif
 
-#define MyAppName "Eugene font - SMuFL"
+#define MyAppName "Eugene Music Font"
 #define MyAppPublisher "Mikko Patama"
-#define MyAppURL "https://github.com/mikkopatama/eugenefont"
+#define MyAppURL "https://mikkopatama.com/eugenefont"
 ; neat trick (that took way to long to come up with): AppVersion is automatically defined in build-all-installers.yml with 
 ; iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} which is directly fetched from the main git repo release tag names
 ; No manual changes to this file for version specific releases needed anymore.
@@ -35,6 +35,7 @@ DisableDirPage=yes
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 OutputBaseFilename=Eugene-Win-{#MyAppVersion}
+PrivilegesRequired=admin
 SolidCompression=yes
 WizardStyle=classic dynamic
 
@@ -62,9 +63,11 @@ begin
   begin
     ForceDirectories(ExpandConstant('{localappdata}\Microsoft\Windows\Fonts'));
     ForceDirectories(ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene'));
+    ForceDirectories(ExpandConstant('%COMMONPROGRAMFILES%\SMuFL\Fonts\Eugene\Eugene.json'));
     FileCopy(ExpandConstant('{tmp}\EugeneText.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\EugeneText.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\Eugene.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.json'), ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene\Eugene.json'), False);
+    FileCopy(ExpandConstant('{tmp}\Eugene.json'), ExpandConstant('%COMMONPROGRAMFILES%\SMuFL\Fonts\Eugene\Eugene.json'), False);
   end;
 end;
 
