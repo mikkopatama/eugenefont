@@ -5,8 +5,7 @@
   <note>
 uniE0BA
 </note>
-  <anchor x="90" y="-125" name="stemDownNW"/>
-  <anchor x="392" y="-125" name="stemUpSE"/>
+  <anchor x="96" y="-125" name="noteheadOrigin"/>
   <outline>
     <contour>
       <point x="478" y="-148" type="curve" smooth="yes"/>
@@ -114,7 +113,7 @@ uniE0BA
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-27 11:53:19 +0000</string>
+      <string>2026-06-01 08:34:12 +0000</string>
     </dict>
   </lib>
 </glyph>

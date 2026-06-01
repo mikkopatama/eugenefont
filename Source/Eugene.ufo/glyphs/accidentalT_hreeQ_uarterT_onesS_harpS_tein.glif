@@ -5,6 +5,10 @@
   <note>
 uniE283
 </note>
+  <anchor x="51" y="-230" name="cutOutSW"/>
+  <anchor x="49" y="164" name="cutOutNW"/>
+  <anchor x="319" y="204" name="cutOutNE"/>
+  <anchor x="321" y="-185" name="cutOutSE"/>
   <outline>
     <contour>
       <point x="87" y="-335" type="curve" smooth="yes"/>
@@ -213,7 +217,7 @@ uniE283
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 14:39:59 +0000</string>
+      <string>2026-06-01 10:51:31 +0000</string>
     </dict>
   </lib>
 </glyph>

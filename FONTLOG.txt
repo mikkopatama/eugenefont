@@ -11,6 +11,72 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+1 May 2026 (v. 1.100)
+
+- Modified:
+	All tuplet numbers are now tidier, especially number 2
+	Cutout anchors were added to standard accidentals
+	ornamentTrill is tidier
+	All double whole noteheads now have noteheadOrigin anchors
+	New text font suggestions in the metadata: Nepomuk and Old Music Standard are first option before Academico and Edwin
+
+- Added:
+50 new glyphs, mainly playing techniques for brass, string and wind instruments
+
+	cClefArrowUp
+	cClefArrowDown
+
+	ornamentSchleifer
+
+	brassMuteClosed
+	brassMuteHalfClosed
+	brassMuteOpen
+	brassHarmonMuteClosed
+	brassHarmonMuteStemHalfLeft
+	brassHarmonMuteStemHalfRight
+	brassHarmonMuteStemOpen
+	brassValveTrill
+	doubleTongueAbove
+	doubleTongueBelow
+	tripleTongueAbove
+	tripleTongueBelow
+	windClosedHole
+	windThreeQuartersClosedHole
+	windHalfClosedHole1
+	windHalfClosedHole2
+	windHalfClosedHole3
+	windOpenHole
+	windTrillKey
+	windFlatEmbouchure
+	windSharpEmbouchure
+	windRelaxedEmbouchure
+	windLessRelaxedEmbouchure
+	windTightEmbouchure
+	stringsHarmonic
+	stringsHalfHarmonic
+	stringsMuteOn
+	stringsMuteOff
+	stringsBowBehindBridge
+	stringsBowOnBridge
+	stringsBowOnTailpiece
+	stringsOverpressureDownBow
+	stringsOverpressureUpBow
+	stringsOverpressurePossibileDownBow
+	stringsOverpressurePossibileUpBow
+	stringsOverpressureNoDirection
+	stringsJeteAbove
+	stringsJeteBelow
+	stringsFouette
+	stringsVibratoPulse
+	stringsThumbPosition
+	stringsThumbPositionTurned
+	stringsChangeBowDirection
+	stringsBowBehindBridgeOneString
+	stringsBowBehindBridgeTwoStrings
+	stringsBowBehindBridgeThreeStrings
+	stringsBowBehindBridgeFourStrings
+
+
 29 May 2026 (v. 1.0)
 
 The project has reached the initial goal of ~500 glyphs (513 in total in this update).

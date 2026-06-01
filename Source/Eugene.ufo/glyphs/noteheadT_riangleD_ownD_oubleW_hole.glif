@@ -5,6 +5,7 @@
   <note>
 uniE0C3
 </note>
+  <anchor x="90" y="125" name="noteheadOrigin"/>
   <outline>
     <contour>
       <point x="483" y="-148" type="curve" smooth="yes"/>
@@ -112,7 +113,7 @@ uniE0C3
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-27 11:53:52 +0000</string>
+      <string>2026-06-01 08:34:23 +0000</string>
     </dict>
   </lib>
 </glyph>

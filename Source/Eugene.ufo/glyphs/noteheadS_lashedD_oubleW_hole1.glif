@@ -5,6 +5,7 @@
   <note>
 noteheadSlashedDoubleWhole1
 </note>
+  <anchor x="96" y="5" name="noteheadOrigin"/>
   <outline>
     <component base="noteHeadDoubleWhole"/>
     <component base="_ornamentPole" xScale="0.5736" xyScale="-0.8192" yScale="0.5736" yxScale="0.8192" xOffset="-200" yOffset="472"/>
@@ -12,7 +13,7 @@ noteheadSlashedDoubleWhole1
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 12:07:04 +0000</string>
+      <string>2026-06-01 10:53:35 +0000</string>
     </dict>
   </lib>
 </glyph>

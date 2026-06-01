@@ -176,6 +176,14 @@
     <string>brassF_allR_oughM_edium.glif</string>
     <key>brassFallRoughShort</key>
     <string>brassF_allR_oughS_hort.glif</string>
+    <key>brassHarmonMuteClosed</key>
+    <string>brassH_armonM_uteC_losed.glif</string>
+    <key>brassHarmonMuteStemHalfLeft</key>
+    <string>brassH_armonM_uteS_temH_alfL_eft.glif</string>
+    <key>brassHarmonMuteStemHalfRight</key>
+    <string>brassH_armonM_uteS_temH_alfR_ight.glif</string>
+    <key>brassHarmonMuteStemOpen</key>
+    <string>brassH_armonM_uteS_temO_pen.glif</string>
     <key>brassJazzTurn</key>
     <string>brassJ_azzT_urn.glif</string>
     <key>brassLiftLong</key>
@@ -184,12 +192,20 @@
     <string>brassL_iftM_edium.glif</string>
     <key>brassLiftShort</key>
     <string>brassL_iftS_hort.glif</string>
+    <key>brassMuteClosed</key>
+    <string>brassM_uteC_losed.glif</string>
+    <key>brassMuteHalfClosed</key>
+    <string>brassM_uteH_alfC_losed.glif</string>
+    <key>brassMuteOpen</key>
+    <string>brassM_uteO_pen.glif</string>
     <key>brassPlop</key>
     <string>brassP_lop.glif</string>
     <key>brassScoop</key>
     <string>brassS_coop.glif</string>
     <key>brassSmear</key>
     <string>brassS_mear.glif</string>
+    <key>brassValveTrill</key>
+    <string>brassV_alveT_rill.glif</string>
     <key>breathMarkComma</key>
     <string>breathM_arkC_omma.glif</string>
     <key>breathMarkSalzedo</key>
@@ -202,6 +218,10 @@
     <string>cC_lef.glif</string>
     <key>cClef8vb</key>
     <string>cC_lef8vb.glif</string>
+    <key>cClefArrowDown</key>
+    <string>cC_lefA_rrowD_own.glif</string>
+    <key>cClefArrowUp</key>
+    <string>cC_lefA_rrowU_p.glif</string>
     <key>cClefChange</key>
     <string>cC_lefC_hange.glif</string>
     <key>cClefFrench</key>
@@ -220,6 +240,10 @@
     <string>clef8.glif</string>
     <key>coda</key>
     <string>coda.glif</string>
+    <key>doubleTongueAbove</key>
+    <string>doubleT_ongueA_bove.glif</string>
+    <key>doubleTongueBelow</key>
+    <string>doubleT_ongueB_elow.glif</string>
     <key>dynamicFF</key>
     <string>dynamicF_F_.glif</string>
     <key>dynamicFFF</key>
@@ -636,6 +660,8 @@
     <string>ornamentP_recompT_urnT_rillB_ach.glif</string>
     <key>ornamentPrecompTurnTrillDAnglebert</key>
     <string>ornamentP_recompT_urnT_rillD_A_nglebert.glif</string>
+    <key>ornamentSchleifer</key>
+    <string>ornamentS_chleifer.glif</string>
     <key>ornamentShortTrill</key>
     <string>ornamentS_hortT_rill.glif</string>
     <key>ornamentTreblement</key>
@@ -746,14 +772,60 @@
     <string>staffD_ivideA_rrowU_p.glif</string>
     <key>staffDivideArrowUpDown</key>
     <string>staffD_ivideA_rrowU_pD_own.glif</string>
+    <key>stringsBowBehindBridge</key>
+    <string>stringsB_owB_ehindB_ridge.glif</string>
+    <key>stringsBowBehindBridgeFourStrings</key>
+    <string>stringsB_owB_ehindB_ridgeF_ourS_trings.glif</string>
+    <key>stringsBowBehindBridgeOneString</key>
+    <string>stringsB_owB_ehindB_ridgeO_neS_tring.glif</string>
+    <key>stringsBowBehindBridgeThreeStrings</key>
+    <string>stringsB_owB_ehindB_ridgeT_hreeS_trings.glif</string>
+    <key>stringsBowBehindBridgeTwoStrings</key>
+    <string>stringsB_owB_ehindB_ridgeT_woS_trings.glif</string>
+    <key>stringsBowOnBridge</key>
+    <string>stringsB_owO_nB_ridge.glif</string>
+    <key>stringsBowOnTailpiece</key>
+    <string>stringsB_owO_nT_ailpiece.glif</string>
+    <key>stringsChangeBowDirection</key>
+    <string>stringsC_hangeB_owD_irection.glif</string>
     <key>stringsDownBow</key>
     <string>stringsD_ownB_ow.glif</string>
     <key>stringsDownBowTurned</key>
     <string>stringsD_ownB_owT_urned.glif</string>
+    <key>stringsFouette</key>
+    <string>stringsF_ouette.glif</string>
+    <key>stringsHalfHarmonic</key>
+    <string>stringsH_alfH_armonic.glif</string>
+    <key>stringsHarmonic</key>
+    <string>stringsH_armonic.glif</string>
+    <key>stringsJeteAbove</key>
+    <string>stringsJ_eteA_bove.glif</string>
+    <key>stringsJeteBelow</key>
+    <string>stringsJ_eteB_elow.glif</string>
+    <key>stringsMuteOff</key>
+    <string>stringsM_uteO_ff.glif</string>
+    <key>stringsMuteOn</key>
+    <string>stringsM_uteO_n.glif</string>
+    <key>stringsOverpressureDownBow</key>
+    <string>stringsO_verpressureD_ownB_ow.glif</string>
+    <key>stringsOverpressureNoDirection</key>
+    <string>stringsO_verpressureN_oD_irection.glif</string>
+    <key>stringsOverpressurePossibileDownBow</key>
+    <string>stringsO_verpressureP_ossibileD_ownB_ow.glif</string>
+    <key>stringsOverpressurePossibileUpBow</key>
+    <string>stringsO_verpressureP_ossibileU_pB_ow.glif</string>
+    <key>stringsOverpressureUpBow</key>
+    <string>stringsO_verpressureU_pB_ow.glif</string>
+    <key>stringsThumbPosition</key>
+    <string>stringsT_humbP_osition.glif</string>
+    <key>stringsThumbPositionTurned</key>
+    <string>stringsT_humbP_ositionT_urned.glif</string>
     <key>stringsUpBow</key>
     <string>stringsU_pB_ow.glif</string>
     <key>stringsUpBowTurned</key>
     <string>stringsU_pB_owT_urned.glif</string>
+    <key>stringsVibratoPulse</key>
+    <string>stringsV_ibratoP_ulse.glif</string>
     <key>systemDivider</key>
     <string>systemD_ivider.glif</string>
     <key>systemDividerExtraLong</key>
@@ -956,6 +1028,10 @@
     <string>tremoloF_ingered4.glif</string>
     <key>tremoloFingered5</key>
     <string>tremoloF_ingered5.glif</string>
+    <key>tripleTongueAbove</key>
+    <string>tripleT_ongueA_bove.glif</string>
+    <key>tripleTongueBelow</key>
+    <string>tripleT_ongueB_elow.glif</string>
     <key>tuplet0</key>
     <string>tuplet0.glif</string>
     <key>tuplet1</key>
@@ -1048,5 +1124,29 @@
     <string>wiggleT_rillS_low.glif</string>
     <key>wiggleTrillSlower</key>
     <string>wiggleT_rillS_lower.glif</string>
+    <key>windClosedHole</key>
+    <string>windC_losedH_ole.glif</string>
+    <key>windFlatEmbouchure</key>
+    <string>windF_latE_mbouchure.glif</string>
+    <key>windHalfClosedHole1</key>
+    <string>windH_alfC_losedH_ole1.glif</string>
+    <key>windHalfClosedHole2</key>
+    <string>windH_alfC_losedH_ole2.glif</string>
+    <key>windHalfClosedHole3</key>
+    <string>windH_alfC_losedH_ole3.glif</string>
+    <key>windLessRelaxedEmbouchure</key>
+    <string>windL_essR_elaxedE_mbouchure.glif</string>
+    <key>windOpenHole</key>
+    <string>windO_penH_ole.glif</string>
+    <key>windRelaxedEmbouchure</key>
+    <string>windR_elaxedE_mbouchure.glif</string>
+    <key>windSharpEmbouchure</key>
+    <string>windS_harpE_mbouchure.glif</string>
+    <key>windThreeQuartersClosedHole</key>
+    <string>windT_hreeQ_uartersC_losedH_ole.glif</string>
+    <key>windTightEmbouchure</key>
+    <string>windT_ightE_mbouchure.glif</string>
+    <key>windTrillKey</key>
+    <string>windT_rillK_ey.glif</string>
   </dict>
 </plist>

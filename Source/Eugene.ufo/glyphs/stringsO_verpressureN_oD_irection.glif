@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="stringsOverpressureNoDirection" format="2">
+  <advance width="299"/>
+  <unicode hex="E61F"/>
+  <note>
+uniE61F
+</note>
+  <outline>
+    <contour>
+      <point x="13" y="2" type="curve" smooth="yes"/>
+      <point x="14" y="2"/>
+      <point x="14" y="3"/>
+      <point x="286" y="95" type="curve"/>
+      <point x="298" y="98"/>
+      <point x="299" y="103"/>
+      <point x="299" y="111" type="curve" smooth="yes"/>
+      <point x="299" y="118"/>
+      <point x="298" y="123"/>
+      <point x="286" y="126" type="curve"/>
+      <point x="21" y="217" type="line" smooth="yes"/>
+      <point x="19" y="218"/>
+      <point x="15" y="219"/>
+      <point x="13" y="219" type="curve" smooth="yes"/>
+      <point x="5" y="221"/>
+      <point x="0" y="213"/>
+      <point x="0" y="206" type="curve"/>
+      <point x="0" y="157" type="line"/>
+      <point x="0" y="16" type="line"/>
+      <point x="0" y="10"/>
+      <point x="7" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-31 18:55:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

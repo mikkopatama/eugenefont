@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="windClosedHole" format="2">
+  <advance width="276"/>
+  <unicode hex="E5F4"/>
+  <note>
+uniE5F4
+</note>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="curve" smooth="yes"/>
+      <point x="214" y="0"/>
+      <point x="276" y="62"/>
+      <point x="276" y="138" type="curve" smooth="yes"/>
+      <point x="276" y="214"/>
+      <point x="214" y="276"/>
+      <point x="138" y="276" type="curve" smooth="yes"/>
+      <point x="62" y="276"/>
+      <point x="0" y="214"/>
+      <point x="0" y="138" type="curve" smooth="yes"/>
+      <point x="0" y="62"/>
+      <point x="62" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-31 19:35:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>
