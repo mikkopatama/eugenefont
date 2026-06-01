@@ -63,7 +63,7 @@ begin
   begin
     ForceDirectories(ExpandConstant('{localappdata}\Microsoft\Windows\Fonts'));
     ForceDirectories(ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene'));
-    ForceDirectories(ExpandConstant('%COMMONPROGRAMFILES%\SMuFL\Fonts\Eugene\Eugene.json'));
+    ForceDirectories(ExpandConstant('%COMMONPROGRAMFILES%\SMuFL\Fonts\Eugene'));
     FileCopy(ExpandConstant('{tmp}\EugeneText.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\EugeneText.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.otf'), ExpandConstant('{localappdata}\Microsoft\Windows\Fonts\Eugene.otf'), False);
     FileCopy(ExpandConstant('{tmp}\Eugene.json'), ExpandConstant('{localappdata}\SMuFL\Fonts\Eugene\Eugene.json'), False);
