@@ -9,7 +9,7 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 513
+Current glyph count: 563
 
 <img src="/Screenshot.png" />
 
@@ -51,15 +51,17 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ☑ All Octave glyphs
 
+☑ String techniques
+
+☑ Brass techniques
+
+☑ Majority of Wind techniques
+
 ## Goals for future releases in order of importance
 
 ☐ Finish [Holds and pauses](https://w3c-cg.github.io/smufl/latest/tables/holds-and-pauses.html)
 
-☐ Strings playing techniques
-
 ☐ Wind playing techniques
-
-☐ Brass playing techniques
 
 ☐ Keyboard playing techniques
 
