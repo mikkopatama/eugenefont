@@ -63,9 +63,9 @@
       <string>uniE05A</string>
       <string>uniE05B</string>
       <string>cClef</string>
+      <string>cClef8vb</string>
       <string>cClefArrowUp</string>
       <string>cClefArrowDown</string>
-      <string>cClef8vb</string>
       <string>fClef</string>
       <string>fClef15mb</string>
       <string>fClef8vb</string>
@@ -414,6 +414,8 @@
       <string>ornamentShortTrill</string>
       <string>ornamentMordent</string>
       <string>ornamentTreblement</string>
+      <string>glissandoUp</string>
+      <string>glissandoDown</string>
       <string>ornamentSchleifer</string>
       <string>ornamentPrecompSlide</string>
       <string>ornamentPrecompDescendingSlide</string>
@@ -512,9 +514,9 @@
       <string>stringsBowBehindBridgeTwoStrings</string>
       <string>stringsBowBehindBridgeThreeStrings</string>
       <string>stringsBowBehindBridgeFourStrings</string>
-      <string>uniE634</string>
-      <string>uniE635</string>
-      <string>uniE63C</string>
+      <string>arpeggiatoUp</string>
+      <string>arpeggiatoDown</string>
+      <string>arpeggiato</string>
       <string>keyboardPedalPed</string>
       <string>keyboardPedalP</string>
       <string>keyboardPedalDot</string>
@@ -584,6 +586,9 @@
       <string>timeSig9Reversed</string>
       <string>timeSigCommonReversed</string>
       <string>timeSigCutCommonReversed</string>
+      <string>csymAccidentalFlat</string>
+      <string>csymAccidentalNatural</string>
+      <string>csymAccidentalSharp</string>
       <string>cClefFrench</string>
       <string>uniF434</string>
       <string>uniF472</string>
@@ -607,6 +612,8 @@
       <string>_ornamentTreblement</string>
       <string>_ornamentTurnTrillPrefix</string>
       <string>_ornamentTurnTrillSuffix</string>
+      <string>_ottava_A</string>
+      <string>_ottava_M</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -915,6 +922,8 @@
       <string>_ornamentTreblement</string>
       <string>_ornamentTurnTrillPrefix</string>
       <string>_ornamentTurnTrillSuffix</string>
+      <string>_ottava_A</string>
+      <string>_ottava_M</string>
     </array>
   </dict>
 </plist>

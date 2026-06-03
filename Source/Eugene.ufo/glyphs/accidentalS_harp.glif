@@ -5,10 +5,10 @@
   <note>
 uniE262
 </note>
-  <anchor x="49" y="164" name="cutOutNW"/>
   <anchor x="214" y="204" name="cutOutNE"/>
-  <anchor x="51" y="-216" name="cutOutSW"/>
+  <anchor x="49" y="164" name="cutOutNW"/>
   <anchor x="217" y="-171" name="cutOutSE"/>
+  <anchor x="51" y="-216" name="cutOutSW"/>
   <outline>
     <contour>
       <point x="71" y="-331" type="curve" smooth="yes"/>

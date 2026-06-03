@@ -41,4 +41,10 @@ uniE26C
       <point x="0" y="-187"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-02 20:35:23 +0000</string>
+    </dict>
+  </lib>
 </glyph>

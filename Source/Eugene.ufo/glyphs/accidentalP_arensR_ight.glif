@@ -35,4 +35,10 @@ uniE26A
       <point x="0" y="242" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-02 20:35:16 +0000</string>
+    </dict>
+  </lib>
 </glyph>

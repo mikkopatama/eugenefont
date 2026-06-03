@@ -22,6 +22,10 @@
     <string>_ornamentT_urnT_rillP_refix.glif</string>
     <key>_ornamentTurnTrillSuffix</key>
     <string>_ornamentT_urnT_rillS_uffix.glif</string>
+    <key>_ottava_A</key>
+    <string>_ottava_A_.glif</string>
+    <key>_ottava_M</key>
+    <string>_ottava_M_.glif</string>
     <key>accidentalArrowDown</key>
     <string>accidentalA_rrowD_own.glif</string>
     <key>accidentalArrowUp</key>
@@ -104,6 +108,12 @@
     <string>accidentalT_ripleF_lat.glif</string>
     <key>accidentalTripleSharp</key>
     <string>accidentalT_ripleS_harp.glif</string>
+    <key>arpeggiato</key>
+    <string>arpeggiato.glif</string>
+    <key>arpeggiatoDown</key>
+    <string>arpeggiatoD_own.glif</string>
+    <key>arpeggiatoUp</key>
+    <string>arpeggiatoU_p.glif</string>
     <key>articAccentAbove</key>
     <string>articA_ccentA_bove.glif</string>
     <key>articAccentBelow</key>
@@ -240,6 +250,12 @@
     <string>clef8.glif</string>
     <key>coda</key>
     <string>coda.glif</string>
+    <key>csymAccidentalFlat</key>
+    <string>csymA_ccidentalF_lat.glif</string>
+    <key>csymAccidentalNatural</key>
+    <string>csymA_ccidentalN_atural.glif</string>
+    <key>csymAccidentalSharp</key>
+    <string>csymA_ccidentalS_harp.glif</string>
     <key>doubleTongueAbove</key>
     <string>doubleT_ongueA_bove.glif</string>
     <key>doubleTongueBelow</key>
@@ -402,6 +418,10 @@
     <string>gC_lefR_eversed.glif</string>
     <key>gClefTurned</key>
     <string>gC_lefT_urned.glif</string>
+    <key>glissandoDown</key>
+    <string>glissandoD_own.glif</string>
+    <key>glissandoUp</key>
+    <string>glissandoU_p.glif</string>
     <key>graceNoteAcciaccaturaStemDown</key>
     <string>graceN_oteA_cciaccaturaS_temD_own.glif</string>
     <key>graceNoteAcciaccaturaStemUp</key>
@@ -1068,12 +1088,6 @@
     <string>uniE_5E_1.glif</string>
     <key>uniE5E3</key>
     <string>uniE_5E_3.glif</string>
-    <key>uniE634</key>
-    <string>uniE_634.glif</string>
-    <key>uniE635</key>
-    <string>uniE_635.glif</string>
-    <key>uniE63C</key>
-    <string>uniE_63C_.glif</string>
     <key>uniF434</key>
     <string>uniF_434.glif</string>
     <key>uniF472</key>

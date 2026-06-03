@@ -11,6 +11,61 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+3 May 2026 (v. 1.2)
+
+- Major improvements to ~40 glyphs, including many letters like dynamics and ottava signs.
+- Experimental new bold variant: EugeneStrong. Hopefully slightly more legible on smaller screens and from a distance; not as inky as Bravura, closer to Leland.
+
+- Modified
+
+	brace
+	reversedBrace
+
+	restQuarterZ
+	
+	dynamicMezzo
+	dynamicRinforzando
+	dynamicSforzando
+	dynamicZ
+	dynamicNiente
+	dynamicMP
+	dynamicMF
+	dynamicSforzando1
+	dynamicSforzandoPiano
+	dynamicSforzandoPianissimo
+	dynamicSforzato
+	dynamicSforzatoPiano
+	dynamicSforzatoFF
+	dynamicRinforzando1
+	dynamicRinforzando2
+
+	ottavaAlta
+	ottavaBassa
+	ottavaBassaBa
+	quindicesimaAlta
+	quindicesimaBassa
+	ventiduesimaAlta
+	ventiduesimaBassa
+	octaveBassa
+
+	articAccentAbove
+	articAccentBelow
+	articMarcatoAbove
+	articMarcatoBelow
+	articMarcatoStaccatoAbove
+	articMarcatoStaccatoBelow
+
+
+	keyboardPedalPed
+	keyboardPedalP
+	uniF434
+
+	wiggleGlissando
+
+	textTuplet3ShortStem
+	textTuplet3LongStem
+
+
 1 May 2026 (v. 1.100)
 
 - Modified:

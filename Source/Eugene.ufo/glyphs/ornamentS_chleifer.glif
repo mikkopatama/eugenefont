@@ -7,11 +7,11 @@ uniE587
 </note>
   <outline>
     <contour>
+      <point x="-2" y="49"/>
       <point x="3" y="40" type="curve" smooth="yes"/>
-      <point x="3" y="40" type="line" smooth="yes"/>
       <point x="8" y="30"/>
       <point x="17" y="30"/>
-      <point x="26" y="40" type="curve" smooth="yes"/>
+      <point x="26" y="40" type="curve"/>
       <point x="127" y="134" type="line" smooth="yes"/>
       <point x="133" y="140"/>
       <point x="142" y="144"/>
@@ -38,10 +38,10 @@ uniE587
       <point x="614" y="184" type="curve" smooth="yes"/>
       <point x="599" y="163"/>
       <point x="590" y="153"/>
-      <point x="554" y="110" type="curve" smooth="yes"/>
+      <point x="554" y="110" type="curve"/>
       <point x="551" y="108"/>
       <point x="540" y="107"/>
-      <point x="534" y="112" type="curve" smooth="yes"/>
+      <point x="534" y="112" type="curve"/>
       <point x="521" y="126"/>
       <point x="450" y="222"/>
       <point x="443" y="232" type="curve" smooth="yes"/>
@@ -53,7 +53,7 @@ uniE587
       <point x="398" y="235" type="curve" smooth="yes"/>
       <point x="363" y="191"/>
       <point x="340" y="160"/>
-      <point x="304" y="120" type="curve" smooth="yes"/>
+      <point x="304" y="120" type="curve"/>
       <point x="300" y="117"/>
       <point x="288" y="116"/>
       <point x="285" y="119" type="curve" smooth="yes"/>
@@ -70,7 +70,6 @@ uniE587
       <point x="40" y="108"/>
       <point x="5" y="65" type="curve" smooth="yes"/>
       <point x="-1" y="57"/>
-      <point x="-2" y="49"/>
     </contour>
     <contour>
       <point x="617" y="188" type="curve"/>
@@ -93,7 +92,7 @@ uniE587
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-31 18:57:05 +0000</string>
+      <string>2026-06-02 10:14:37 +0000</string>
     </dict>
   </lib>
 </glyph>

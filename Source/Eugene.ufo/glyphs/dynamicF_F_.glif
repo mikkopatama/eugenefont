@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dynamicFF" format="2">
-  <advance width="609"/>
+  <advance width="593"/>
   <unicode hex="E52F"/>
   <note>
 uniE52F
@@ -172,7 +172,7 @@ uniE52F
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-27 18:12:01 +0000</string>
+      <string>2026-06-02 20:31:26 +0000</string>
     </dict>
   </lib>
 </glyph>

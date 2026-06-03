@@ -5,10 +5,10 @@
   <note>
 accidentalBuyukMucennebSharp
 </note>
-  <anchor x="51" y="-216" name="cutOutSW"/>
-  <anchor x="49" y="164" name="cutOutNW"/>
   <anchor x="214" y="204" name="cutOutNE"/>
+  <anchor x="49" y="164" name="cutOutNW"/>
   <anchor x="217" y="-171" name="cutOutSE"/>
+  <anchor x="51" y="-216" name="cutOutSW"/>
   <outline>
     <contour>
       <point x="-35" y="-86" type="curve" smooth="yes"/>
@@ -33,7 +33,7 @@ accidentalBuyukMucennebSharp
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-01 10:51:38 +0000</string>
+      <string>2026-06-02 22:07:11 +0000</string>
     </dict>
   </lib>
 </glyph>

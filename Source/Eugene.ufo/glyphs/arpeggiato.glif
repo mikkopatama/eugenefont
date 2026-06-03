@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniE63C" format="2">
+<glyph name="arpeggiato" format="2">
   <advance width="122"/>
   <unicode hex="E63C"/>
   <note>
@@ -230,7 +230,7 @@ uniE63C
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-28 07:30:17 +0000</string>
+      <string>2026-06-02 10:25:50 +0000</string>
     </dict>
   </lib>
 </glyph>
