@@ -82,7 +82,11 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
 | `EugeneText.otf` | SMuFL-compliant OpenType music text font |
+| `EugeneStrong.otf` | Bolder variant of the font |
+| `EugeneStrongText.otf` | Bolder variant of the text font |
 | `Eugene.json` | SMuFL font metadata |
+| `EugeneStrong.json` | SMuFL font metadata for the stronger variant |
+| `EugeneSampleScores.pdf` | A collection of sample scores engraved with Eugene |
 | `LICENSE.txt` | SIL Open Font License 1.1 |
 | `FONTLOG.txt` | Change log |
 
