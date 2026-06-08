@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "1.200",
+  "fontVersion": "1.251",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -133,10 +133,100 @@
         -0.92
       ]
     },
+    "dynamicFF": {
+      "opticalCenter": [
+        1.212,
+        0.0
+      ]
+    },
+    "dynamicFFF": {
+      "opticalCenter": [
+        1.804,
+        0.0
+      ]
+    },
+    "dynamicFFFF": {
+      "opticalCenter": [
+        2.12,
+        0.0
+      ]
+    },
     "dynamicForte": {
       "opticalCenter": [
-        0.596,
-        0.96
+        0.376,
+        0.0
+      ]
+    },
+    "dynamicMF": {
+      "opticalCenter": [
+        1.884,
+        0.0
+      ]
+    },
+    "dynamicMP": {
+      "opticalCenter": [
+        1.708,
+        0.0
+      ]
+    },
+    "dynamicMezzo": {
+      "opticalCenter": [
+        0.876,
+        0.0
+      ]
+    },
+    "dynamicPP": {
+      "opticalCenter": [
+        1.32,
+        0.0
+      ]
+    },
+    "dynamicPPP": {
+      "opticalCenter": [
+        1.88,
+        0.0
+      ]
+    },
+    "dynamicPPPP": {
+      "opticalCenter": [
+        2.568,
+        0.0
+      ]
+    },
+    "dynamicPPPPP": {
+      "opticalCenter": [
+        3.16,
+        0.0
+      ]
+    },
+    "dynamicPPPPPP": {
+      "opticalCenter": [
+        3.804,
+        0.0
+      ]
+    },
+    "dynamicPiano": {
+      "opticalCenter": [
+        0.76,
+        0.0
+      ]
+    },
+    "dynamicSforzando1": {
+      "opticalCenter": [
+        1.44,
+        0.0
+      ]
+    },
+    "dynamicSforzandoPiano": {
+      "opticalCenter": [
+        1.88,
+        0.0
+      ]
+    },
+    "dynamicSforzato": {
+      "opticalCenter": [
+        1.56,
+        0.0
       ]
     },
     "flag1024thDown": {
@@ -243,24 +333,10 @@
         -0.04
       ]
     },
-    "metNote8thDown": {
-      "stemDownSW": [
-        0.0,
-        -2.764
-      ]
-    },
     "metNote8thUp": {
       "graceNoteSlashNE": [
         2.312,
         3.604
-      ],
-      "graceNoteSlashSW": [
-        0.384,
-        0.352
-      ],
-      "stemUpNW": [
-        1.028,
-        2.768
       ]
     },
     "note16thDown": {
@@ -271,16 +347,6 @@
       "stemUpSE": [
         1.14,
         0.112
-      ]
-    },
-    "note8thUp": {
-      "stemDownNW": [
-        0.192,
-        -0.188
-      ],
-      "stemUpSE": [
-        1.332,
-        0.044
       ]
     },
     "noteDoubleWhole": {
@@ -809,6 +875,84 @@
       "stemUpSE": [
         0.988,
         0.312
+      ]
+    },
+    "wiggleArpeggiatoDown": {
+      "repeatOffset": [
+        1.02,
+        0.0
+      ]
+    },
+    "wiggleArpeggiatoDownArrow": {
+      "repeatOffset": [
+        2.044,
+        0.0
+      ]
+    },
+    "wiggleArpeggiatoUp": {
+      "repeatOffset": [
+        1.02,
+        0.0
+      ]
+    },
+    "wiggleGlissando": {
+      "repeatOffset": [
+        0.972,
+        0.0
+      ]
+    },
+    "wiggleTrill": {
+      "repeatOffset": [
+        1.02,
+        0.0
+      ]
+    },
+    "wiggleTrillFast": {
+      "repeatOffset": [
+        0.852,
+        0.0
+      ]
+    },
+    "wiggleTrillFaster": {
+      "repeatOffset": [
+        0.7,
+        0.0
+      ]
+    },
+    "wiggleTrillFasterStill": {
+      "repeatOffset": [
+        0.572,
+        0.0
+      ]
+    },
+    "wiggleTrillFastest": {
+      "repeatOffset": [
+        0.448,
+        0.0
+      ]
+    },
+    "wiggleTrillSlow": {
+      "repeatOffset": [
+        1.176,
+        0.0
+      ]
+    },
+    "wiggleTrillSlower": {
+      "repeatOffset": [
+        1.332,
+        0.0
+      ]
+    },
+    "wiggleTrillSlowerStill": {
+      "repeatOffset": [
+        1.584,
+        0.0
+      ]
+    },
+    "wiggleTrillSlowest": {
+      "repeatOffset": [
+        1.844,
+        0.0
       ]
     }
   },
@@ -1453,42 +1597,42 @@
     },
     "brace": {
       "bBoxNE": [
-        0.331,
+        0.376,
         3.965
       ],
       "bBoxSW": [
         0.0,
-        0.006
+        0.003
       ]
     },
     "bracket": {
       "bBoxNE": [
-        1.652,
-        5.544
+        1.704,
+        5.432
       ],
       "bBoxSW": [
-        -0.251,
-        -1.316
+        -0.292,
+        -1.284
       ]
     },
     "bracketBottom": {
       "bBoxNE": [
-        1.632,
-        0.081
+        1.672,
+        0.144
       ],
       "bBoxSW": [
-        -0.271,
-        -1.264
+        -0.312,
+        -1.14
       ]
     },
     "bracketTop": {
       "bBoxNE": [
-        1.628,
-        1.264
+        1.672,
+        1.064
       ],
       "bBoxSW": [
-        -0.275,
-        -0.081
+        -0.312,
+        -0.22
       ]
     },
     "brassDoitLong": {
@@ -2033,11 +2177,11 @@
     },
     "dynamicMP": {
       "bBoxNE": [
-        2.885,
+        2.793,
         1.024
       ],
       "bBoxSW": [
-        0.093,
+        0.001,
         -0.472
       ]
     },
@@ -2811,13 +2955,33 @@
         0.0
       ]
     },
-    "keyboardPedalDot": {
+    "keyboardPedalD": {
       "bBoxNE": [
-        0.344,
-        0.344
+        1.169,
+        1.968
       ],
       "bBoxSW": [
         0.0,
+        -0.002
+      ]
+    },
+    "keyboardPedalDot": {
+      "bBoxNE": [
+        0.176,
+        0.188
+      ],
+      "bBoxSW": [
+        0.0,
+        0.0
+      ]
+    },
+    "keyboardPedalE": {
+      "bBoxNE": [
+        1.109,
+        1.188
+      ],
+      "bBoxSW": [
+        0.002,
         0.0
       ]
     },
@@ -2843,11 +3007,11 @@
     },
     "keyboardPedalP": {
       "bBoxNE": [
-        1.532,
-        2.148
+        1.925,
+        1.948
       ],
       "bBoxSW": [
-        0.001,
+        0.0,
         0.0
       ]
     },
@@ -2873,12 +3037,12 @@
     },
     "keyboardPedalPed": {
       "bBoxNE": [
-        4.72,
-        2.148
+        4.332,
+        2.004
       ],
       "bBoxSW": [
-        0.001,
-        -0.028
+        0.0,
+        -0.05
       ]
     },
     "keyboardPedalUp": {
@@ -2893,12 +3057,12 @@
     },
     "metNote8thDown": {
       "bBoxNE": [
-        1.218,
+        1.222,
         0.557
       ],
       "bBoxSW": [
-        -0.0,
-        -2.888
+        0.0,
+        -2.892
       ]
     },
     "metNote8thUp": {
@@ -2997,17 +3161,17 @@
         0.645
       ],
       "bBoxSW": [
-        0.0,
-        -3.552
+        -0.0,
+        -3.072
       ]
     },
     "note8thUp": {
       "bBoxNE": [
-        2.18,
+        1.992,
         3.552
       ],
       "bBoxSW": [
-        0.188,
+        -0.0,
         -0.628
       ]
     },
@@ -4523,32 +4687,32 @@
     },
     "reversedBrace": {
       "bBoxNE": [
-        0.332,
+        0.376,
         3.965
       ],
       "bBoxSW": [
-        0.001,
-        0.006
+        -0.0,
+        0.003
       ]
     },
     "reversedBracketBottom": {
       "bBoxNE": [
-        2.023,
-        0.133
+        1.984,
+        0.146
       ],
       "bBoxSW": [
-        0.12,
-        -1.212
+        0.0,
+        -1.14
       ]
     },
     "reversedBracketTop": {
       "bBoxNE": [
-        2.023,
-        1.264
+        1.984,
+        1.064
       ],
       "bBoxSW": [
-        0.12,
-        -0.081
+        0.0,
+        -0.222
       ]
     },
     "segno": {
@@ -6204,7 +6368,7 @@
     "wiggleGlissando": {
       "bBoxNE": [
         1.124,
-        0.356
+        0.377
       ],
       "bBoxSW": [
         -0.1,
@@ -6213,52 +6377,92 @@
     },
     "wiggleTrill": {
       "bBoxNE": [
-        1.082,
-        0.808
+        1.172,
+        0.828
       ],
       "bBoxSW": [
-        -0.024,
-        0.53
+        -0.132,
+        0.372
       ]
     },
     "wiggleTrillFast": {
       "bBoxNE": [
-        0.876,
-        0.756
+        1.016,
+        0.817
       ],
       "bBoxSW": [
-        -0.081,
-        0.464
+        -0.088,
+        0.4
       ]
     },
     "wiggleTrillFaster": {
       "bBoxNE": [
-        0.75,
-        0.768
+        0.856,
+        0.817
       ],
       "bBoxSW": [
-        -0.091,
-        0.544
+        -0.048,
+        0.4
+      ]
+    },
+    "wiggleTrillFasterStill": {
+      "bBoxNE": [
+        0.676,
+        0.817
+      ],
+      "bBoxSW": [
+        -0.068,
+        0.4
+      ]
+    },
+    "wiggleTrillFastest": {
+      "bBoxNE": [
+        0.572,
+        0.817
+      ],
+      "bBoxSW": [
+        -0.012,
+        0.4
       ]
     },
     "wiggleTrillSlow": {
       "bBoxNE": [
-        1.19,
-        0.777
+        1.256,
+        0.828
       ],
       "bBoxSW": [
-        -0.172,
-        0.472
+        -0.248,
+        0.372
       ]
     },
     "wiggleTrillSlower": {
       "bBoxNE": [
-        1.421,
-        0.772
+        1.404,
+        0.828
       ],
       "bBoxSW": [
-        -0.14,
-        0.472
+        -0.296,
+        0.372
+      ]
+    },
+    "wiggleTrillSlowerStill": {
+      "bBoxNE": [
+        1.832,
+        0.828
+      ],
+      "bBoxSW": [
+        -0.188,
+        0.372
+      ]
+    },
+    "wiggleTrillSlowest": {
+      "bBoxNE": [
+        2.116,
+        0.828
+      ],
+      "bBoxSW": [
+        -0.224,
+        0.372
       ]
     },
     "windClosedHole": {

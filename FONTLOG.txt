@@ -11,7 +11,71 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
-3 May 2026 (v. 1.2)
+8 June 2026 (v. 1.251)
+
+This time focusing on trill line, bracket and brace fixes. The brace glyph variants are now more consistent in style.
+Also added opticalCenter anchors to dynamics.
+
+- Modified
+	bracketTop
+	bracketBottom
+	reversedBracketTop
+	reversedBracketBottom
+	braceSmall
+	braceLarge
+	braceLarger
+
+	wiggleTrillFaster
+	wiggleTrillFasterStill
+	wiggleTrillFastest
+	wiggleTrillFast
+	wiggleTrill
+	wiggleTrillSlow
+	wiggleTrillSlower
+	wiggleTrillSlowerStill
+	wiggleTrillSlowest
+	wiggleArpeggiatoUp
+	wiggleArpeggiatoDown
+	wiggleArpeggiatoUpSwash
+	wiggleArpeggiatoDownSwash
+	wiggleArpeggiatoUpArrow
+	wiggleArpeggiatoDownArrow
+	wiggleGlissando
+
+
+
+7 June 2026 (v. 1.25)
+
+Brace and pedal glyph update. The braces will no longer fall back to Bravura.
+keyboardpedalPed has a totally new symbol, traced from a 1913 Fromont publication "Musique de chant. 11, Mignonne : XVIe siècle : [chant et piano] / poésie de Ronsard" (composer Gabriel de Saint-Quentin).
+Larger noteheads should now load properly in Dorico.
+
+
+- Modified
+	brace
+	bracket
+	keyboardPedalPed
+	keyboardPedalP
+	keyboardPedalDot
+	keyboardPedalPedNoDot
+	noteheadWholeOversized
+	noteheadHalfOversized
+	noteheadBlackOversized
+
+
+- Added
+
+	keyboardPedalE
+	keyboardPedalD
+	noteheadDoubleWholeOversized
+	braceSmall
+	braceLarge
+	braceLarger
+
+
+
+
+3 June 2026 (v. 1.2)
 
 - Major improvements to ~40 glyphs, including many letters like dynamics and ottava signs.
 - Experimental new bold variant: EugeneStrong. Hopefully slightly more legible on smaller screens and from a distance; not as inky as Bravura, closer to Leland.
@@ -66,7 +130,7 @@ Change log
 	textTuplet3LongStem
 
 
-1 May 2026 (v. 1.100)
+1 June 2026 (v. 1.100)
 
 - Modified:
 	All tuplet numbers are now tidier, especially number 2
