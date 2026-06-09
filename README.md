@@ -59,11 +59,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 ## Goals for future releases in order of importance
 
-☐ Finish [Holds and pauses](https://w3c-cg.github.io/smufl/latest/tables/holds-and-pauses.html)
-
 ☐ Wind playing techniques
-
-☐ Keyboard playing techniques
 
 ☐ More noteheads, not necessarily all in the SMuFL standard
 
