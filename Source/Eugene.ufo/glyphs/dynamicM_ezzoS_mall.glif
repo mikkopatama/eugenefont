@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicMezzoSmall" format="2">
+  <advance width="415"/>
+  <unicode hex="F46C"/>
+  <outline>
+    <component base="dynamicMezzo" xScale="1.1" xOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-09 14:41:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

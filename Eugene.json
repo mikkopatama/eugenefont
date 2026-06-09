@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "1.251",
+  "fontVersion": "1.252",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -1607,12 +1607,12 @@
     },
     "bracket": {
       "bBoxNE": [
-        1.704,
-        5.432
+        1.98,
+        5.824
       ],
       "bBoxSW": [
-        -0.292,
-        -1.284
+        -0.016,
+        -1.604
       ]
     },
     "bracketBottom": {
@@ -2027,11 +2027,11 @@
     },
     "coda": {
       "bBoxNE": [
-        2.9,
+        1.936,
         1.632
       ],
       "bBoxSW": [
-        0.964,
+        0.0,
         -0.24
       ]
     },
@@ -3405,6 +3405,16 @@
         -0.564
       ]
     },
+    "noteheadDoubleWholeWithX": {
+      "bBoxNE": [
+        2.32,
+        0.62
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.62
+      ]
+    },
     "noteheadHalf": {
       "bBoxNE": [
         1.14,
@@ -3886,6 +3896,16 @@
       ]
     },
     "noteheadWholeFilled": {
+      "bBoxNE": [
+        1.516,
+        0.536
+      ],
+      "bBoxSW": [
+        0.0,
+        -0.54
+      ]
+    },
+    "noteheadWholeWithX": {
       "bBoxNE": [
         1.516,
         0.536

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicNienteSmall" format="2">
+  <advance width="272"/>
+  <unicode hex="F471"/>
+  <note>
+uniF471
+</note>
+  <outline>
+    <component base="dynamicNiente" xScale="1.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-09 14:36:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -11,6 +11,28 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+9 June 2026
+
+Small additions and modifications. Also testing a new workflow for Windows installer creation.
+
+- Modified:
+	bracket
+	coda
+
+- Added
+	noteheadWholeWithX
+	noteheadDoubleWholeWithX
+	
+	dynamicPianoSmall
+	dynamicMezzoSmall
+	dynamicForteSmall
+	dynamicRinforzandoSmall
+	dynamicSforzandoSmall
+	dynamicZSmall
+	dynamicNienteSmall
+
+
+
 8 June 2026 (v. 1.251)
 
 This time focusing on trill line, bracket and brace fixes. The brace glyph variants are now more consistent in style.

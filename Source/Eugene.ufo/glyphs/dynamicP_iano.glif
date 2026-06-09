@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dynamicPiano" format="2">
-  <advance width="303"/>
+  <advance width="291"/>
   <unicode hex="E520"/>
   <note>
 uniE520
 </note>
+  <anchor x="190" y="0" name="opticalCenter"/>
   <outline>
     <contour>
       <point x="-48" y="-118" type="curve" smooth="yes"/>
@@ -95,7 +96,7 @@ uniE520
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-27 15:16:34 +0000</string>
+      <string>2026-06-08 10:15:14 +0000</string>
     </dict>
   </lib>
 </glyph>

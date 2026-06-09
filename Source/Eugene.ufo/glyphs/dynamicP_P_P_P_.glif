@@ -5,6 +5,7 @@
   <note>
 uniE529
 </note>
+  <anchor x="642" y="0" name="opticalCenter"/>
   <outline>
     <contour>
       <point x="575" y="-118" type="curve" smooth="yes"/>
@@ -362,7 +363,7 @@ uniE529
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-24 21:35:31 +0000</string>
+      <string>2026-06-08 10:16:16 +0000</string>
     </dict>
   </lib>
 </glyph>

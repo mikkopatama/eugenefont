@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dynamicMP" format="2">
-  <advance width="719"/>
+  <advance width="698"/>
   <unicode hex="E52C"/>
   <note>
 uniE52C
 </note>
+  <anchor x="427" y="0" name="opticalCenter"/>
   <outline>
-    <component base="dynamicMezzo"/>
-    <component base="dynamicPiano" xOffset="430"/>
+    <component base="dynamicMezzo" xOffset="-23"/>
+    <component base="dynamicPiano" xOffset="407"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-02 09:46:05 +0000</string>
+      <string>2026-06-08 10:14:15 +0000</string>
     </dict>
   </lib>
 </glyph>

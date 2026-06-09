@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniF4BE" format="2">
-  <advance width="294"/>
+<glyph name="noteheadBlackOversized" format="2">
+  <advance width="302"/>
   <unicode hex="F4BE"/>
   <note>
 uniF4BE
 </note>
   <anchor x="0" y="-36" name="stemDownNW"/>
-  <anchor x="294" y="37" name="stemUpSE"/>
+  <anchor x="302" y="37" name="stemUpSE"/>
   <outline>
-    <component base="noteheadBlack" xScale="1.0303" yScale="1.0303" yOffset="5"/>
+    <component base="noteheadBlack" xScale="1.0612" yScale="1.0612" yOffset="5"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 11:57:03 +0000</string>
+      <string>2026-06-07 12:50:01 +0000</string>
     </dict>
   </lib>
 </glyph>

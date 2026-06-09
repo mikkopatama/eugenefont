@@ -1,57 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wiggleTrill" format="2">
-  <advance width="237"/>
+  <advance width="255"/>
   <unicode hex="EAA4"/>
   <note>
 uniEAA4
 </note>
+  <anchor x="255" y="0" name="repeatOffset"/>
   <outline>
     <contour>
-      <point x="8" y="153" type="curve" smooth="yes"/>
-      <point x="19" y="156"/>
-      <point x="36" y="162"/>
-      <point x="51" y="159" type="curve" smooth="yes"/>
-      <point x="66" y="157"/>
-      <point x="128" y="136"/>
-      <point x="154" y="133" type="curve" smooth="yes"/>
-      <point x="172" y="131"/>
-      <point x="201" y="135"/>
-      <point x="216" y="139" type="curve" smooth="yes"/>
-      <point x="230" y="143"/>
-      <point x="239" y="149"/>
-      <point x="248" y="153" type="curve" smooth="yes"/>
-      <point x="259" y="158"/>
-      <point x="266" y="161"/>
-      <point x="269" y="163" type="curve" smooth="yes"/>
-      <point x="271" y="165"/>
-      <point x="271" y="170"/>
-      <point x="268" y="171" type="curve" smooth="yes"/>
-      <point x="265" y="172"/>
-      <point x="262" y="171"/>
-      <point x="261" y="171" type="curve" smooth="yes"/>
-      <point x="248" y="169"/>
-      <point x="248" y="169"/>
-      <point x="231" y="166" type="curve" smooth="yes"/>
-      <point x="219" y="164"/>
-      <point x="208" y="171"/>
-      <point x="189" y="181" type="curve" smooth="yes"/>
-      <point x="164" y="194"/>
-      <point x="127" y="203"/>
-      <point x="90" y="202" type="curve" smooth="yes"/>
-      <point x="51" y="201"/>
-      <point x="42" y="174"/>
-      <point x="21" y="170" type="curve" smooth="yes"/>
-      <point x="9" y="168"/>
-      <point x="-6" y="165"/>
-      <point x="-6" y="159" type="curve" smooth="yes"/>
+      <point x="89" y="207" type="curve" smooth="yes"/>
+      <point x="53" y="207"/>
       <point x="-6" y="156"/>
-      <point x="0" y="151"/>
+      <point x="-24" y="141" type="curve" smooth="yes"/>
+      <point x="-29" y="137"/>
+      <point x="-33" y="133"/>
+      <point x="-33" y="129" type="curve" smooth="yes"/>
+      <point x="-33" y="122"/>
+      <point x="-26" y="120"/>
+      <point x="-22" y="121" type="curve" smooth="yes"/>
+      <point x="-18" y="122"/>
+      <point x="-6" y="128"/>
+      <point x="-1" y="131" type="curve" smooth="yes"/>
+      <point x="4" y="134"/>
+      <point x="9" y="138"/>
+      <point x="12" y="140" type="curve" smooth="yes"/>
+      <point x="25" y="148"/>
+      <point x="30" y="151"/>
+      <point x="44" y="151" type="curve" smooth="yes"/>
+      <point x="61" y="151"/>
+      <point x="72" y="142"/>
+      <point x="86" y="130" type="curve" smooth="yes"/>
+      <point x="104" y="114"/>
+      <point x="127" y="93"/>
+      <point x="172" y="93" type="curve" smooth="yes"/>
+      <point x="219" y="93"/>
+      <point x="273" y="146"/>
+      <point x="288" y="161" type="curve" smooth="yes"/>
+      <point x="291" y="164"/>
+      <point x="293" y="167"/>
+      <point x="293" y="170" type="curve" smooth="yes"/>
+      <point x="293" y="174"/>
+      <point x="290" y="177"/>
+      <point x="287" y="177" type="curve" smooth="yes"/>
+      <point x="281" y="177"/>
+      <point x="273" y="173"/>
+      <point x="269" y="170" type="curve" smooth="yes"/>
+      <point x="266" y="168"/>
+      <point x="264" y="166"/>
+      <point x="260" y="163" type="curve" smooth="yes"/>
+      <point x="250" y="156"/>
+      <point x="243" y="151"/>
+      <point x="233" y="147" type="curve" smooth="yes"/>
+      <point x="221" y="142"/>
+      <point x="212" y="144"/>
+      <point x="203" y="149" type="curve" smooth="yes"/>
+      <point x="186" y="159"/>
+      <point x="180" y="164"/>
+      <point x="164" y="178" type="curve" smooth="yes"/>
+      <point x="139" y="201"/>
+      <point x="124" y="207"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-28 09:52:45 +0000</string>
+      <string>2026-06-08 08:09:54 +0000</string>
     </dict>
   </lib>
 </glyph>

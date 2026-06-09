@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicZSmall" format="2">
+  <advance width="196"/>
+  <unicode hex="F470"/>
+  <note>
+uniF470
+</note>
+  <outline>
+    <component base="dynamicZ" xScale="1.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-09 14:33:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

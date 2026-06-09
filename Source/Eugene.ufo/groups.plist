@@ -4,32 +4,32 @@
   <dict>
     <key>public.kern1.dynamicForte</key>
     <array>
-      <string>dynamicForte</string>
-      <string>dynamicMF</string>
-      <string>dynamicPF</string>
       <string>dynamicFF</string>
       <string>dynamicFFF</string>
       <string>dynamicFFFF</string>
       <string>dynamicFFFFF</string>
       <string>dynamicFFFFFF</string>
+      <string>dynamicForte</string>
+      <string>dynamicMF</string>
+      <string>dynamicPF</string>
     </array>
     <key>public.kern1.dynamicPiano</key>
     <array>
-      <string>dynamicPiano</string>
-      <string>dynamicPPPPPP</string>
-      <string>dynamicPPPPP</string>
-      <string>dynamicPPPP</string>
-      <string>dynamicPPP</string>
       <string>dynamicPP</string>
+      <string>dynamicPPP</string>
+      <string>dynamicPPPP</string>
+      <string>dynamicPPPPP</string>
+      <string>dynamicPPPPPP</string>
+      <string>dynamicPiano</string>
     </array>
     <key>public.kern2.dynamicPiano</key>
     <array>
-      <string>dynamicPiano</string>
-      <string>dynamicPPPPPP</string>
-      <string>dynamicPPPPP</string>
-      <string>dynamicPPPP</string>
-      <string>dynamicPPP</string>
       <string>dynamicPP</string>
+      <string>dynamicPPP</string>
+      <string>dynamicPPPP</string>
+      <string>dynamicPPPPP</string>
+      <string>dynamicPPPPPP</string>
+      <string>dynamicPiano</string>
     </array>
   </dict>
 </plist>

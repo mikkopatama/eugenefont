@@ -1,40 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="reversedBracketTop" format="2">
-  <advance width="437"/>
+  <advance width="418"/>
   <unicode hex="E005"/>
   <note>
 uniE005
 </note>
   <outline>
     <contour>
-      <point x="468" y="-20" type="line" smooth="yes"/>
-      <point x="470" y="-20"/>
-      <point x="472" y="-18"/>
-      <point x="473" y="-17" type="curve" smooth="yes"/>
-      <point x="504" y="31" type="line" smooth="yes"/>
-      <point x="511" y="41"/>
-      <point x="497" y="67"/>
-      <point x="479" y="67" type="curve" smooth="yes"/>
-      <point x="346" y="67" type="line"/>
-      <point x="148" y="98"/>
-      <point x="87" y="203"/>
-      <point x="63" y="301" type="curve" smooth="yes"/>
-      <point x="62" y="305"/>
-      <point x="51" y="316"/>
-      <point x="42" y="316" type="curve" smooth="yes"/>
-      <point x="36" y="316"/>
-      <point x="30" y="304"/>
-      <point x="30" y="301" type="curve" smooth="yes"/>
-      <point x="31" y="288" type="line" smooth="yes"/>
-      <point x="49" y="127"/>
-      <point x="194" y="-28"/>
-      <point x="324" y="-20" type="curve"/>
+      <point x="482" y="-55" type="curve" smooth="yes"/>
+      <point x="491" y="-55"/>
+      <point x="496" y="-38"/>
+      <point x="496" y="-14" type="curve" smooth="yes"/>
+      <point x="496" y="9"/>
+      <point x="459" y="49"/>
+      <point x="424" y="49" type="curve" smooth="yes"/>
+      <point x="256" y="49"/>
+      <point x="112" y="152"/>
+      <point x="46" y="246" type="curve" smooth="yes"/>
+      <point x="40" y="255"/>
+      <point x="30" y="266"/>
+      <point x="15" y="266" type="curve" smooth="yes"/>
+      <point x="2" y="266"/>
+      <point x="-2" y="257"/>
+      <point x="1" y="246" type="curve" smooth="yes"/>
+      <point x="42" y="103"/>
+      <point x="254" y="-52"/>
+      <point x="371" y="-55" type="curve" smooth="yes"/>
+      <point x="415" y="-56"/>
+      <point x="469" y="-55"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-27 07:43:51 +0000</string>
+      <string>2026-06-08 11:32:10 +0000</string>
     </dict>
   </lib>
 </glyph>

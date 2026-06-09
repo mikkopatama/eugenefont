@@ -162,6 +162,12 @@
     <string>augmentationD_ot.glif</string>
     <key>brace</key>
     <string>brace.glif</string>
+    <key>braceLarge</key>
+    <string>braceL_arge.glif</string>
+    <key>braceLarger</key>
+    <string>braceL_arger.glif</string>
+    <key>braceSmall</key>
+    <string>braceS_mall.glif</string>
     <key>bracket</key>
     <string>bracket.glif</string>
     <key>bracketBottom</key>
@@ -274,6 +280,8 @@
     <string>dynamicF_orte.glif</string>
     <key>dynamicFortePiano</key>
     <string>dynamicF_orteP_iano.glif</string>
+    <key>dynamicForteSmall</key>
+    <string>dynamicF_orteS_mall.glif</string>
     <key>dynamicForzando</key>
     <string>dynamicF_orzando.glif</string>
     <key>dynamicMF</key>
@@ -282,8 +290,12 @@
     <string>dynamicM_P_.glif</string>
     <key>dynamicMezzo</key>
     <string>dynamicM_ezzo.glif</string>
+    <key>dynamicMezzoSmall</key>
+    <string>dynamicM_ezzoS_mall.glif</string>
     <key>dynamicNiente</key>
     <string>dynamicN_iente.glif</string>
+    <key>dynamicNienteSmall</key>
+    <string>dynamicN_ienteS_mall.glif</string>
     <key>dynamicPF</key>
     <string>dynamicP_F_.glif</string>
     <key>dynamicPP</key>
@@ -298,12 +310,16 @@
     <string>dynamicP_P_P_P_P_P_.glif</string>
     <key>dynamicPiano</key>
     <string>dynamicP_iano.glif</string>
+    <key>dynamicPianoSmall</key>
+    <string>dynamicP_ianoS_mall.glif</string>
     <key>dynamicRinforzando</key>
     <string>dynamicR_inforzando.glif</string>
     <key>dynamicRinforzando1</key>
     <string>dynamicR_inforzando1.glif</string>
     <key>dynamicRinforzando2</key>
     <string>dynamicR_inforzando2.glif</string>
+    <key>dynamicRinforzandoSmall</key>
+    <string>dynamicR_inforzandoS_mall.glif</string>
     <key>dynamicSforzando</key>
     <string>dynamicS_forzando.glif</string>
     <key>dynamicSforzando1</key>
@@ -312,6 +328,8 @@
     <string>dynamicS_forzandoP_ianissimo.glif</string>
     <key>dynamicSforzandoPiano</key>
     <string>dynamicS_forzandoP_iano.glif</string>
+    <key>dynamicSforzandoSmall</key>
+    <string>dynamicS_forzandoS_mall.glif</string>
     <key>dynamicSforzato</key>
     <string>dynamicS_forzato.glif</string>
     <key>dynamicSforzatoFF</key>
@@ -320,6 +338,8 @@
     <string>dynamicS_forzatoP_iano.glif</string>
     <key>dynamicZ</key>
     <string>dynamicZ_.glif</string>
+    <key>dynamicZSmall</key>
+    <string>dynamicZ_S_mall.glif</string>
     <key>fClef</key>
     <string>fC_lef.glif</string>
     <key>fClef15ma</key>
@@ -434,8 +454,12 @@
     <string>graceN_oteS_lashS_temD_own.glif</string>
     <key>graceNoteSlashStemUp</key>
     <string>graceN_oteS_lashS_temU_p.glif</string>
+    <key>keyboardPedalD</key>
+    <string>keyboardP_edalD_.glif</string>
     <key>keyboardPedalDot</key>
     <string>keyboardP_edalD_ot.glif</string>
+    <key>keyboardPedalE</key>
+    <string>keyboardP_edalE_.glif</string>
     <key>keyboardPedalHalf2</key>
     <string>keyboardP_edalH_alf2.glif</string>
     <key>keyboardPedalHalf3</key>
@@ -448,6 +472,8 @@
     <string>keyboardP_edalP_arensR_ight.glif</string>
     <key>keyboardPedalPed</key>
     <string>keyboardP_edalP_ed.glif</string>
+    <key>keyboardPedalPedNoDot</key>
+    <string>keyboardP_edalP_edN_oD_ot.glif</string>
     <key>keyboardPedalUp</key>
     <string>keyboardP_edalU_p.glif</string>
     <key>metNote8thDown</key>
@@ -490,6 +516,8 @@
     <string>noteW_hole.glif</string>
     <key>noteheadBlack</key>
     <string>noteheadB_lack.glif</string>
+    <key>noteheadBlackOversized</key>
+    <string>noteheadB_lackO_versized.glif</string>
     <key>noteheadCircleX</key>
     <string>noteheadC_ircleX_.glif</string>
     <key>noteheadCircledBlack</key>
@@ -520,10 +548,16 @@
     <string>noteheadD_iamondW_hiteW_ide.glif</string>
     <key>noteheadDiamondWhole</key>
     <string>noteheadD_iamondW_hole.glif</string>
+    <key>noteheadDoubleWholeOversized</key>
+    <string>noteheadD_oubleW_holeO_versized.glif</string>
+    <key>noteheadDoubleWholeWithX</key>
+    <string>noteheadD_oubleW_holeW_ithX_.glif</string>
     <key>noteheadHalf</key>
     <string>noteheadH_alf.glif</string>
     <key>noteheadHalfFilled</key>
     <string>noteheadH_alfF_illed.glif</string>
+    <key>noteheadHalfOversized</key>
+    <string>noteheadH_alfO_versized.glif</string>
     <key>noteheadHalfWithX</key>
     <string>noteheadH_alfW_ithX_.glif</string>
     <key>noteheadMoonBlack</key>
@@ -618,6 +652,10 @@
     <string>noteheadW_hole.glif</string>
     <key>noteheadWholeFilled</key>
     <string>noteheadW_holeF_illed.glif</string>
+    <key>noteheadWholeOversized</key>
+    <string>noteheadW_holeO_versized.glif</string>
+    <key>noteheadWholeWithX</key>
+    <string>noteheadW_holeW_ithX_.glif</string>
     <key>noteheadXBlack</key>
     <string>noteheadX_B_lack.glif</string>
     <key>noteheadXOrnate</key>
@@ -1088,20 +1126,12 @@
     <string>uniE_5E_1.glif</string>
     <key>uniE5E3</key>
     <string>uniE_5E_3.glif</string>
-    <key>uniF434</key>
-    <string>uniF_434.glif</string>
     <key>uniF472</key>
     <string>uniF_472.glif</string>
     <key>uniF473</key>
     <string>uniF_473.glif</string>
     <key>uniF474</key>
     <string>uniF_474.glif</string>
-    <key>uniF4BC</key>
-    <string>uniF_4B_C_.glif</string>
-    <key>uniF4BD</key>
-    <string>uniF_4B_D_.glif</string>
-    <key>uniF4BE</key>
-    <string>uniF_4B_E_.glif</string>
     <key>unpitchedPercussionClef1</key>
     <string>unpitchedP_ercussionC_lef1.glif</string>
     <key>unpitchedPercussionClef2</key>
@@ -1134,10 +1164,18 @@
     <string>wiggleT_rillF_ast.glif</string>
     <key>wiggleTrillFaster</key>
     <string>wiggleT_rillF_aster.glif</string>
+    <key>wiggleTrillFasterStill</key>
+    <string>wiggleT_rillF_asterS_till.glif</string>
+    <key>wiggleTrillFastest</key>
+    <string>wiggleT_rillF_astest.glif</string>
     <key>wiggleTrillSlow</key>
     <string>wiggleT_rillS_low.glif</string>
     <key>wiggleTrillSlower</key>
     <string>wiggleT_rillS_lower.glif</string>
+    <key>wiggleTrillSlowerStill</key>
+    <string>wiggleT_rillS_lowerS_till.glif</string>
+    <key>wiggleTrillSlowest</key>
+    <string>wiggleT_rillS_lowest.glif</string>
     <key>windClosedHole</key>
     <string>windC_losedH_ole.glif</string>
     <key>windFlatEmbouchure</key>

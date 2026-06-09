@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dynamicPianoSmall" format="2">
+  <advance width="326"/>
+  <unicode hex="F46B"/>
+  <outline>
+    <component base="dynamicPiano" xScale="1.1" xOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-09 14:41:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -17,13 +17,10 @@ uniE65B
       <point x="20" y="324" type="curve" smooth="yes"/>
       <point x="222" y="324" type="line" smooth="yes"/>
       <point x="233" y="324"/>
-      <point x="240" y="319"/>
-      <point x="244" y="307" type="curve"/>
-      <point x="245" y="306"/>
-      <point x="245" y="304"/>
-      <point x="246" y="303" type="curve"/>
-      <point x="251" y="292"/>
-      <point x="251" y="284"/>
+      <point x="237" y="318"/>
+      <point x="244" y="307" type="curve" smooth="yes"/>
+      <point x="251" y="296"/>
+      <point x="252" y="285"/>
       <point x="242" y="275" type="curve" smooth="yes"/>
       <point x="93" y="127" type="line" smooth="yes"/>
       <point x="84" y="118"/>
@@ -49,9 +46,9 @@ uniE65B
       <point x="348" y="26" type="curve" smooth="yes"/>
       <point x="348" y="229" type="line" smooth="yes"/>
       <point x="348" y="241"/>
-      <point x="364" y="252"/>
-      <point x="365" y="252" type="curve"/>
-      <point x="375" y="256"/>
+      <point x="354" y="248"/>
+      <point x="365" y="252" type="curve" smooth="yes"/>
+      <point x="374" y="255"/>
       <point x="384" y="255"/>
       <point x="392" y="247" type="curve" smooth="yes"/>
       <point x="541" y="99" type="line" smooth="yes"/>
@@ -65,8 +62,8 @@ uniE65B
       <point x="409" y="276"/>
       <point x="408" y="286"/>
       <point x="414" y="296" type="curve" smooth="yes"/>
-      <point x="420" y="307" type="line"/>
-      <point x="424" y="318"/>
+      <point x="420" y="307" type="line" smooth="yes"/>
+      <point x="426" y="317"/>
       <point x="431" y="324"/>
       <point x="442" y="324" type="curve" smooth="yes"/>
       <point x="636" y="324" type="line" smooth="yes"/>
@@ -80,7 +77,7 @@ uniE65B
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-24 14:06:13 +0000</string>
+      <string>2026-06-08 10:29:52 +0000</string>
     </dict>
   </lib>
 </glyph>

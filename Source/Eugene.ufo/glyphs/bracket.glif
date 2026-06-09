@@ -20,13 +20,13 @@ uniE002
       <point x="2" y="1150"/>
       <point x="0" y="1149"/>
     </contour>
-    <component base="bracketTop" xOffset="6" yOffset="1070"/>
-    <component base="bracketBottom" xOffset="5" yOffset="-13"/>
+    <component base="bracketBottom" xOffset="77" yOffset="-116"/>
+    <component base="bracketTop" xOffset="74" yOffset="1190"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 15:17:11 +0000</string>
+      <string>2026-06-09 16:17:54 +0000</string>
     </dict>
   </lib>
 </glyph>

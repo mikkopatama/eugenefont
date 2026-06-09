@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadDoubleWholeOversized" format="2">
+  <advance width="615"/>
+  <unicode hex="F4BA"/>
+  <note>
+uniF4BA
+</note>
+  <outline>
+    <component base="noteHeadDoubleWhole" xScale="1.0611" yScale="1.0611"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-07 12:54:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

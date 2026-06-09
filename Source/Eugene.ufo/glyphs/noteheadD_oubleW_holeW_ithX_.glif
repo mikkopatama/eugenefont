@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadDoubleWholeWithX" format="2">
+  <advance width="580"/>
+  <unicode hex="E0B4"/>
+  <outline>
+    <component base="noteHeadDoubleWhole"/>
+    <contour>
+      <point x="360" y="-117" type="line"/>
+      <point x="373" y="-109" type="line"/>
+      <point x="297" y="-2" type="line"/>
+      <point x="400" y="72" type="line"/>
+      <point x="392" y="83" type="line"/>
+      <point x="289" y="9" type="line"/>
+      <point x="216" y="111" type="line"/>
+      <point x="204" y="103" type="line"/>
+      <point x="277" y="1" type="line"/>
+      <point x="173" y="-73" type="line"/>
+      <point x="181" y="-86" type="line"/>
+      <point x="285" y="-11" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-09 14:12:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>
