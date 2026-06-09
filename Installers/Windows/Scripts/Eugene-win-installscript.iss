@@ -38,7 +38,6 @@ Compression=lzma
 SolidCompression=yes
 ArchitecturesInstallIn64BitMode=x64compatible
 PrivilegesRequired=admin
-PrivilegesRequiredOverridesAllowed=dialog
 ChangesAssociations=no
 Uninstallable=no
 CreateAppDir=False
