@@ -73,13 +73,13 @@ Source: "{tmp}\EugeneText.otf"; \
 ; (C:\Program Files\Common Files\SMuFL\Fonts\Eugene\)
 Source: "{tmp}\Eugene.json"; \
     DestDir: "{commoncf}\SMuFL\Fonts\Eugene"; \
-    Flags: ignoreversion createallsubdirs external
+    Flags: ignoreversion createallsubdirs recursesubdirs external
 
 ; SMuFL metadata + fonts → MuseScore 4
 ; (C:\Users\[user]\Documents\MuseScore4\MusicFonts\Eugene\)
 Source: "{tmp}\Eugene.json"; \
     DestDir: "{userdocs}\MuseScore4\MusicFonts\Eugene"; \
-    Flags: ignoreversion createallsubdirs external
+    Flags: ignoreversion createallsubdirs recursesubdirs external
 
 Source: "{tmp}\Eugene.otf"; \
     DestDir: "{userdocs}\MuseScore4\MusicFonts\Eugene"; \
