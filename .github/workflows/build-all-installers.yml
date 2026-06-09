@@ -32,8 +32,7 @@ jobs:
 
       - name: Compile all installers
         run: |
-         iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Scripts/Eugene-win-installscript-alwayslatest.iss
-         iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Scripts/Eugene-win-installscript-versionspecific.iss
+         iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Scripts/Eugene-win-installscript.iss
 
       - name: Upload installer to Release
         uses: softprops/action-gh-release@v2
