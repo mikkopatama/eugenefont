@@ -36,8 +36,16 @@ jobs:
          iscc /DAppVersion=${{ steps.get_tag.outputs.NEWEST_RELEASE_TAG_NAME }} Installers/Windows/Scripts/Eugene-win-installscript.iss
 
       - name: Upload installer to Release
+        if: github.event_name == 'release'
         uses: softprops/action-gh-release@v2
         with:
-          files: Installers/Windows/Scripts/Output/Eugene-Win-*.exe 
+          files: Installers/Windows/Scripts/Output/Eugene-Win-*.exe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload installer as workflow artifact (manual run)
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Eugene-Win-installers
+          path: Installers/Windows/Scripts/Output/Eugene-Win-*.exe
+          retention-days: 7
