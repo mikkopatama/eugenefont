@@ -1,0 +1,65 @@
+name: Build macOS installer
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: macos-latest
+    permissions: write-all
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get latest release tag
+        id: get_tag
+        run: |
+          TAG=$(curl -s https://api.github.com/repos/mikkopatama/eugenefont/releases/latest | python3 -c "import sys,json; print(json.load(sys.stdin)['tag_name'])")
+          echo "VERSION=$TAG" >> $GITHUB_OUTPUT
+
+      - name: Download release files
+        run: |
+          VERSION=${{ steps.get_tag.outputs.VERSION }}
+          BASE="https://github.com/mikkopatama/eugenefont/releases/download/${VERSION}"
+          curl -L "${BASE}/Eugene.otf"      -o Eugene.otf
+          curl -L "${BASE}/EugeneText.otf"  -o EugeneText.otf
+          curl -L "${BASE}/Eugene.json"     -o Eugene.json
+
+      - name: Build payload directory
+        run: |
+          mkdir -p pkg_root/Library/Fonts
+          mkdir -p "pkg_root/Library/Application Support/SMuFL/Fonts/Eugene"
+          mkdir -p "pkg_root/Users/Shared/MuseScore4/MusicFonts/Eugene"
+          cp Eugene.otf     pkg_root/Library/Fonts/
+          cp EugeneText.otf pkg_root/Library/Fonts/
+          cp Eugene.json    "pkg_root/Library/Application Support/SMuFL/Fonts/Eugene/"
+          cp Eugene.json    "pkg_root/Users/Shared/MuseScore4/MusicFonts/Eugene/"
+          cp Eugene.otf     "pkg_root/Users/Shared/MuseScore4/MusicFonts/Eugene/"
+          cp EugeneText.otf "pkg_root/Users/Shared/MuseScore4/MusicFonts/Eugene/"
+
+      - name: Build .pkg
+        run: |
+          VERSION=${{ steps.get_tag.outputs.VERSION }}
+          pkgbuild \
+            --root pkg_root \
+            --identifier com.eugenefont.eugene \
+            --version "${VERSION}" \
+            --install-location / \
+            "Eugene-macOS-${VERSION}.pkg"
+
+      - name: Upload to Release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Eugene-macOS-*.pkg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload as artifact (manual run)
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Eugene-macOS-installer
+          path: Eugene-macOS-*.pkg
+          retention-days: 7
