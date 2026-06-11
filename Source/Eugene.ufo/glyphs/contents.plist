@@ -22,10 +22,22 @@
     <string>_ornamentT_urnT_rillP_refix.glif</string>
     <key>_ornamentTurnTrillSuffix</key>
     <string>_ornamentT_urnT_rillS_uffix.glif</string>
-    <key>_ottava_A</key>
-    <string>_ottava_A_.glif</string>
-    <key>_ottava_M</key>
-    <string>_ottava_M_.glif</string>
+    <key>accidental1CommaFlat</key>
+    <string>accidental1C_ommaF_lat.glif</string>
+    <key>accidental1CommaSharp</key>
+    <string>accidental1C_ommaS_harp.glif</string>
+    <key>accidental2CommaFlat</key>
+    <string>accidental2C_ommaF_lat.glif</string>
+    <key>accidental2CommaSharp</key>
+    <string>accidental2C_ommaS_harp.glif</string>
+    <key>accidental3CommaFlat</key>
+    <string>accidental3C_ommaF_lat.glif</string>
+    <key>accidental3CommaSharp</key>
+    <string>accidental3C_ommaS_harp.glif</string>
+    <key>accidental4CommaFlat</key>
+    <string>accidental4C_ommaF_lat.glif</string>
+    <key>accidental5CommaSharp</key>
+    <string>accidental5C_ommaS_harp.glif</string>
     <key>accidentalArrowDown</key>
     <string>accidentalA_rrowD_own.glif</string>
     <key>accidentalArrowUp</key>
@@ -118,6 +130,10 @@
     <string>articA_ccentA_bove.glif</string>
     <key>articAccentBelow</key>
     <string>articA_ccentB_elow.glif</string>
+    <key>articAccentStaccatoAbove</key>
+    <string>articA_ccentS_taccatoA_bove.glif</string>
+    <key>articAccentStaccatoBelow</key>
+    <string>articA_ccentS_taccatoB_elow.glif</string>
     <key>articLaissezVibrerAbove</key>
     <string>articL_aissezV_ibrerA_bove.glif</string>
     <key>articLaissezVibrerBelow</key>
@@ -130,6 +146,26 @@
     <string>articM_arcatoS_taccatoA_bove.glif</string>
     <key>articMarcatoStaccatoBelow</key>
     <string>articM_arcatoS_taccatoB_elow.glif</string>
+    <key>articMarcatoTenutoAbove</key>
+    <string>articM_arcatoT_enutoA_bove.glif</string>
+    <key>articMarcatoTenutoBelow</key>
+    <string>articM_arcatoT_enutoB_elow.glif</string>
+    <key>articSoftAccentAbove</key>
+    <string>articS_oftA_ccentA_bove.glif</string>
+    <key>articSoftAccentBelow</key>
+    <string>articS_oftA_ccentB_elow.glif</string>
+    <key>articSoftAccentStaccatoAbove</key>
+    <string>articS_oftA_ccentS_taccatoA_bove.glif</string>
+    <key>articSoftAccentStaccatoBelow</key>
+    <string>articS_oftA_ccentS_taccatoB_elow.glif</string>
+    <key>articSoftAccentTenutoAbove</key>
+    <string>articS_oftA_ccentT_enutoA_bove.glif</string>
+    <key>articSoftAccentTenutoBelow</key>
+    <string>articS_oftA_ccentT_enutoB_elow.glif</string>
+    <key>articSoftAccentTenutoStaccatoAbove</key>
+    <string>articS_oftA_ccentT_enutoS_taccatoA_bove.glif</string>
+    <key>articSoftAccentTenutoStaccatoBelow</key>
+    <string>articS_oftA_ccentT_enutoS_taccatoB_elow.glif</string>
     <key>articStaccatissimoAbove</key>
     <string>articS_taccatissimoA_bove.glif</string>
     <key>articStaccatissimoBelow</key>
@@ -152,8 +188,16 @@
     <string>articS_tressB_elow.glif</string>
     <key>articTenutoAbove</key>
     <string>articT_enutoA_bove.glif</string>
+    <key>articTenutoAccentAbove</key>
+    <string>articT_enutoA_ccentA_bove.glif</string>
+    <key>articTenutoAccentBelow</key>
+    <string>articT_enutoA_ccentB_elow.glif</string>
     <key>articTenutoBelow</key>
     <string>articT_enutoB_elow.glif</string>
+    <key>articTenutoStaccatoAbove</key>
+    <string>articT_enutoS_taccatoA_bove.glif</string>
+    <key>articTenutoStaccatoBelow</key>
+    <string>articT_enutoS_taccatoB_elow.glif</string>
     <key>articUnstressAbove</key>
     <string>articU_nstressA_bove.glif</string>
     <key>articUnstressBelow</key>
@@ -242,6 +286,8 @@
     <string>cC_lefC_hange.glif</string>
     <key>cClefFrench</key>
     <string>cC_lefF_rench.glif</string>
+    <key>cClefSmall</key>
+    <string>cC_lefS_mall.glif</string>
     <key>caesura</key>
     <string>caesura.glif</string>
     <key>caesuraCurved</key>
@@ -358,6 +404,8 @@
     <string>fC_lefC_hange.glif</string>
     <key>fClefReversed</key>
     <string>fC_lefR_eversed.glif</string>
+    <key>fClefSmall</key>
+    <string>fC_lefS_mall.glif</string>
     <key>fClefTurned</key>
     <string>fC_lefT_urned.glif</string>
     <key>fermataAbove</key>
@@ -384,6 +432,20 @@
     <string>fermataV_eryL_ongA_bove.glif</string>
     <key>fermataVeryLongBelow</key>
     <string>fermataV_eryL_ongB_elow.glif</string>
+    <key>fingering0</key>
+    <string>fingering0.glif</string>
+    <key>fingering1</key>
+    <string>fingering1.glif</string>
+    <key>fingering2</key>
+    <string>fingering2.glif</string>
+    <key>fingering3</key>
+    <string>fingering3.glif</string>
+    <key>fingering4</key>
+    <string>fingering4.glif</string>
+    <key>fingering5</key>
+    <string>fingering5.glif</string>
+    <key>fingeringSubstitutionDash</key>
+    <string>fingeringS_ubstitutionD_ash.glif</string>
     <key>flag1024thDown</key>
     <string>flag1024thD_own.glif</string>
     <key>flag1024thUp</key>
@@ -436,6 +498,8 @@
     <string>gC_lefC_hange.glif</string>
     <key>gClefReversed</key>
     <string>gC_lefR_eversed.glif</string>
+    <key>gClefSmall</key>
+    <string>gC_lefS_mall.glif</string>
     <key>gClefTurned</key>
     <string>gC_lefT_urned.glif</string>
     <key>glissandoDown</key>
@@ -660,12 +724,24 @@
     <string>noteheadX_B_lack.glif</string>
     <key>noteheadXOrnate</key>
     <string>noteheadX_O_rnate.glif</string>
+    <key>octaveBaselineA</key>
+    <string>octaveB_aselineA_.glif</string>
+    <key>octaveBaselineB</key>
+    <string>octaveB_aselineB_.glif</string>
+    <key>octaveBaselineM</key>
+    <string>octaveB_aselineM_.glif</string>
     <key>octaveBassa</key>
     <string>octaveB_assa.glif</string>
     <key>octaveParensLeft</key>
     <string>octaveP_arensL_eft.glif</string>
     <key>octaveParensRight</key>
     <string>octaveP_arensR_ight.glif</string>
+    <key>octaveSuperscriptA</key>
+    <string>octaveS_uperscriptA_.glif</string>
+    <key>octaveSuperscriptB</key>
+    <string>octaveS_uperscriptB_.glif</string>
+    <key>octaveSuperscriptM</key>
+    <string>octaveS_uperscriptM_.glif</string>
     <key>ornamentMordent</key>
     <string>ornamentM_ordent.glif</string>
     <key>ornamentPrecompAppoggTrill</key>
@@ -1126,12 +1202,6 @@
     <string>uniE_5E_1.glif</string>
     <key>uniE5E3</key>
     <string>uniE_5E_3.glif</string>
-    <key>uniF472</key>
-    <string>uniF_472.glif</string>
-    <key>uniF473</key>
-    <string>uniF_473.glif</string>
-    <key>uniF474</key>
-    <string>uniF_474.glif</string>
     <key>unpitchedPercussionClef1</key>
     <string>unpitchedP_ercussionC_lef1.glif</string>
     <key>unpitchedPercussionClef2</key>

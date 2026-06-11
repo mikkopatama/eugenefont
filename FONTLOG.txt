@@ -1,7 +1,7 @@
 FONTLOG for Eugene music font
 
-Eugene is a SMuFL-compliant OpenType music font inspired by the engraving style of E. Fromont
-publications.
+Eugene is a free music font inspired by the hand-engraved scores of Parisian publishers. It is named after Eugène Fromont — the house that first published Debussy's Suite Bergamasque in 1905.
+
 The font is licensed under the SIL Open Font License, Version 1.1.
 
 https://github.com/mikkopatama/eugenefont
@@ -10,6 +10,94 @@ https://mikkopatama.com/eugenefont
 
 Change log
 ----------
+
+11 June 2026
+
+Focusing on improving ottava, quindicesima and ventiduesima glyphs and adding fingering numbers.
+Also added some missing articulation glyphs.
+
+- Modified:
+
+	articTenutoAbove
+	articTenutoBelow
+	articStaccatoAbove
+	articStaccatoBelow
+
+	ottavaAlta
+	ottavaBassa
+	ottavaBassaBa
+	ottavaBassaVb
+	quindicesima
+	quindicesimaAlta
+	quindicesimaBassa
+	quindicesimaBassaMb
+	ventiduesima
+	ventiduesimaAlta
+	ventiduesimaBassa
+	ventiduesimaBassaMb
+
+
+- Added:
+
+	articAccentStaccatoAbove
+	articAccentStaccatoBelow
+	articMarcatoTenutoAbove
+	articMarcatoTenutoBelow
+	articTenutoAccentAbove
+	articTenutoAccentBelow
+	articTenutoStaccatoAbove
+	articTenutoStaccatoBelow
+
+	articSoftAccentAbove
+	articSoftAccentBelow
+	articSoftAccentStaccatoAbove
+	articSoftAccentStaccatoBelow
+	articSoftAccentTenutoAbove
+	articSoftAccentTenutoBelow
+	articSoftAccentTenutoStaccatoAbove
+	articSoftAccentTenutoStaccatoBelow
+
+	fingering0
+	fingering1
+	fingering2
+	fingering3
+	fingering4
+	fingering5
+	fingeringSubstitutionDash
+
+	accidental1CommaFlat
+	accidental1CommaSharp
+	accidental2CommaFlat
+	accidental2CommaSharp
+	accidental3CommaFlat
+	accidental3CommaSharp
+	accidental4CommaFlat
+	accidental5CommaSharp
+
+	octaveBaselineA
+	octaveBaselineB
+	octaveBaselineM
+	octaveSuperscriptA
+	octaveSuperscriptB
+	octaveSuperscriptM
+
+
+
+- Modified
+	gClefSmall
+	cClefSmall
+	fClefSmall
+
+	accidentalFiveQuarterTonesFlatArrowDown
+	accidentalThreeQuarterTonesFlatArrowUp
+	accidentalQuarterToneFlatNaturalArrowDown
+
+	tuplet7
+	timeSig2
+	timeSig3
+	timeSig5
+
+
 
 9 June 2026
 

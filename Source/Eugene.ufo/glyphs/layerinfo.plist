@@ -5,9 +5,11 @@
     <key>lib</key>
     <dict>
       <key>GSCornerRadius</key>
-      <integer>15</integer>
+      <integer>8</integer>
       <key>GSOffsetHorizontal</key>
-      <integer>0</integer>
+      <integer>-2</integer>
+      <key>GSOffsetProportional</key>
+      <integer>1</integer>
       <key>GSOffsetVertical</key>
       <integer>0</integer>
     </dict>

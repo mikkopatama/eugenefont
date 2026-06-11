@@ -633,21 +633,21 @@
     <false/>
     <key>public.glyphOrder</key>
     <array>
-      <string>dynamicMezzoSmall</string>
-      <string>dynamicPianoSmall</string>
       <string>braceSmall</string>
       <string>braceLarge</string>
       <string>braceLarger</string>
       <string>cClefFrench</string>
       <string>keyboardPedalPedNoDot</string>
+      <string>dynamicPianoSmall</string>
+      <string>dynamicMezzoSmall</string>
       <string>dynamicForteSmall</string>
       <string>dynamicRinforzandoSmall</string>
       <string>dynamicSforzandoSmall</string>
       <string>dynamicZSmall</string>
       <string>dynamicNienteSmall</string>
-      <string>uniF472</string>
-      <string>uniF473</string>
-      <string>uniF474</string>
+      <string>gClefSmall</string>
+      <string>cClefSmall</string>
+      <string>fClefSmall</string>
       <string>noteheadDoubleWholeOversized</string>
       <string>noteheadWholeOversized</string>
       <string>noteheadHalfOversized</string>
@@ -663,12 +663,16 @@
       <string>accidentalKucukMucennebSharp</string>
       <string>articAccentAbove</string>
       <string>articAccentBelow</string>
+      <string>articAccentStaccatoAbove</string>
+      <string>articAccentStaccatoBelow</string>
       <string>articLaissezVibrerAbove</string>
       <string>articLaissezVibrerBelow</string>
       <string>articMarcatoAbove</string>
       <string>articMarcatoBelow</string>
       <string>articMarcatoStaccatoAbove</string>
       <string>articMarcatoStaccatoBelow</string>
+      <string>articMarcatoTenutoAbove</string>
+      <string>articMarcatoTenutoBelow</string>
       <string>articStaccatissimoAbove</string>
       <string>articStaccatissimoBelow</string>
       <string>articStaccatissimoStrokeAbove</string>
@@ -680,9 +684,21 @@
       <string>articStressAbove</string>
       <string>articStressBelow</string>
       <string>articTenutoAbove</string>
+      <string>articTenutoAccentAbove</string>
+      <string>articTenutoAccentBelow</string>
       <string>articTenutoBelow</string>
+      <string>articTenutoStaccatoAbove</string>
+      <string>articTenutoStaccatoBelow</string>
       <string>articUnstressAbove</string>
       <string>articUnstressBelow</string>
+      <string>articSoftAccentAbove</string>
+      <string>articSoftAccentBelow</string>
+      <string>articSoftAccentStaccatoAbove</string>
+      <string>articSoftAccentStaccatoBelow</string>
+      <string>articSoftAccentTenutoAbove</string>
+      <string>articSoftAccentTenutoBelow</string>
+      <string>articSoftAccentTenutoStaccatoAbove</string>
+      <string>articSoftAccentTenutoStaccatoBelow</string>
       <string>repeat1Bar</string>
       <string>repeat2Bars</string>
       <string>repeat4Bars</string>
@@ -822,6 +838,13 @@
       <string>dynamicSforzatoFF</string>
       <string>dynamicSforzatoPiano</string>
       <string>dynamicZ</string>
+      <string>fingering0</string>
+      <string>fingering1</string>
+      <string>fingering2</string>
+      <string>fingering3</string>
+      <string>fingering4</string>
+      <string>fingering5</string>
+      <string>fingeringSubstitutionDash</string>
       <string>flag1024thDown</string>
       <string>flag1024thUp</string>
       <string>flag128thDown</string>
@@ -990,6 +1013,12 @@
       <string>ventiduesimaAlta</string>
       <string>ventiduesimaBassa</string>
       <string>ventiduesimaBassaMb</string>
+      <string>octaveBaselineA</string>
+      <string>octaveBaselineB</string>
+      <string>octaveBaselineM</string>
+      <string>octaveSuperscriptA</string>
+      <string>octaveSuperscriptB</string>
+      <string>octaveSuperscriptM</string>
       <string>glissandoDown</string>
       <string>glissandoUp</string>
       <string>ornamentSchleifer</string>
@@ -1192,6 +1221,14 @@
       <string>tuplet7</string>
       <string>tuplet8</string>
       <string>tuplet9</string>
+      <string>accidental1CommaFlat</string>
+      <string>accidental1CommaSharp</string>
+      <string>accidental2CommaFlat</string>
+      <string>accidental2CommaSharp</string>
+      <string>accidental3CommaFlat</string>
+      <string>accidental3CommaSharp</string>
+      <string>accidental4CommaFlat</string>
+      <string>accidental5CommaSharp</string>
       <string>timeSig0Turned</string>
       <string>timeSig1Turned</string>
       <string>timeSig2Turned</string>
@@ -1230,8 +1267,6 @@
       <string>_ornamentTreblement</string>
       <string>_ornamentTurnTrillPrefix</string>
       <string>_ornamentTurnTrillSuffix</string>
-      <string>_ottava_A</string>
-      <string>_ottava_M</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -1540,8 +1575,6 @@
       <string>_ornamentTreblement</string>
       <string>_ornamentTurnTrillPrefix</string>
       <string>_ornamentTurnTrillSuffix</string>
-      <string>_ottava_A</string>
-      <string>_ottava_M</string>
     </array>
   </dict>
 </plist>

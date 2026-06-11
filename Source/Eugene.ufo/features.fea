@@ -52,9 +52,9 @@ featureNames {
 script DFLT;
 language dflt;
 lookup SUB_1 {
-	sub gClef from [uniF472];
-	sub cClef from [uniF473];
-	sub fClef from [uniF474];
+	sub gClef from [gClefSmall];
+	sub cClef from [cClefSmall];
+	sub fClef from [fClefSmall];
 	sub dynamicPiano from [dynamicPianoSmall];
 	sub dynamicMezzo from [dynamicMezzoSmall];
 	sub dynamicForte from [dynamicForteSmall];

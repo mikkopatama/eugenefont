@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniF474" format="2">
-  <advance width="721"/>
+<glyph name="fClefSmall" format="2">
+  <advance width="669"/>
   <unicode hex="F474"/>
   <note>
 uniF474
 </note>
   <outline>
-    <component base="fClefChange" xScale="1.331" yScale="1.331" yOffset="4"/>
+    <component base="fClef" xScale="1.05" yScale="1.05" yOffset="-8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 16:43:02 +0000</string>
+      <string>2026-06-09 21:42:55 +0000</string>
     </dict>
   </lib>
 </glyph>

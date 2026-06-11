@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="accidental3CommaSharp" format="2">
+  <advance width="446"/>
+  <unicode hex="E452"/>
+  <note>
+uniE452
+</note>
+  <outline>
+    <component base="fingering3" xOffset="266" yOffset="225"/>
+    <component base="accidentalSharp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-10 11:54:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

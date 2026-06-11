@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quindicesimaAlta" format="2">
-  <advance width="1140"/>
+  <advance width="1088"/>
   <unicode hex="E515"/>
   <note>
 quindicesimaAlta
 </note>
   <outline>
-    <component base="quindicesima" xOffset="15"/>
-    <component base="_ottava_A" xOffset="600" yOffset="-50"/>
-    <component base="_ottava_M" yOffset="60"/>
+    <component base="quindicesima"/>
+    <component base="octaveSuperscriptM" xOffset="500"/>
+    <component base="octaveSuperscriptA" xOffset="900" yOffset="-40"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-02 09:47:19 +0000</string>
+      <string>2026-06-11 09:16:54 +0000</string>
     </dict>
   </lib>
 </glyph>

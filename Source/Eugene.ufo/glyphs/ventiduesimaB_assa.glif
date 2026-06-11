@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ventiduesimaBassa" format="2">
-  <advance width="1312"/>
+  <advance width="1194"/>
   <unicode hex="E519"/>
   <note>
 ventiduesimaBassa
 </note>
   <outline>
     <component base="ventiduesima"/>
-    <component base="_ottava_A" xOffset="750" yOffset="-268"/>
-    <component base="_ottava_M" xOffset="150" yOffset="-158"/>
+    <component base="octaveBaselineM" xOffset="610"/>
+    <component base="octaveBaselineA" xOffset="1003"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-01 21:06:40 +0000</string>
+      <string>2026-06-11 09:18:48 +0000</string>
     </dict>
   </lib>
 </glyph>
