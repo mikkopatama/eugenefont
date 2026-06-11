@@ -20,6 +20,7 @@ lookup SUB_0 {
 	sub dynamicPiano dynamicForte by dynamicPF;
 	sub dynamicMezzo dynamicPiano by dynamicMP;
 	sub dynamicMezzo dynamicForte by dynamicMF;
+	sub dynamicForte dynamicForte dynamicForte dynamicForte dynamicForte dynamicForte by dynamicFFFFFF;
 	sub dynamicForte dynamicForte dynamicForte dynamicForte dynamicForte by dynamicFFFFF;
 	sub dynamicForte dynamicForte dynamicForte dynamicForte by dynamicFFFF;
 	sub dynamicForte dynamicForte dynamicForte by dynamicFFF;

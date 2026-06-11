@@ -1186,6 +1186,8 @@
     <string>tuplet8.glif</string>
     <key>tuplet9</key>
     <string>tuplet9.glif</string>
+    <key>tupletColon</key>
+    <string>tupletC_olon.glif</string>
     <key>uniE043</key>
     <string>uniE_043.glif</string>
     <key>uniE05A</key>

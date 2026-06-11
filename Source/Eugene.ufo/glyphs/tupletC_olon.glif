@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tupletColon" format="2">
+  <advance width="147"/>
+  <unicode hex="E88A"/>
+  <note>
+uniE88A
+</note>
+  <outline>
+    <contour>
+      <point x="58" y="63" type="curve" smooth="yes"/>
+      <point x="77" y="63"/>
+      <point x="93" y="78"/>
+      <point x="93" y="101" type="curve" smooth="yes"/>
+      <point x="93" y="118"/>
+      <point x="80" y="133"/>
+      <point x="61" y="133" type="curve" smooth="yes"/>
+      <point x="41" y="133"/>
+      <point x="25" y="118"/>
+      <point x="25" y="96" type="curve" smooth="yes"/>
+      <point x="25" y="78"/>
+      <point x="38" y="63"/>
+    </contour>
+    <contour>
+      <point x="86" y="203" type="curve" smooth="yes"/>
+      <point x="105" y="203"/>
+      <point x="122" y="218"/>
+      <point x="122" y="241" type="curve" smooth="yes"/>
+      <point x="122" y="258"/>
+      <point x="108" y="273"/>
+      <point x="89" y="273" type="curve" smooth="yes"/>
+      <point x="69" y="273"/>
+      <point x="54" y="258"/>
+      <point x="54" y="236" type="curve" smooth="yes"/>
+      <point x="54" y="218"/>
+      <point x="66" y="203"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-11 16:49:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

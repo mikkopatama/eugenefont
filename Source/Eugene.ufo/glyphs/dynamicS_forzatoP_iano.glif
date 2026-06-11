@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dynamicSforzatoPiano" format="2">
-  <advance width="957"/>
+  <advance width="948"/>
   <unicode hex="E53A"/>
   <note>
 uniE53A
@@ -178,7 +178,7 @@ uniE53A
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-02 20:25:40 +0000</string>
+      <string>2026-06-11 17:04:01 +0000</string>
     </dict>
   </lib>
 </glyph>

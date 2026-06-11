@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tuplet3" format="2">
-  <advance width="299"/>
+  <advance width="309"/>
   <unicode hex="E883"/>
   <note>
 uniE883
@@ -81,7 +81,7 @@ uniE883
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-10 10:38:25 +0000</string>
+      <string>2026-06-11 16:39:49 +0000</string>
     </dict>
   </lib>
 </glyph>

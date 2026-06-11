@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dynamicForte" format="2">
-  <advance width="356"/>
+  <advance width="265"/>
   <unicode hex="E522"/>
   <note>
 uniE522
@@ -92,7 +92,7 @@ uniE522
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-08 10:15:46 +0000</string>
+      <string>2026-06-11 17:42:05 +0000</string>
     </dict>
   </lib>
 </glyph>

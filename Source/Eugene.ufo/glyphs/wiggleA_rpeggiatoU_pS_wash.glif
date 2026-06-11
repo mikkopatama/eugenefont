@@ -5,6 +5,7 @@
   <note>
 uniEAAB
 </note>
+  <anchor x="449" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="90" y="115" type="curve" smooth="yes"/>
@@ -57,7 +58,7 @@ uniEAAB
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-28 09:44:01 +0000</string>
+      <string>2026-06-11 16:29:24 +0000</string>
     </dict>
   </lib>
 </glyph>

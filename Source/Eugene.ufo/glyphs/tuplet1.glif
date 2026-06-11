@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tuplet1" format="2">
-  <advance width="204"/>
+  <advance width="209"/>
   <unicode hex="E881"/>
   <note>
 tuplet5
@@ -70,7 +70,7 @@ tuplet5
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-10 10:38:05 +0000</string>
+      <string>2026-06-11 16:43:02 +0000</string>
     </dict>
   </lib>
 </glyph>

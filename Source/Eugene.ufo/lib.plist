@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>/timeSig6</string>
+    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3436</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -1221,6 +1225,7 @@
       <string>tuplet7</string>
       <string>tuplet8</string>
       <string>tuplet9</string>
+      <string>tupletColon</string>
       <string>accidental1CommaFlat</string>
       <string>accidental1CommaSharp</string>
       <string>accidental2CommaFlat</string>
