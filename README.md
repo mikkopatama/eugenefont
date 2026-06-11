@@ -9,7 +9,7 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 587
+Current glyph count: 624
 
 <img src="/Screenshot.png" />
 
