@@ -11,6 +11,11 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+13 June 2026 (v. 1.311)
+
+Minor patch, correcting arpeggiatoline swash ending position and tuplet number spacing.
+
+
 11 June 2026 (v. 1.31)
 
 Improvements to dynamic letter spacing, time signature kerning, tuplet number spacing and arpeggiato lines with swash ends. Also some tweaks to engraving defaults.

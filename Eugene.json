@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "1.310",
+  "fontVersion": "1.311",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -2339,92 +2339,92 @@
     },
     "dynamicFF": {
       "bBoxNE": [
-        2.348,
-        1.704
+        2.3,
+        1.696
       ],
       "bBoxSW": [
-        -0.46,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicFFF": {
       "bBoxNE": [
-        3.18,
-        1.704
+        3.112,
+        1.696
       ],
       "bBoxSW": [
-        -0.464,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicFFFF": {
       "bBoxNE": [
-        4.0,
-        1.704
+        3.912,
+        1.696
       ],
       "bBoxSW": [
-        -0.46,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicFFFFF": {
       "bBoxNE": [
-        4.828,
-        1.704
+        4.712,
+        1.696
       ],
       "bBoxSW": [
-        -0.464,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicFFFFFF": {
       "bBoxNE": [
-        5.656,
-        1.704
+        5.512,
+        1.696
       ],
       "bBoxSW": [
-        -0.464,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicForte": {
       "bBoxNE": [
-        1.52,
-        1.704
+        1.512,
+        1.696
       ],
       "bBoxSW": [
-        -0.464,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicFortePiano": {
       "bBoxNE": [
         2.357,
-        1.704
+        1.696
       ],
       "bBoxSW": [
-        -0.464,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicForzando": {
       "bBoxNE": [
         1.731,
-        1.704
+        1.696
       ],
       "bBoxSW": [
-        -0.464,
-        -0.6
+        -0.456,
+        -0.592
       ]
     },
     "dynamicMF": {
       "bBoxNE": [
         3.052,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         -0.091,
-        -0.6
+        -0.592
       ]
     },
     "dynamicMP": {
@@ -2460,11 +2460,11 @@
     "dynamicPF": {
       "bBoxNE": [
         2.94,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         -0.001,
-        -0.6
+        -0.592
       ]
     },
     "dynamicPP": {
@@ -2540,21 +2540,21 @@
     "dynamicRinforzando1": {
       "bBoxNE": [
         2.42,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicRinforzando2": {
       "bBoxNE": [
         2.683,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicSforzando": {
@@ -2570,61 +2570,61 @@
     "dynamicSforzando1": {
       "bBoxNE": [
         2.248,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicSforzandoPianissimo": {
       "bBoxNE": [
         4.333,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicSforzandoPiano": {
       "bBoxNE": [
         3.165,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicSforzato": {
       "bBoxNE": [
         2.631,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicSforzatoFF": {
       "bBoxNE": [
         3.375,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicSforzatoPiano": {
       "bBoxNE": [
         3.793,
-        1.704
+        1.696
       ],
       "bBoxSW": [
         0.0,
-        -0.6
+        -0.592
       ]
     },
     "dynamicZ": {
@@ -6469,17 +6469,17 @@
     },
     "tuplet0": {
       "bBoxNE": [
-        1.213,
+        1.056,
         1.444
       ],
       "bBoxSW": [
-        0.041,
+        0.04,
         0.0
       ]
     },
     "tuplet1": {
       "bBoxNE": [
-        0.858,
+        0.778,
         1.428
       ],
       "bBoxSW": [
@@ -6559,8 +6559,8 @@
     },
     "tuplet9": {
       "bBoxNE": [
-        1.068,
-        1.412
+        1.064,
+        1.428
       ],
       "bBoxSW": [
         0.072,
@@ -6739,12 +6739,12 @@
     },
     "wiggleArpeggiatoDownSwash": {
       "bBoxNE": [
-        1.88,
-        0.547
+        1.944,
+        0.551
       ],
       "bBoxSW": [
-        -0.132,
-        0.024
+        -0.068,
+        0.028
       ]
     },
     "wiggleArpeggiatoUp": {
@@ -6769,11 +6769,11 @@
     },
     "wiggleArpeggiatoUpSwash": {
       "bBoxNE": [
-        1.84,
+        1.784,
         0.543
       ],
       "bBoxSW": [
-        -0.132,
+        -0.188,
         0.02
       ]
     },
