@@ -582,6 +582,8 @@
     <string>noteheadB_lack.glif</string>
     <key>noteheadBlackOversized</key>
     <string>noteheadB_lackO_versized.glif</string>
+    <key>noteheadBlackSmall</key>
+    <string>noteheadB_lackS_mall.glif</string>
     <key>noteheadCircleX</key>
     <string>noteheadC_ircleX_.glif</string>
     <key>noteheadCircledBlack</key>
@@ -622,6 +624,8 @@
     <string>noteheadH_alfF_illed.glif</string>
     <key>noteheadHalfOversized</key>
     <string>noteheadH_alfO_versized.glif</string>
+    <key>noteheadHalfSmall</key>
+    <string>noteheadH_alfS_mall.glif</string>
     <key>noteheadHalfWithX</key>
     <string>noteheadH_alfW_ithX_.glif</string>
     <key>noteheadMoonBlack</key>

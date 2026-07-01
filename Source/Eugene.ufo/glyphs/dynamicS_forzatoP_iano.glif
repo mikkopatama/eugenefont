@@ -6,87 +6,6 @@
 uniE53A
 </note>
   <outline>
-    <contour>
-      <point x="151" y="-150" type="curve" smooth="yes"/>
-      <point x="181" y="-150"/>
-      <point x="228" y="-132"/>
-      <point x="282" y="-70" type="curve" smooth="yes"/>
-      <point x="319" y="-24"/>
-      <point x="366" y="68"/>
-      <point x="391" y="207" type="curve" smooth="yes"/>
-      <point x="391" y="209"/>
-      <point x="395" y="219"/>
-      <point x="400" y="219" type="curve" smooth="yes"/>
-      <point x="465" y="219" type="line" smooth="yes"/>
-      <point x="476" y="219"/>
-      <point x="481" y="235"/>
-      <point x="481" y="246" type="curve" smooth="yes"/>
-      <point x="481" y="256"/>
-      <point x="477" y="263"/>
-      <point x="467" y="263" type="curve" smooth="yes"/>
-      <point x="405" y="263" type="line" smooth="yes"/>
-      <point x="404" y="263"/>
-      <point x="404" y="267"/>
-      <point x="404" y="277" type="curve" smooth="yes"/>
-      <point x="404" y="284"/>
-      <point x="405" y="290"/>
-      <point x="406" y="296" type="curve" smooth="yes"/>
-      <point x="418" y="384"/>
-      <point x="445" y="396"/>
-      <point x="468" y="399" type="curve" smooth="yes"/>
-      <point x="476" y="400"/>
-      <point x="477" y="397"/>
-      <point x="478" y="394" type="curve" smooth="yes"/>
-      <point x="479" y="391"/>
-      <point x="481" y="386"/>
-      <point x="479" y="383" type="curve" smooth="yes"/>
-      <point x="475" y="378"/>
-      <point x="466" y="378"/>
-      <point x="466" y="359" type="curve" smooth="yes"/>
-      <point x="466" y="336"/>
-      <point x="485" y="311"/>
-      <point x="509" y="308" type="curve" smooth="yes"/>
-      <point x="532" y="305"/>
-      <point x="567" y="321"/>
-      <point x="567" y="358" type="curve" smooth="yes"/>
-      <point x="567" y="389"/>
-      <point x="537" y="428"/>
-      <point x="484" y="426" type="curve" smooth="yes"/>
-      <point x="373" y="422"/>
-      <point x="344" y="360"/>
-      <point x="287" y="263" type="curve"/>
-      <point x="261" y="263" type="line"/>
-      <point x="240" y="263" type="line" smooth="yes"/>
-      <point x="230" y="263"/>
-      <point x="222" y="257"/>
-      <point x="221" y="246" type="curve" smooth="yes"/>
-      <point x="220" y="231"/>
-      <point x="225" y="219"/>
-      <point x="239" y="219" type="curve" smooth="yes"/>
-      <point x="251" y="219" type="line" smooth="yes"/>
-      <point x="264" y="219"/>
-      <point x="276" y="220"/>
-      <point x="275" y="216" type="curve" smooth="yes"/>
-      <point x="272" y="198" type="line"/>
-      <point x="237" y="-9" type="line" smooth="yes"/>
-      <point x="227" y="-69"/>
-      <point x="204" y="-114"/>
-      <point x="189" y="-112" type="curve" smooth="yes"/>
-      <point x="180" y="-111"/>
-      <point x="166" y="-101"/>
-      <point x="169" y="-93" type="curve" smooth="yes"/>
-      <point x="172" y="-85"/>
-      <point x="180" y="-83"/>
-      <point x="180" y="-67" type="curve" smooth="yes"/>
-      <point x="180" y="-41"/>
-      <point x="165" y="-19"/>
-      <point x="129" y="-19" type="curve" smooth="yes"/>
-      <point x="91" y="-19"/>
-      <point x="71" y="-46"/>
-      <point x="71" y="-80" type="curve" smooth="yes"/>
-      <point x="71" y="-112"/>
-      <point x="115" y="-150"/>
-    </contour>
     <component base="dynamicSforzando"/>
     <component base="dynamicZ" xOffset="457" yOffset="7"/>
     <contour>
@@ -174,11 +93,12 @@ uniE53A
       <point x="865" y="134"/>
       <point x="863" y="65"/>
     </contour>
+    <component base="dynamicForte" xOffset="190"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-11 17:04:01 +0000</string>
+      <string>2026-06-12 08:25:16 +0000</string>
     </dict>
   </lib>
 </glyph>

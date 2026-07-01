@@ -81,8 +81,6 @@
       <integer>-8</integer>
       <key>wiggleTrillFasterStill</key>
       <integer>-2</integer>
-      <key>wiggleTrillSlow</key>
-      <integer>24</integer>
       <key>wiggleTrillSlowerStill</key>
       <integer>0</integer>
       <key>wiggleTrillSlowest</key>
@@ -90,8 +88,6 @@
     </dict>
     <key>wiggleTrillFast</key>
     <dict>
-      <key>wiggleTrill</key>
-      <integer>5</integer>
       <key>wiggleTrillFaster</key>
       <integer>-3</integer>
       <key>wiggleTrillFastest</key>
@@ -101,8 +97,6 @@
     </dict>
     <key>wiggleTrillFaster</key>
     <dict>
-      <key>wiggleTrillFast</key>
-      <integer>0</integer>
       <key>wiggleTrillFasterStill</key>
       <integer>9</integer>
       <key>wiggleTrillFastest</key>
@@ -112,10 +106,8 @@
     <dict>
       <key>wiggleTrillFast</key>
       <integer>0</integer>
-      <key>wiggleTrillFaster</key>
-      <integer>-10</integer>
       <key>wiggleTrillFastest</key>
-      <integer>-9</integer>
+      <integer>0</integer>
     </dict>
     <key>wiggleTrillFastest</key>
     <dict>
@@ -133,7 +125,7 @@
       <key>wiggleTrillFaster</key>
       <integer>-22</integer>
       <key>wiggleTrillSlower</key>
-      <integer>7</integer>
+      <integer>0</integer>
       <key>wiggleTrillSlowerStill</key>
       <integer>-31</integer>
     </dict>
@@ -144,14 +136,14 @@
       <key>wiggleTrillFaster</key>
       <integer>-31</integer>
       <key>wiggleTrillSlow</key>
-      <integer>-6</integer>
+      <integer>0</integer>
       <key>wiggleTrillSlowerStill</key>
-      <integer>-36</integer>
+      <integer>0</integer>
     </dict>
     <key>wiggleTrillSlowerStill</key>
     <dict>
       <key>wiggleTrillSlow</key>
-      <integer>29</integer>
+      <integer>0</integer>
       <key>wiggleTrillSlower</key>
       <integer>35</integer>
     </dict>

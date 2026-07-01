@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>com.schriftgestaltung.DisplayStrings</key>
-    <array>
-      <string>/timeSig6</string>
-    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3436</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -522,9 +518,9 @@
           <string>tuplet7</string>
           <string>tuplet8</string>
           <string>tuplet9</string>
-          <string>wiggleTrillFaster</string>
-          <string>wiggleTrillFasterStill</string>
           <string>wiggleTrillFastest</string>
+          <string>wiggleTrillFasterStill</string>
+          <string>wiggleTrillFaster</string>
           <string>wiggleTrillFast</string>
           <string>wiggleTrill</string>
           <string>wiggleTrillSlow</string>
@@ -611,12 +607,6 @@
           <string>_ottava_M</string>
         </array>
       </dict>
-      <dict>
-        <key>name</key>
-        <string>Don't use Production Names</string>
-        <key>value</key>
-        <integer>0</integer>
-      </dict>
     </array>
     <key>com.schriftgestaltung.fontMaster.customParameters</key>
     <array>
@@ -631,6 +621,21 @@
     <string>m01</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
+    <key>com.schriftgestaltung.instance.customParameters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Export Mac Name Table Entries</string>
+        <key>value</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Compatible name Table</string>
+        <key>value</key>
+        <integer>1</integer>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.useGlyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.useNiceNames</key>
@@ -642,6 +647,8 @@
       <string>braceLarger</string>
       <string>cClefFrench</string>
       <string>keyboardPedalPedNoDot</string>
+      <string>noteheadHalfSmall</string>
+      <string>noteheadBlackSmall</string>
       <string>dynamicPianoSmall</string>
       <string>dynamicMezzoSmall</string>
       <string>dynamicForteSmall</string>

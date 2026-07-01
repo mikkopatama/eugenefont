@@ -7,55 +7,55 @@ uniED11
 </note>
   <outline>
     <contour>
-      <point x="68" y="196" type="curve" smooth="yes"/>
-      <point x="26" y="136" type="line"/>
-      <point x="22" y="131"/>
-      <point x="19" y="115"/>
-      <point x="26" y="110" type="curve" smooth="yes"/>
-      <point x="32" y="106"/>
-      <point x="37" y="109"/>
-      <point x="43" y="115" type="curve" smooth="yes"/>
-      <point x="50" y="122"/>
-      <point x="69" y="150"/>
-      <point x="80" y="150" type="curve" smooth="yes"/>
-      <point x="83" y="150"/>
-      <point x="88" y="148"/>
-      <point x="88" y="136" type="curve" smooth="yes"/>
-      <point x="88" y="42" type="line" smooth="yes"/>
-      <point x="88" y="31"/>
-      <point x="82" y="17"/>
-      <point x="66" y="17" type="curve" smooth="yes"/>
-      <point x="54" y="17"/>
-      <point x="50" y="16"/>
-      <point x="50" y="10" type="curve" smooth="yes"/>
-      <point x="50" y="5"/>
+      <point x="68" y="202" type="curve" smooth="yes"/>
+      <point x="26" y="140" type="line"/>
+      <point x="22" y="135"/>
+      <point x="19" y="117"/>
+      <point x="26" y="113" type="curve" smooth="yes"/>
+      <point x="32" y="108"/>
+      <point x="37" y="112"/>
+      <point x="43" y="117" type="curve" smooth="yes"/>
+      <point x="50" y="125"/>
+      <point x="69" y="154"/>
+      <point x="80" y="154" type="curve" smooth="yes"/>
+      <point x="83" y="154"/>
+      <point x="88" y="152"/>
+      <point x="88" y="140" type="curve" smooth="yes"/>
+      <point x="88" y="41" type="line" smooth="yes"/>
+      <point x="88" y="30"/>
+      <point x="82" y="15"/>
+      <point x="66" y="15" type="curve" smooth="yes"/>
+      <point x="54" y="15"/>
+      <point x="50" y="14"/>
+      <point x="50" y="9" type="curve" smooth="yes"/>
       <point x="50" y="3"/>
-      <point x="59" y="3" type="curve" smooth="yes"/>
-      <point x="156" y="3" type="line" smooth="yes"/>
-      <point x="159" y="3"/>
-      <point x="162" y="5"/>
-      <point x="162" y="10" type="curve" smooth="yes"/>
-      <point x="162" y="15"/>
-      <point x="154" y="16"/>
-      <point x="149" y="16" type="curve" smooth="yes"/>
-      <point x="138" y="16"/>
-      <point x="138" y="31"/>
-      <point x="138" y="42" type="curve" smooth="yes"/>
-      <point x="138" y="225" type="line" smooth="yes"/>
-      <point x="138" y="235"/>
-      <point x="127" y="246"/>
-      <point x="116" y="246" type="curve" smooth="yes"/>
-      <point x="98" y="246"/>
-      <point x="95" y="240"/>
-      <point x="90" y="231" type="curve" smooth="yes"/>
-      <point x="82" y="218"/>
-      <point x="74" y="204"/>
+      <point x="50" y="1"/>
+      <point x="59" y="1" type="curve" smooth="yes"/>
+      <point x="156" y="1" type="line" smooth="yes"/>
+      <point x="159" y="1"/>
+      <point x="162" y="3"/>
+      <point x="162" y="9" type="curve" smooth="yes"/>
+      <point x="162" y="14"/>
+      <point x="154" y="14"/>
+      <point x="149" y="14" type="curve" smooth="yes"/>
+      <point x="138" y="14"/>
+      <point x="138" y="30"/>
+      <point x="138" y="41" type="curve" smooth="yes"/>
+      <point x="138" y="232" type="line" smooth="yes"/>
+      <point x="138" y="242"/>
+      <point x="127" y="254"/>
+      <point x="116" y="254" type="curve" smooth="yes"/>
+      <point x="98" y="254"/>
+      <point x="95" y="248"/>
+      <point x="90" y="239" type="curve" smooth="yes"/>
+      <point x="82" y="225"/>
+      <point x="74" y="211"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-10 11:03:31 +0000</string>
+      <string>2026-07-01 12:16:35 +0000</string>
     </dict>
   </lib>
 </glyph>

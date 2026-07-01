@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wiggleTrillFasterStill" format="2">
-  <advance width="143"/>
+  <advance width="144"/>
   <unicode hex="EAA1"/>
   <note>
 uniEAA2
 </note>
-  <anchor x="143" y="0" name="repeatOffset"/>
+  <anchor x="144" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="52" y="204" type="curve" smooth="yes"/>
@@ -61,7 +61,7 @@ uniEAA2
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-08 07:53:37 +0000</string>
+      <string>2026-06-26 08:21:17 +0000</string>
     </dict>
   </lib>
 </glyph>

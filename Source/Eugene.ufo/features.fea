@@ -63,6 +63,8 @@ lookup SUB_1 {
 	sub dynamicSforzando from [dynamicSforzandoSmall];
 	sub dynamicZ from [dynamicZSmall];
 	sub dynamicNiente from [dynamicNienteSmall];
+	sub noteheadHalf from [noteheadHalfSmall];
+	sub noteheadBlack from [noteheadBlackSmall];
 } SUB_1;
 } ss01;
 

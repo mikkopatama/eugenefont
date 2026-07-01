@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noteheadHalfSmall" format="2">
+  <advance width="312"/>
+  <unicode hex="F469"/>
+  <note>
+uniE0A3
+</note>
+  <anchor x="0" y="-58" name="stemDownNW"/>
+  <anchor x="312" y="47" name="stemUpSE"/>
+  <outline>
+    <component base="noteheadHalf" xScale="1.095" yScale="1.095"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-28 08:55:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

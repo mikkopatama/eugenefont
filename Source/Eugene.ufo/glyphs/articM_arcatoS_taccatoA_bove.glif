@@ -6,26 +6,13 @@
 uniE4AE
 </note>
   <outline>
-    <contour>
-      <point x="131" y="35" type="curve" smooth="yes"/>
-      <point x="131" y="54"/>
-      <point x="115" y="70"/>
-      <point x="96" y="70" type="curve" smooth="yes"/>
-      <point x="76" y="70"/>
-      <point x="60" y="54"/>
-      <point x="60" y="35" type="curve" smooth="yes"/>
-      <point x="60" y="16"/>
-      <point x="76" y="0"/>
-      <point x="96" y="0" type="curve" smooth="yes"/>
-      <point x="115" y="0"/>
-      <point x="131" y="16"/>
-    </contour>
     <component base="articMarcatoAbove" yOffset="66"/>
+    <component base="articStaccatoAbove" xOffset="59"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-10 21:07:42 +0000</string>
+      <string>2026-07-01 12:04:32 +0000</string>
     </dict>
   </lib>
 </glyph>
