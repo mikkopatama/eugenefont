@@ -11,6 +11,37 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+1 July 2026 (v. 1.4)
+
+- Corrected wiggleTrill spacing issue: now the trill wiggles with different speeds should connect smoothly
+
+- noteheadHalf turned out to be too small when using smaller staff sizes (the noteheads in a 
+chord would not connect), should be fixed now
+
+- noteheadXBlack glyph was replaced with the Bravura glyph, since the old design would not 
+anchor properly when using Diamond and X Noteheads.
+
+
+- Modified:
+
+	gClef8vbOld
+
+	articMarcatoStaccatoAbove
+	articMarcatoStaccatoBelow
+
+	wiggleTrill
+	wiggleTrillFast
+	wiggleTrillFaster
+	wiggleTrillFasterStill
+	wiggleTrillFastest
+	wiggleTrillSlow
+	wiggleTrillSlower
+	wiggleTrillSlowerStill
+	wiggleTrillSlowest
+
+	fingering1
+
+
 13 June 2026 (v. 1.311)
 
 Minor patch, correcting arpeggiatoline swash ending position and tuplet number spacing.

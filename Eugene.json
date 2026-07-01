@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "1.311",
+  "fontVersion": "1.400",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -496,7 +496,7 @@
     "noteheadHalf": {
       "stemDownNW": [
         0.0,
-        -0.22
+        -0.212
       ],
       "stemUpSE": [
         1.14,
@@ -859,12 +859,12 @@
     },
     "noteheadXBlack": {
       "stemDownNW": [
-        0.004,
-        -0.452
+        0.0,
+        -0.444
       ],
       "stemUpSE": [
-        1.288,
-        0.468
+        1.16,
+        0.444
       ]
     },
     "noteheadXOrnate": {
@@ -915,13 +915,13 @@
     },
     "wiggleTrill": {
       "repeatOffset": [
-        1.02,
+        1.024,
         0.0
       ]
     },
     "wiggleTrillFast": {
       "repeatOffset": [
-        0.852,
+        0.848,
         0.0
       ]
     },
@@ -933,31 +933,31 @@
     },
     "wiggleTrillFasterStill": {
       "repeatOffset": [
-        0.572,
+        0.576,
         0.0
       ]
     },
     "wiggleTrillFastest": {
       "repeatOffset": [
-        0.448,
+        0.444,
         0.0
       ]
     },
     "wiggleTrillSlow": {
       "repeatOffset": [
-        1.176,
+        1.196,
         0.0
       ]
     },
     "wiggleTrillSlower": {
       "repeatOffset": [
-        1.332,
+        1.3,
         0.0
       ]
     },
     "wiggleTrillSlowerStill": {
       "repeatOffset": [
-        1.584,
+        1.556,
         0.0
       ]
     },
@@ -2870,11 +2870,11 @@
     "fingering1": {
       "bBoxNE": [
         0.648,
-        0.984
+        1.016
       ],
       "bBoxSW": [
         0.087,
-        0.012
+        0.004
       ]
     },
     "fingering2": {
@@ -3149,12 +3149,12 @@
     },
     "gClef8vbOld": {
       "bBoxNE": [
-        3.92,
-        3.92
+        4.045,
+        4.076
       ],
       "bBoxSW": [
         0.0,
-        -2.36
+        -2.481
       ]
     },
     "gClef8vbParens": {
@@ -3740,11 +3740,11 @@
     "noteheadHalf": {
       "bBoxNE": [
         1.14,
-        0.515
+        0.527
       ],
       "bBoxSW": [
         0.0,
-        -0.532
+        -0.54
       ]
     },
     "noteheadHalfFilled": {
@@ -4239,12 +4239,12 @@
     },
     "noteheadXBlack": {
       "bBoxNE": [
-        1.29,
-        0.531
+        1.16,
+        0.5
       ],
       "bBoxSW": [
-        0.001,
-        -0.518
+        0.0,
+        -0.5
       ]
     },
     "noteheadXOrnate": {
@@ -4849,11 +4849,11 @@
     },
     "repeatDot": {
       "bBoxNE": [
-        0.4,
+        0.384,
         0.196
       ],
       "bBoxSW": [
-        0.016,
+        0.0,
         -0.196
       ]
     },
@@ -5779,12 +5779,12 @@
     },
     "timeSig1Reversed": {
       "bBoxNE": [
-        1.22,
-        1.008
+        1.2,
+        0.968
       ],
       "bBoxSW": [
         0.08,
-        -0.98
+        -1.02
       ]
     },
     "timeSig1Turned": {
@@ -6789,31 +6789,31 @@
     },
     "wiggleTrill": {
       "bBoxNE": [
-        1.172,
+        1.16,
         0.828
       ],
       "bBoxSW": [
-        -0.132,
+        -0.144,
         0.372
       ]
     },
     "wiggleTrillFast": {
       "bBoxNE": [
-        1.016,
+        0.98,
         0.817
       ],
       "bBoxSW": [
-        -0.088,
+        -0.124,
         0.4
       ]
     },
     "wiggleTrillFaster": {
       "bBoxNE": [
-        0.856,
+        0.816,
         0.817
       ],
       "bBoxSW": [
-        -0.048,
+        -0.088,
         0.4
       ]
     },
@@ -6829,41 +6829,41 @@
     },
     "wiggleTrillFastest": {
       "bBoxNE": [
-        0.572,
+        0.532,
         0.817
       ],
       "bBoxSW": [
-        -0.012,
+        -0.052,
         0.4
       ]
     },
     "wiggleTrillSlow": {
       "bBoxNE": [
-        1.256,
+        1.336,
         0.828
       ],
       "bBoxSW": [
-        -0.248,
+        -0.168,
         0.372
       ]
     },
     "wiggleTrillSlower": {
       "bBoxNE": [
-        1.404,
+        1.492,
         0.828
       ],
       "bBoxSW": [
-        -0.296,
+        -0.208,
         0.372
       ]
     },
     "wiggleTrillSlowerStill": {
       "bBoxNE": [
-        1.832,
+        1.808,
         0.828
       ],
       "bBoxSW": [
-        -0.188,
+        -0.212,
         0.372
       ]
     },
