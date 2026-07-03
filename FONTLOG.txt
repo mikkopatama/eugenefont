@@ -11,6 +11,11 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+
+3 July 2026 (v. 1.41)
+
+Improvements to all tuplet numbers and time signature number 9
+
 1 July 2026 (v. 1.4)
 
 - Corrected wiggleTrill spacing issue: now the trill wiggles with different speeds should connect smoothly

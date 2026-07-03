@@ -22,6 +22,8 @@
     <string>_ornamentT_urnT_rillP_refix.glif</string>
     <key>_ornamentTurnTrillSuffix</key>
     <string>_ornamentT_urnT_rillS_uffix.glif</string>
+    <key>_tuplet2.001</key>
+    <string>_tuplet2.001.glif</string>
     <key>accidental1CommaFlat</key>
     <string>accidental1C_ommaF_lat.glif</string>
     <key>accidental1CommaSharp</key>
