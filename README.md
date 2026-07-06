@@ -17,54 +17,6 @@ Current glyph count: 627
 > Glyph coverage will expand in future releases.
 All original glyphs are designed against first-edition scans from the Bibliothèque nationale de France (Gallica).
 
-## More or less complete
-
-☑ All Staff brackets and dividers
-
-☑ 67 different [noteheads](https://w3c-cg.github.io/smufl/latest/tables/noteheads.html)
-
-☑ All slash noteheads
-
-☑ Three of the most frequently used clefs with ottava variants
-
-☑ All time signature glyphs
-
-☑ All basic flags
-
-☑ All standard accidentals
-
-☑ All Gould arrow quartertone accidentals
-
-☑ All Stein-Zimmermann accidentals
-
-☑ All rests
-
-☑ All bar repeat signs
-
-☑ All common ornaments
-
-☑ All [Precomposed trills and mordents](https://w3c-cg.github.io/smufl/latest/tables/precomposed-trills-and-mordents.html)
-
-☑ All tuplet numbers
-
-☑ All [Articulations](https://w3c-cg.github.io/smufl/latest/tables/articulation.html)
-
-☑ All Octave glyphs
-
-☑ String techniques
-
-☑ Brass techniques
-
-☑ Majority of Wind techniques
-
-## Goals for future releases in order of importance
-
-☐ Wind playing techniques
-
-☐ More noteheads, not necessarily all in the SMuFL standard
-
-
-
 
 ---
 
@@ -78,10 +30,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
 | `EugeneText.otf` | SMuFL-compliant OpenType music text font |
-| `EugeneStrong.otf` | Bolder variant of the font |
-| `EugeneStrongText.otf` | Bolder variant of the text font |
 | `Eugene.json` | SMuFL font metadata |
-| `EugeneStrong.json` | SMuFL font metadata for the stronger variant |
 | `EugeneSampleScores.pdf` | A collection of sample scores engraved with Eugene |
 | `LICENSE.txt` | SIL Open Font License 1.1 |
 | `FONTLOG.txt` | Change log |
