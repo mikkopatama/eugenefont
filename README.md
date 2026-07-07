@@ -4,8 +4,9 @@
 
 Eugene is a [SMuFL](https://w3c-cg.github.io/smufl/latest/)-compliant OpenType music font inspired by the engraving style found on *E. Fromont* publications and other French sheet music published between 1890-1910.
 The primary visual references are Debussy works from the Fromont catalog, including: Prélude à "l'Après-midi d'un faune" (1895), Ariettes Oubliées (1903), Suite bergamasque (1905). Other references include Durand publications from the same era.
-
 The font is named after Eugène Fromont, founder of the publishing house.
+
+[Poincon](https://github.com/mikkopatama/poinconfont) is a version of Eugene mapped for Sibelius notation software.  
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
