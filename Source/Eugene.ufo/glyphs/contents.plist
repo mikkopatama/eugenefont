@@ -542,6 +542,8 @@
     <string>keyboardP_edalP_edN_oD_ot.glif</string>
     <key>keyboardPedalUp</key>
     <string>keyboardP_edalU_p.glif</string>
+    <key>metNote16thUp</key>
+    <string>metN_ote16thU_p.glif</string>
     <key>metNote8thDown</key>
     <string>metN_ote8thD_own.glif</string>
     <key>metNote8thUp</key>

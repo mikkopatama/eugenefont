@@ -12,6 +12,17 @@ Change log
 ----------
 
 
+9 July 2026 (v. 1.42)
+
+Redesigned both 8th note flags, added improved tuplet numbers to Eugene Text.otf, copied some new symbols to Eugene Text.
+
+- Modified:
+	flag8thUp
+	flag8thDown
+
+- Added:
+	metNote16thUp
+
 3 July 2026 (v. 1.41)
 
 Improvements to all tuplet numbers and time signature number 9

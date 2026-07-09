@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "1.410",
+  "fontVersion": "1.420",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -3069,8 +3069,8 @@
     },
     "flag8thDown": {
       "bBoxNE": [
-        1.218,
-        2.624
+        1.093,
+        2.905
       ],
       "bBoxSW": [
         -0.0,
@@ -3079,12 +3079,12 @@
     },
     "flag8thUp": {
       "bBoxNE": [
-        0.968,
+        0.958,
         0.024
       ],
       "bBoxSW": [
         0.0,
-        -2.819
+        -2.767
       ]
     },
     "gClef": {
@@ -3377,6 +3377,16 @@
         -0.456
       ]
     },
+    "metNote16thUp": {
+      "bBoxNE": [
+        2.177,
+        2.832
+      ],
+      "bBoxSW": [
+        0.192,
+        -0.56
+      ]
+    },
     "metNote8thDown": {
       "bBoxNE": [
         1.222,
@@ -3479,7 +3489,7 @@
     },
     "note8thDown": {
       "bBoxNE": [
-        1.218,
+        1.171,
         0.645
       ],
       "bBoxSW": [
@@ -3489,7 +3499,7 @@
     },
     "note8thUp": {
       "bBoxNE": [
-        1.992,
+        1.982,
         3.552
       ],
       "bBoxSW": [
@@ -6009,32 +6019,32 @@
     },
     "timeSig9": {
       "bBoxNE": [
-        1.464,
-        1.084
+        1.492,
+        1.004
       ],
       "bBoxSW": [
         0.1,
-        -1.032
+        -1.053
       ]
     },
     "timeSig9Reversed": {
       "bBoxNE": [
         1.452,
-        1.084
+        1.004
       ],
       "bBoxSW": [
-        0.088,
-        -1.032
+        0.06,
+        -1.053
       ]
     },
     "timeSig9Turned": {
       "bBoxNE": [
         1.452,
-        1.044
+        1.065
       ],
       "bBoxSW": [
-        0.088,
-        -1.072
+        0.06,
+        -0.992
       ]
     },
     "timeSigBracketLeft": {
