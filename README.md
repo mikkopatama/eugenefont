@@ -10,7 +10,7 @@ The font is named after Eugène Fromont, founder of the publishing house.
 
 The primary creator of the font is Mikko Patama. [Buy me a coffee](https://buymeacoffee.com/mikkopatama) if you wish to support this project.
 
-Current glyph count: 628
+Current glyph count: 627
 
 <img src="/Screenshot.png" />
 
@@ -59,8 +59,6 @@ Manual installation:
 ## License
 
 Eugene is released under the [SIL Open Font License, Version 1.1](LICENSE.txt).
-
-Bravura glyphs used as fallback are copyright © Steinberg Media Technologies GmbH, also released under the SIL Open Font License 1.1. Source: [https://github.com/steinbergmedia/bravura](https://github.com/steinbergmedia/bravura).
 
 ---
 
