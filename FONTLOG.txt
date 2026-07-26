@@ -11,6 +11,15 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+26 July 2026 (v. 1.43)
+
+Updated metadata with proper markings for oversized noteheads. Now Eugene has functional larger noteheads and doesn't fall back to Bravura.
+
+- Modified
+	noteheadBlackOversized
+	noteheadHalfOversized
+	noteheadWholeOversized
+	noteheadDoubleWholeOversized
 
 9 July 2026 (v. 1.42)
 
