@@ -27,7 +27,6 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 |---|---|
 | `Installers` | Easy to use installer files for macOS and Windows |
 | `Source/Eugene.ufo` | Font source files, Unified Font Object package |
-| `Comparison Eugene-Bravura-Leland.pdf` | Comparison between Eugene and the default music fonts of Dorico and MuseScore |
 | `Eugene glyphs.pdf` | List of all original Eugene music symbols in the latest build |
 | `Eugene.otf` | SMuFL-compliant OpenType music font |
 | `EugeneText.otf` | SMuFL-compliant OpenType music text font |
