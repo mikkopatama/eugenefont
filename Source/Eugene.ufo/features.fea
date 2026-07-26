@@ -72,17 +72,10 @@ feature ss05 {
 featureNames {
 	name "";
 };
-featureNames {
-	name "";
-};
-script DFLT;
-language dflt;
-lookup SUB_2 {
-	sub noteheadBlack from [noteheadBlackOversized];
-	sub noteheadHalf from [noteheadHalfOversized];
-	sub noteheadWhole from [noteheadWholeOversized];
-	sub noteHeadDoubleWhole from [noteheadDoubleWholeOversized];
-} SUB_2;
+sub noteheadBlack from [noteheadBlackOversized];
+sub noteheadHalf from [noteheadHalfOversized];
+sub noteheadWhole from [noteheadWholeOversized];
+sub noteHeadDoubleWhole from [noteheadDoubleWholeOversized];
 } ss05;
 
 feature salt {

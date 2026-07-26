@@ -50,10 +50,4 @@ uniE241
       <point x="-1" y="-6"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-07-09 13:28:46 +0000</string>
-    </dict>
-  </lib>
 </glyph>
