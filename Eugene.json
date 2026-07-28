@@ -1,6 +1,6 @@
 {
   "fontName": "Eugene",
-  "fontVersion": "1.430",
+  "fontVersion": "1.440",
   "engravingDefaults": {
     "arrowShaftThickness": 0.16,
     "barlineSeparation": 0.3,
@@ -11,7 +11,7 @@
     "dashedBarlineGapLength": 0.67,
     "dashedBarlineThickness": 0.16,
     "hairpinThickness": 0.16,
-    "legerLineExtension": 0.24,
+    "legerLineExtension": 0.3,
     "legerLineThickness": 0.15,
     "lyricLineThickness": 0.1,
     "octaveLineThickness": 0.14,
@@ -19,13 +19,13 @@
     "repeatBarlineDotSeparation": 0.16,
     "repeatEndingLineThickness": 0.16,
     "slurEndpointThickness": 0.09,
-    "slurMidpointThickness": 0.21,
-    "staffLineThickness": 0.1,
-    "stemThickness": 0.09,
+    "slurMidpointThickness": 0.24,
+    "staffLineThickness": 0.11,
+    "stemThickness": 0.12,
     "subBracketThickness": 0.16,
     "textEnclosureThickness": 0.16,
-    "thickBarlineThickness": 0.45,
-    "thinBarlineThickness": 0.13,
+    "thickBarlineThickness": 0.5,
+    "thinBarlineThickness": 0.14,
     "tieEndpointThickness": 0.09,
     "tieMidpointThickness": 0.2,
     "tupletBracketThickness": 0.11,
@@ -600,7 +600,7 @@
     "flag16thUp": {
       "stemUpNW": [
         0.0,
-        -0.076
+        -0.036
       ]
     },
     "flag16thDown": {
@@ -612,7 +612,7 @@
     "flag32ndUp": {
       "stemUpNW": [
         0.0,
-        0.748
+        0.632
       ]
     },
     "flag32ndDown": {
@@ -624,61 +624,61 @@
     "flag64thUp": {
       "stemUpNW": [
         0.0,
-        1.584
+        1.456
       ]
     },
     "flag64thDown": {
       "stemDownSW": [
         0.0,
-        -1.752
+        -1.952
       ]
     },
     "flag128thUp": {
       "stemUpNW": [
         0.0,
-        2.392
+        2.168
       ]
     },
     "flag128thDown": {
       "stemDownSW": [
         0.0,
-        -2.588
+        -2.628
       ]
     },
     "flag256thUp": {
       "stemUpNW": [
         0.0,
-        3.324
+        2.976
       ]
     },
     "flag256thDown": {
       "stemDownSW": [
         0.0,
-        -3.448
+        -3.316
       ]
     },
     "flag512thUp": {
       "stemUpNW": [
         0.0,
-        4.296
+        3.864
       ]
     },
     "flag512thDown": {
       "stemDownSW": [
         0.0,
-        -4.272
+        -3.996
       ]
     },
     "flag1024thUp": {
       "stemUpNW": [
         0.0,
-        5.336
+        4.712
       ]
     },
     "flag1024thDown": {
       "stemDownSW": [
         0.0,
-        -5.128
+        -4.676
       ]
     },
     "accidentalFlat": {
@@ -1159,6 +1159,78 @@
     }
   },
   "sets": {
+    "ss01": {
+      "type": "opticalVariantsSmall",
+      "description": "Smaller optical size for small staves",
+      "glyphs": [
+        {
+          "codepoint": "U+F472",
+          "name": "gClefSmall",
+          "alternateFor": "gClef"
+        },
+        {
+          "codepoint": "U+F474",
+          "name": "fClefSmall",
+          "alternateFor": "fClef"
+        },
+        {
+          "codepoint": "U+F46B",
+          "name": "dynamicPianoSmall",
+          "alternateFor": "dynamicPiano"
+        },
+        {
+          "codepoint": "U+F46C",
+          "name": "dynamicMezzoSmall",
+          "alternateFor": "dynamicMezzo"
+        },
+        {
+          "codepoint": "U+F46D",
+          "name": "dynamicForteSmall",
+          "alternateFor": "dynamicForte"
+        },
+        {
+          "codepoint": "U+F46E",
+          "name": "dynamicRinforzandoSmall",
+          "alternateFor": "dynamicRinforzando"
+        },
+        {
+          "codepoint": "U+F46F",
+          "name": "dynamicSforzandoSmall",
+          "alternateFor": "dynamicSforzando"
+        },
+        {
+          "codepoint": "U+F470",
+          "name": "dynamicZSmall",
+          "alternateFor": "dynamicZ"
+        },
+        {
+          "codepoint": "U+F471",
+          "name": "dynamicNienteSmall",
+          "alternateFor": "dynamicNiente"
+        },
+        {
+          "codepoint": "U+F469",
+          "name": "noteheadHalfSmall",
+          "alternateFor": "noteheadHalf"
+        },
+        {
+          "codepoint": "U+F46A",
+          "name": "noteheadBlackSmall",
+          "alternateFor": "noteheadBlack"
+        }
+      ]
+    },
+    "salt": {
+      "type": "opticalVariantsSmall",
+      "description": "Smaller optical size for small staves",
+      "glyphs": [
+        {
+          "codepoint": "U+F400",
+          "name": "braceSmall",
+          "alternateFor": "brace"
+        }
+      ]
+    },
     "noteheadSetOversized": {
       "description": "Oversized noteheads",
       "type": "noteheadsLarge",
@@ -2795,8 +2867,8 @@
     },
     "note16thUp": {
       "bBoxNE": [
-        2.168,
-        3.548
+        2.164,
+        3.644
       ],
       "bBoxSW": [
         0.16,
@@ -2810,7 +2882,7 @@
       ],
       "bBoxSW": [
         -0.0,
-        -3.668
+        -3.98
       ]
     },
     "augmentationDot": {
@@ -3215,142 +3287,142 @@
     },
     "flag16thUp": {
       "bBoxNE": [
-        0.969,
-        0.032
+        0.968,
+        0.044
       ],
       "bBoxSW": [
-        0.0,
-        -3.125
+        0.004,
+        -3.402
       ]
     },
     "flag16thDown": {
       "bBoxNE": [
-        1.02,
-        3.04
+        1.066,
+        3.532
       ],
       "bBoxSW": [
         0.0,
-        -0.108
+        -0.076
       ]
     },
     "flag32ndUp": {
       "bBoxNE": [
-        0.983,
-        0.852
+        0.964,
+        0.692
       ],
       "bBoxSW": [
         0.0,
-        -3.125
+        -3.402
       ]
     },
     "flag32ndDown": {
       "bBoxNE": [
-        1.02,
-        2.976
+        1.067,
+        2.932
       ],
       "bBoxSW": [
         0.0,
-        -0.936
+        -1.316
       ]
     },
     "flag64thUp": {
       "bBoxNE": [
-        0.973,
-        1.672
+        0.964,
+        1.516
       ],
       "bBoxSW": [
         0.0,
-        -3.125
+        -3.402
       ]
     },
     "flag64thDown": {
       "bBoxNE": [
-        1.02,
-        2.952
+        1.067,
+        2.932
       ],
       "bBoxSW": [
         0.0,
-        -1.848
+        -2.0
       ]
     },
     "flag128thUp": {
       "bBoxNE": [
-        0.977,
-        2.492
+        0.964,
+        2.228
       ],
       "bBoxSW": [
         0.0,
-        -3.132
+        -3.402
       ]
     },
     "flag128thDown": {
       "bBoxNE": [
-        1.02,
-        2.952
+        1.067,
+        2.932
       ],
       "bBoxSW": [
         0.0,
-        -2.68
+        -2.684
       ]
     },
     "flag256thUp": {
       "bBoxNE": [
-        0.971,
-        3.44
+        0.964,
+        3.036
       ],
       "bBoxSW": [
         0.0,
-        -3.128
+        -3.402
       ]
     },
     "flag256thDown": {
       "bBoxNE": [
-        1.02,
-        2.952
+        1.067,
+        2.932
       ],
       "bBoxSW": [
         0.0,
-        -3.524
+        -3.364
       ]
     },
     "flag512thUp": {
       "bBoxNE": [
-        0.976,
-        4.412
+        0.964,
+        3.924
       ],
       "bBoxSW": [
         0.0,
-        -3.128
+        -3.402
       ]
     },
     "flag512thDown": {
       "bBoxNE": [
-        1.02,
-        2.952
+        1.067,
+        2.932
       ],
       "bBoxSW": [
         0.0,
-        -4.364
+        -4.044
       ]
     },
     "flag1024thUp": {
       "bBoxNE": [
-        0.976,
-        5.416
+        0.964,
+        4.772
       ],
       "bBoxSW": [
         0.0,
-        -3.132
+        -3.402
       ]
     },
     "flag1024thDown": {
       "bBoxNE": [
-        1.02,
-        2.952
+        1.067,
+        2.932
       ],
       "bBoxSW": [
         0.0,
-        -5.208
+        -4.724
       ]
     },
     "accidentalFlat": {
@@ -6775,8 +6847,8 @@
     },
     "metNote8thUp": {
       "bBoxNE": [
-        2.02,
-        2.832
+        2.01,
+        2.544
       ],
       "bBoxSW": [
         -0.002,
@@ -6785,18 +6857,18 @@
     },
     "metNote8thDown": {
       "bBoxNE": [
-        1.222,
+        1.171,
         0.557
       ],
       "bBoxSW": [
-        0.0,
-        -2.892
+        -0.0,
+        -2.664
       ]
     },
     "metNote16thUp": {
       "bBoxNE": [
-        2.177,
-        2.832
+        2.172,
+        3.084
       ],
       "bBoxSW": [
         0.192,

@@ -7,13 +7,26 @@ noteheadSlashedDoubleWhole1
 </note>
   <anchor x="96" y="5" name="noteheadOrigin"/>
   <outline>
-    <component base="noteHeadDoubleWhole"/>
-    <component base="_ornamentPole" xScale="0.5736" xyScale="-0.8192" yScale="0.5736" yxScale="0.8192" xOffset="-200" yOffset="472"/>
+    <component base="noteHeadDoubleWhole" identifier="61CCEFFC"/>
+    <component base="_ornamentPole" xScale="0.57357" xyScale="-0.81916" yScale="0.57357" yxScale="0.81916" xOffset="-200" yOffset="472" identifier="811FABD7"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-01 10:53:35 +0000</string>
+      <string>2026-07-28 09:43:40 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>61CCEFFC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>811FABD7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

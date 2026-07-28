@@ -12,8 +12,6 @@
     <integer>-2012</integer>
     <key>familyName</key>
     <string>Eugene</string>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/05/10 21:40:57</string>
     <key>openTypeHheaAscender</key>
@@ -70,8 +68,6 @@ DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Regular</string>
     <key>openTypeNameUniqueID</key>
     <string>1.4;MIPA;Eugene</string>
     <key>openTypeOS2Panose</key>
@@ -150,7 +146,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>430</integer>
+    <integer>440</integer>
     <key>xHeight</key>
     <integer>275</integer>
   </dict>

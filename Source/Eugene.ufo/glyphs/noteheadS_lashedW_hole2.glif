@@ -6,13 +6,26 @@
 noteheadSlashedWhole2
 </note>
   <outline>
-    <component base="noteheadWhole"/>
-    <component base="_ornamentPole" xScale="0.6749" xyScale="0.8043" yScale="0.6749" yxScale="-0.8043" xOffset="-155" yOffset="-624"/>
+    <component base="noteheadWhole" identifier="F88AFDC6"/>
+    <component base="_ornamentPole" xScale="0.67487" xyScale="0.80426" yScale="0.67487" yxScale="-0.80426" xOffset="-155" yOffset="-624" identifier="7236DBDF"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 12:06:03 +0000</string>
+      <string>2026-07-28 09:43:40 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7236DBDF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F88AFDC6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

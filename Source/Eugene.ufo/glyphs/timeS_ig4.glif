@@ -17,13 +17,9 @@ uniE084
       <point x="340" y="-215" type="curve" smooth="yes"/>
       <point x="313" y="-215"/>
       <point x="304" y="-204"/>
-      <point x="304" y="-175" type="curve"/>
-      <point x="304" y="-183"/>
-      <point x="304" y="-167"/>
-      <point x="304" y="-147" type="curve" smooth="yes"/>
-      <point x="304" y="-147"/>
-      <point x="336" y="-147"/>
-      <point x="343" y="-147" type="curve"/>
+      <point x="304" y="-175" type="curve" smooth="yes"/>
+      <point x="304" y="-147" type="line"/>
+      <point x="343" y="-147" type="line" smooth="yes"/>
       <point x="356" y="-147"/>
       <point x="357" y="-131"/>
       <point x="357" y="-119" type="curve" smooth="yes"/>
@@ -33,7 +29,7 @@ uniE084
       <point x="305" y="-91"/>
       <point x="304" y="-74"/>
       <point x="304" y="-74" type="curve"/>
-      <point x="304" y="52" type="line"/>
+      <point x="304" y="52" type="line" smooth="yes"/>
       <point x="304" y="58"/>
       <point x="300" y="68"/>
       <point x="289" y="68" type="curve" smooth="yes"/>
@@ -44,12 +40,10 @@ uniE084
       <point x="195" y="-33"/>
       <point x="192" y="-90"/>
       <point x="192" y="-90" type="curve"/>
-      <point x="183" y="-90"/>
-      <point x="140" y="-90"/>
-      <point x="118" y="-90" type="curve" smooth="yes"/>
+      <point x="118" y="-90" type="line" smooth="yes"/>
       <point x="107" y="-90"/>
       <point x="98" y="-90"/>
-      <point x="95" y="-88" type="curve" smooth="yes"/>
+      <point x="95" y="-88" type="curve"/>
       <point x="90" y="-81"/>
       <point x="93" y="-71"/>
       <point x="94" y="-62" type="curve" smooth="yes"/>
@@ -77,15 +71,9 @@ uniE084
       <point x="28" y="-147"/>
       <point x="38" y="-147" type="curve" smooth="yes"/>
       <point x="158" y="-147" type="line"/>
-      <point x="158" y="-147"/>
-      <point x="190" y="-147"/>
-      <point x="190" y="-147" type="curve"/>
-      <point x="190" y="-147"/>
-      <point x="190" y="-159"/>
-      <point x="190" y="-168" type="curve" smooth="yes"/>
-      <point x="190" y="-174"/>
-      <point x="190" y="-179"/>
-      <point x="190" y="-183" type="curve"/>
+      <point x="190" y="-147" type="line"/>
+      <point x="190" y="-168" type="line"/>
+      <point x="190" y="-183" type="line" smooth="yes"/>
       <point x="189" y="-205"/>
       <point x="181" y="-215"/>
       <point x="130" y="-215" type="curve" smooth="yes"/>
@@ -99,7 +87,7 @@ uniE084
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-06-11 16:22:13 +0000</string>
+      <string>2026-07-28 12:36:49 +0000</string>
     </dict>
   </lib>
 </glyph>

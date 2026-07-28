@@ -11,6 +11,27 @@ https://mikkopatama.com/eugenefont
 Change log
 ----------
 
+28 July 2026 (v. 1.44)
+
+The big flag update. Since 1.42 saw new 8th note flags, this update brings new flags from 16th note flags all the way to 1024th note flags, so the style is now consistent and tidy.
+
+- Modified:
+	flag16thUp
+	flag16thDown
+	flag32ndUp
+	flag32ndDown
+	flag64thUp
+	flag64thDown
+	flag128thUp
+	flag128thDown
+	flag256thUp
+	flag256thDown
+	flag512thUp
+	flag512thDown
+	flag1024thUp
+	flag1024thDown
+
+
 26 July 2026 (v. 1.43)
 
 Updated metadata with proper markings for oversized noteheads. Now Eugene has functional larger noteheads and doesn't fall back to Bravura.

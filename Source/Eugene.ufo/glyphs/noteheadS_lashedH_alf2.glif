@@ -8,13 +8,26 @@ noteheadSlashedHalf2
   <anchor x="10" y="-55" name="stemDownNW"/>
   <anchor x="295" y="38" name="stemUpSE"/>
   <outline>
-    <component base="noteheadHalf" xOffset="10"/>
-    <component base="_ornamentPole" xScale="0.6243" xyScale="0.642" yScale="0.6243" yxScale="-0.642" xOffset="-180" yOffset="-508"/>
+    <component base="noteheadHalf" xOffset="10" identifier="407745E5"/>
+    <component base="_ornamentPole" xScale="0.6243" xyScale="0.642" yScale="0.6243" yxScale="-0.642" xOffset="-180" yOffset="-508" identifier="C38DB57B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-05-25 12:04:24 +0000</string>
+      <string>2026-07-28 09:43:40 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>407745E5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C38DB57B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -574,6 +574,8 @@
     <string>noteH_alfU_p.glif</string>
     <key>noteHeadDoubleWhole</key>
     <string>noteH_eadD_oubleW_hole.glif</string>
+    <key>noteHeadDoubleWhole.001</key>
+    <string>noteH_eadD_oubleW_hole.001.glif</string>
     <key>noteQuarterDown</key>
     <string>noteQ_uarterD_own.glif</string>
     <key>noteQuarterUp</key>
