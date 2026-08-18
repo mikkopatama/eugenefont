@@ -7,7 +7,7 @@ INSTALL INSTRUCTIONS
 --------------------
 
 Windows: 
-1. Run Eugene-Win-1.44.exe. The installer will require admin priviledges and Windows User Account Control is going to ask "Do you want to allow this app from an unknown publisher to make changes to your device?". Choose "Yes" and carry on with the installation.
+1. Run Eugene-Win-1.44.exe. The installer will require admin privileges and Windows User Account Control is going to ask "Do you want to allow this app from an unknown publisher to make changes to your device?". Choose "Yes" and carry on with the installation.
 
 2. After running the installation, go to C:\Program Files\Common files\ and check whether you can find a folder named SMuFL\fonts\Eugene. If not, create the folders and copy Eugene.json to that folder.
 
